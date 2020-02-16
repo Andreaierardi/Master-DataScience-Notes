@@ -1,0 +1,41 @@
+[_SID_]
+Version=14.0
+Revision=14.0
+Platform_long=Mac OS X 64-bit
+Platform_short=m64
+Order=9C9KS4
+License_prod=JMP
+Setnumid=70118127
+SID_schema=2
+SID_header=JMP 14.0
+[_Info_]
+[_FileData_]
+$_Filename=JMP.per
+$_Path=.\
+$_Date=
+$_Time=
+$_Stream=-------------------- BEGIN --------------------
+/* Do NOT modify the contents of this file. Version: 14.0 */
+ Platform=Macintosh
+ Product=JMPPRO      
+ Release=14.0.x
+ LType=SiteLicense
+ EMode=Full
+ SiteID=70118127
+ MaxNUsers=999
+ Starts=01JAN2001
+ Expires=31DEC2020
+ Administrator= 
+ Organization=UNI.MILANO - CAMPUS JMP  MAC 32-64BIT
+ Password1=65614c7f56385e6a1e85f964aa4e5c37
+ Department=
+$_Stream=--------------------- END ---------------------
+$_Filename=tletter.txt
+$_Path=.\
+$_Date=
+$_Time=
+$_Stream=-------------------- BEGIN --------------------
+Mac OS X 64-bit
+JMP Pro	31DEC2020
+$_Stream=--------------------- END ---------------------
+[_EOF_]

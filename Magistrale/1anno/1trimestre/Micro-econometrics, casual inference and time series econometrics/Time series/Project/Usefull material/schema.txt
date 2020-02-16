@@ -1,0 +1,12 @@
+Grafico tra due intervalli short e long sembra che lungo anticipi shor
+- Test root root. P> 5% possiamo dire che ci sia unit root→not stationarity
+- Test unit root I(1) con p value minore di 5% quindi rigetto unit root su I(1). Quindi serie iniziale ha
+I(1).
+- Cointegration test per determinare il VAR. Abbiamo usato il test Engel-Granger e il risultato ci dice
+che rifiutiamo l’hypotesi nulla ovvero serie sono cointegrated.
+- PFS unit root test. E’ risultato che fossero I(0) e già dal grafico si nota che la serie è stazionaria.
+Abbiamo fatto unit root, viene p value 0 < 5% reject H0, therefore is stationary.
+- VAR→assumption series non stationary and cointegrated. SO we have to apply a VECM. Prima
+cosa, vedere il numero di lag significative da inserire nel nostro modello seguendo Swartz. Consiglia 2 lags. Ora torniamo indietro e possiamo tornare indietro con 2 lags per il VEC poiché in questo non è possibile vedere i lags. Abbiamo specificato time series NO trend e Intercept (point. 2).
+- Granger causality VECM→interesse lungo periodo anticipa quello a breve periodo? Non possimao escludere dall’equazione di M2 i valori passati di Y2 poiché p value inferiore a 5%.
+- IRF→ci dice come risponde una variabile rispetto all’altra.

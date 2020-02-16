@@ -1,0 +1,41 @@
+[_SID_]
+Version=14.0
+Revision=14.0
+Platform_long=Microsoft Windows for x64
+Platform_short=wx6
+Order=9C9KS2
+License_prod=JMP
+Setnumid=70118126
+SID_schema=2
+SID_header=JMP 14.0
+[_Info_]
+[_FileData_]
+$_Filename=JMP.per
+$_Path=.\
+$_Date=
+$_Time=
+$_Stream=-------------------- BEGIN --------------------
+/* Do NOT modify the contents of this file. Version: 14.0 */
+ Platform=Windows
+ Product=JMPPRO      
+ Release=14.0.x
+ LType=SiteLicense
+ EMode=Full
+ SiteID=70118126
+ MaxNUsers=999
+ Starts=01JAN2001
+ Expires=31DEC2020
+ Administrator= 
+ Organization=UNI.MILANO- CAMPUS JMP  WNDW32-64BIT
+ Password1=d61d7650f3778f1809df60cd6c9bbfbe
+ Department=
+$_Stream=--------------------- END ---------------------
+$_Filename=tletter.txt
+$_Path=.\
+$_Date=
+$_Time=
+$_Stream=-------------------- BEGIN --------------------
+Microsoft Windows for x64
+JMP Pro	31DEC2020
+$_Stream=--------------------- END ---------------------
+[_EOF_]
