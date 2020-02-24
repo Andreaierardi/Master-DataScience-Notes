@@ -1,4 +1,4 @@
-<h1 align="center"> Master in DataScience and Economics - Notes </h1>
+<h1 align="center"> Master of Science in Data Science and Economics (DSE) - Notes </h1>
 
 ## Università degli Studi di Milano 
 <p> Appunti Laurea triennale Informatica - Università del Piemonte Orientale - Alessandria </p>
