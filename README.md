@@ -44,7 +44,7 @@ Andrea Ierardi
 ### 2° Year - 2020/2021
 - __1° trimester 12 CFU/ECTS__
     - *Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy* (total 12 CFU/ECTS):
-       - [Unit Cybersecurity and Privacy Preservation Techniques]() - Module (6 CFU/ECTS)
+       - [Cybersecurity and Privacy Preservation Techniques]() - Module (6 CFU/ECTS)
        - [Digital Security and Privacy]() - Module (6 CFU/ECTS)
 
 - __2° trimester 12 CFU/ECTS__
