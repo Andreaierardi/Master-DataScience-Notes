@@ -37,15 +37,22 @@ Andrea Ierardi
   -  Coding for Data Science and Data Management
        - [Data Management]() - Module (6 CFU/ETCS)
 
+- Seminar/Laboratories - 3 CFU/ECTS
+  - Short Course Data Science with Prof. Kenett (total 3 CFU/ECTS)
+    - [Short Course](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/Seminars/Short%20Course%20Data%20Science%20Prof.%20Kenett) 
 ### 2° Year - 2020/2021
-- 1° trimester 
+- 1° trimester 12 CFU/ECTS
     - Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy (total 12 CFU/ECTS):
        - [Unit Cybersecurity and Privacy Preservation Techniques]() - Module (6 CFU/ECTS)
        - [Digital Security and Privacy]() - Module (6 CFU/ECTS)
-- 2° trimester
+          <br>
+
+- 2° trimester 12 CFU/ECTS
      - Algorithms for Massive Data, Cloud and Distributed Computing (total 12 CFU/ECTS):
        - [Algorithms for Massive Data]() - Module (6 CFU/ECTS)
        - [Cloud and Distributed Computing]() - Module (6 CFU/ECTS)
+          <br>
+
 - 3° trimester - 24 CFU/ECTS
 
    <br>
