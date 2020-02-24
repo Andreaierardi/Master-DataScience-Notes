@@ -25,8 +25,8 @@ Andrea Ierardi
     - Micro-econometrics, casual inference and time series econometric:
         - [Micro-econometrics, Causal Inference](https://github.com/Andreaierardi/Appunti-Triennale-Informatica/tree/master/1%C2%B0Anno/2%C2%B0semestre/Fisica) - Module (6 CFU/ECTS)
     -  Coding for Data Science and Data Management
-       - [Coding for Data Science - R language ](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/2trimestre/Coding%20for%20DataScience) - Module (3 CFU/ECTS) 
-       - [Coding for Data Science - Python languae](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1anno/2trimestre/Coding%20for%20DataScience/Python) - Module (3 CFU/ECTS) 
+       - [Coding for Data Science - R language ](https://github.com/Andreaierardi/MilanPollution) - Module (3 CFU/ECTS) 
+       - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1anno/2trimestre/Coding%20for%20DataScience/Python) - Module (3 CFU/ECTS) 
    <br>
 - 3° semester 
 
