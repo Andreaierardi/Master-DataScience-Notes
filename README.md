@@ -52,7 +52,7 @@ Andrea Ierardi
        - [Algorithms for Massive Data]() - Module (6 CFU/ECTS)
        - [Cloud and Distributed Computing]() - Module (6 CFU/ECTS)
 
-- __3° trimester - 24 CFU/ECTS__
+- __3° trimester - 0 CFU/ECTS__
 
    <br>
  
