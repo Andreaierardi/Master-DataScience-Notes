@@ -17,7 +17,7 @@ Andrea Ierardi
     
 - 2° semester 
     - [Advanced Microeconomics and Macroeconomics - Advanced microeconomics Module](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/2trimestre/Advanced%20Microeconomics/Notes)
-    - [Micro-econometrics, Causal Inference and Time Series Econometrics - Micro-econometrics and Causal Inference Module](https://github.com/Andreaierardi/Appunti-Triennale-Informatica/tree/master/1%C2%B0Anno/2%C2%B0semestre/Fisica)      (Sitta) 
+    - [Micro-econometrics, Causal Inference and Time Series Econometrics - Micro-econometrics and Causal Inference Module](https://github.com/Andreaierardi/Appunti-Triennale-Informatica/tree/master/1%C2%B0Anno/2%C2%B0semestre/Fisica)  
     - [Coding for Data Science - Module](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/2trimestre/Coding%20for%20DataScience) 
    <br>
 - 3° semester 
