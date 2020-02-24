@@ -12,14 +12,21 @@ Andrea Ierardi
 
 ### 1° year - 2019/2020
 - 1° semester 
-    - Graph Theory, Discrete Mathematics and Optimization
-       - [Graph Theory](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization)
-    - [Micro-econometrics, casual inference and time series econometrics](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Micro-econometrics%2C%20casual%20inference%20and%20time%20series%20econometrics/Time%20series) 
+    - Graph Theory, Discrete Mathematics and Optimization (total 12 CFU):
+       - [Discrete Mathematics](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization/Discrete%20Mathematics)- Module (3 CFU)
+       - [Graph Theory](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization/Graph%20Theory)- Module (3 CFU)
+       - [Optimization](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization/Optimization) - Module (6 CFU)
+    - Micro-econometrics, casual inference and time series econometric:
+       - [Time series](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Micro-econometrics%2C%20casual%20inference%20and%20time%20series%20econometrics/Time%20series) - Module (6 CFU)
     
 - 2° semester 
-    - [Advanced Microeconomics and Macroeconomics - Advanced microeconomics Module](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/2trimestre/Advanced%20Microeconomics/Notes)
-    - [Micro-econometrics, Causal Inference and Time Series Econometrics - Micro-econometrics and Causal Inference Module](https://github.com/Andreaierardi/Appunti-Triennale-Informatica/tree/master/1%C2%B0Anno/2%C2%B0semestre/Fisica)  
-    - [Coding for Data Science - Module](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/2trimestre/Coding%20for%20DataScience) 
+    - Advanced Microeconomics and Macroeconomics (total 12 CFU):
+       - [Advanced microeconomics](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/2trimestre/Advanced%20Microeconomics/Notes) - Module (6 CFU)
+    - Micro-econometrics, casual inference and time series econometric:
+        - [Micro-econometrics, Causal Inference](https://github.com/Andreaierardi/Appunti-Triennale-Informatica/tree/master/1%C2%B0Anno/2%C2%B0semestre/Fisica) - Module (6 CFU)
+    -  Coding for Data Science and Data Management
+       - [Coding for Data Science - R language ](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/2trimestre/Coding%20for%20DataScience) - Module (3 CFU) 
+       - [ Coding for Data Science - Python languae]() - Module (3 CFU) 
    <br>
 - 3° semester 
 
