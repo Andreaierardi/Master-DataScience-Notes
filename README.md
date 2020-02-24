@@ -12,7 +12,8 @@ Andrea Ierardi
 
 ### 1° year - 2019/2020
 - 1° semester 
-    - [Graph Theory, Discrete Mathematics and Optimization](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization)
+    - Graph Theory, Discrete Mathematics and Optimization
+       - [Graph Theory](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization)
     - [Micro-econometrics, casual inference and time series econometrics](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Micro-econometrics%2C%20casual%20inference%20and%20time%20series%20econometrics/Time%20series) 
     
 - 2° semester 
