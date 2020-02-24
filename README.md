@@ -27,7 +27,6 @@ Andrea Ierardi
     -  Coding for Data Science and Data Management (total 12 CFU/ECTS)
        - [Coding for Data Science - R language ](https://github.com/Andreaierardi/MilanPollution) - Module (3 CFU/ECTS) 
        - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1anno/2trimestre/Coding%20for%20DataScience/Python) - Module (3 CFU/ECTS) 
-   <br>
 - 3° trimester - 24 CFU/ECTS
   - Advanced Microeconomics and Macroeconomics (total 12 CFU/ECTS):
        - [Advanced Macroeconomics]() - Module (6 CFU/ECTS)
@@ -40,18 +39,18 @@ Andrea Ierardi
 - Seminar/Laboratories - 3 CFU/ECTS
   - Short Course Data Science with Prof. Kenett (total 3 CFU/ECTS)
     - [Short Course](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/Seminars/Short%20Course%20Data%20Science%20Prof.%20Kenett) 
+              <br>
+
 ### 2° Year - 2020/2021
 - 1° trimester 12 CFU/ECTS
     - Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy (total 12 CFU/ECTS):
        - [Unit Cybersecurity and Privacy Preservation Techniques]() - Module (6 CFU/ECTS)
        - [Digital Security and Privacy]() - Module (6 CFU/ECTS)
-          <br>
 
 - 2° trimester 12 CFU/ECTS
      - Algorithms for Massive Data, Cloud and Distributed Computing (total 12 CFU/ECTS):
        - [Algorithms for Massive Data]() - Module (6 CFU/ECTS)
        - [Cloud and Distributed Computing]() - Module (6 CFU/ECTS)
-          <br>
 
 - 3° trimester - 24 CFU/ECTS
 
