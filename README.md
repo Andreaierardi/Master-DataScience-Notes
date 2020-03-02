@@ -1,6 +1,6 @@
-<h1 align="center"> Master of Science in Data Science and Economics (DSE) <br> Notes and Projects </h1>
+<h1 align="center"> Master of Science in Data Science and Economics (DSE) <br> :closed_book: Notes and Projects  :computer:</h1>
 
-## Università degli Studi di Milano 
+## Università degli Studi di Milano  :mortar_board:
 <p> Notes, projects and slides of the Master of Science in Data Science and Economics (DSE) </p>
 
 [Course page](https://www.unimi.it/en/education/data-science-and-economics-dse)
@@ -23,6 +23,8 @@
   
 ## Years 2019 - 2021
 
+<p> NB. :no_entry: Courses have not been attended yet </p>
+
 ### 1° year - 2019/2020
 - __1° trimester - 18 CFU/ECTS__
     - *Graph Theory, Discrete Mathematics and Optimization* (total 12 CFU/ECTS):
@@ -41,29 +43,29 @@
        - [Coding for Data Science - R language ](https://github.com/Andreaierardi/MilanPollution) - Module (3 CFU/ECTS) 
        - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/2trimester/Coding%20for%20Data%20Science%20-%20Python%20language/Python) - Module (3 CFU/ECTS) 
 - __3° trimester - 24 CFU/ECTS__
-  - *Advanced Microeconomics and Macroeconomics* (total 12 CFU/ECTS):
-       - [Advanced Macroeconomics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
+  - *Advanced Microeconomics and Macroeconomics* (total 12 CFU/ECTS):  
+       - [Advanced Macroeconomics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
   - *Machine Learning, Statistical Learning, Deep Learning and Artificial Intelligence* (total 12 CFU/ECTS):
-       - [Machine Learning]() - Module (6 CFU/ECTS)
-       - [Statistical Learning, Deep Learning and Artificial Intelligence](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ETCS)
+       - [Machine Learning]() - Module (6 CFU/ECTS) :no_entry:
+       - [Statistical Learning, Deep Learning and Artificial Intelligence](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ETCS) :no_entry:
   -  *Coding for Data Science and Data Management*
-       - [Data Management](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ETCS)
+       - [Data Management](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ETCS) :no_entry:
 
-- __Seminar/Laboratories - 3 CFU/ECTS__
+- __Seminar/Laboratories - 3 CFU/ECTS__ 
   - *Short Course Data Science with Prof. Kenett* (total 3 CFU/ECTS)
     - [Short Course](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/Seminars/Short%20Course%20Data%20Science%20Prof.%20Kenett) 
               <br>
 
-### 2° Year - 2020/2021
+### 2° Year - 2020/2021  :no_entry:
 - __1° trimester 12 CFU/ECTS__
     - *Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy* (total 12 CFU/ECTS):
-       - [Cybersecurity and Privacy Preservation Techniques](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
-       - [Digital Security and Privacy](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
+       - [Cybersecurity and Privacy Preservation Techniques](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
+       - [Digital Security and Privacy](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
 
 - __2° trimester 12 CFU/ECTS__
      - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
-       - [Algorithms for Massive Data](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
-       - [Cloud and Distributed Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
+       - [Algorithms for Massive Data](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
+       - [Cloud and Distributed Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
 
 - __3° trimester - 0 CFU/ECTS__
 
