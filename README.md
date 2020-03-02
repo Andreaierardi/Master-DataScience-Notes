@@ -13,20 +13,20 @@ Andrea Ierardi
 ### 1° year - 2019/2020
 - __1° trimester - 18 CFU/ECTS__
     - *Graph Theory, Discrete Mathematics and Optimization* (total 12 CFU/ECTS):
-       - [Discrete Mathematics](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization/Discrete%20Mathematics)- Module (3 CFU/ECTS)
-       - [Graph Theory](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization/Graph%20Theory)- Module (3 CFU/ECTS)
-       - [Optimization](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization/Optimization) - Module (6 CFU/ECTS)
+       - [Discrete Mathematics](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/1trimester/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization/Discrete%20Mathematics)- Module (3 CFU/ECTS)
+       - [Graph Theory](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/1trimester/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization/Graph%20Theory)- Module (3 CFU/ECTS)
+       - [Optimization](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/1trimester/Graph%20Theory%2C%20Discrete%20Mathematics%20and%20Optimization/Optimization) - Module (6 CFU/ECTS)
     - *Micro-econometrics, casual inference and Time series econometric*:
-       - [Time series](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/1trimestre/Micro-econometrics%2C%20casual%20inference%20and%20time%20series%20econometrics/Time%20series) - Module (6 CFU/ECTS)
+       - [Time series](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/1trimester/Time%20series) - Module (6 CFU/ECTS)
     
 - __2° trimester - 18 CFU/ECTS__
     - *Advanced Microeconomics and Macroeconomics* (total 12 CFU/ECTS):
-       - [Advanced microeconomics](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1anno/2trimestre/Advanced%20Microeconomics/Notes) - Module (6 CFU/ECTS)
+       - [Advanced microeconomics](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1year/2trimestre/Advanced%20Microeconomics/Notes) - Module (6 CFU/ECTS)
     - *Micro-econometrics, casual inference and Time series econometric*:
-        - [Micro-econometrics, Causal Inference](https://github.com/Andreaierardi/Appunti-Triennale-Informatica/tree/master/1%C2%B0Anno/2%C2%B0semestre/Fisica) - Module (6 CFU/ECTS)
+        - [Micro-econometrics, Causal Inference](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/2trimester/Micro-econometrics%2C%20Causal%20Inference) - Module (6 CFU/ECTS)
     - *Coding for Data Science and Data Management* (total 12 CFU/ECTS)
        - [Coding for Data Science - R language ](https://github.com/Andreaierardi/MilanPollution) - Module (3 CFU/ECTS) 
-       - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1anno/2trimestre/Coding%20for%20DataScience/Python) - Module (3 CFU/ECTS) 
+       - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/2trimestre/Coding%20for%20DataScience/Python) - Module (3 CFU/ECTS) 
 - __3° trimester - 24 CFU/ECTS__
   - *Advanced Microeconomics and Macroeconomics* (total 12 CFU/ECTS):
        - [Advanced Macroeconomics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
