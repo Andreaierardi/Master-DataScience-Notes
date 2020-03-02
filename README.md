@@ -14,11 +14,11 @@ Andrea Ierardi
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a> &nbsp; 
  <a href=" andreaierardi.github.io/" rel="nofollow noreferrer">
-    <img src="img/" alt="website"> Website
+    <img src="https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/img/website.svg" width=15>
+   Website
   </a>
 
-![Alt text](https://potherca-blog.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
-<img src="https://potherca-blog.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
+
 
 ## Years 2019 - 2021
 
