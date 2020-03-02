@@ -21,12 +21,12 @@ Andrea Ierardi
     
 - __2° trimester - 18 CFU/ECTS__
     - *Advanced Microeconomics and Macroeconomics* (total 12 CFU/ECTS):
-       - [Advanced microeconomics](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1year/2trimestre/Advanced%20Microeconomics/Notes) - Module (6 CFU/ECTS)
+       - [Advanced microeconomics](https://github.com/Andreaierardi/Appunti-Magistrale-DataScience/tree/master/1year/2trimester/Advanced%20Microeconomics/Notes) - Module (6 CFU/ECTS)
     - *Micro-econometrics, casual inference and Time series econometric*:
         - [Micro-econometrics, Causal Inference](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/2trimester/Micro-econometrics%2C%20Causal%20Inference) - Module (6 CFU/ECTS)
     - *Coding for Data Science and Data Management* (total 12 CFU/ECTS)
        - [Coding for Data Science - R language ](https://github.com/Andreaierardi/MilanPollution) - Module (3 CFU/ECTS) 
-       - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/2trimestre/Coding%20for%20DataScience/Python) - Module (3 CFU/ECTS) 
+       - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/2trimester/Coding%20for%20DataScience/Python) - Module (3 CFU/ECTS) 
 - __3° trimester - 24 CFU/ECTS__
   - *Advanced Microeconomics and Macroeconomics* (total 12 CFU/ECTS):
        - [Advanced Macroeconomics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
