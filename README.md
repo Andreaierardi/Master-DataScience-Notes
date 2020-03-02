@@ -26,7 +26,7 @@ Andrea Ierardi
         - [Micro-econometrics, Causal Inference](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/2trimester/Micro-econometrics%2C%20Causal%20Inference) - Module (6 CFU/ECTS)
     - *Coding for Data Science and Data Management* (total 12 CFU/ECTS)
        - [Coding for Data Science - R language ](https://github.com/Andreaierardi/MilanPollution) - Module (3 CFU/ECTS) 
-       - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/2trimester/Coding%20for%20DataScience/Python) - Module (3 CFU/ECTS) 
+       - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/2trimester/Coding%20for%20Data%20Science%20-%20Python%20language/Python) - Module (3 CFU/ECTS) 
 - __3° trimester - 24 CFU/ECTS__
   - *Advanced Microeconomics and Macroeconomics* (total 12 CFU/ECTS):
        - [Advanced Macroeconomics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
