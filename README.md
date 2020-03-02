@@ -5,8 +5,9 @@
 
 [Course page](https://www.unimi.it/en/education/data-science-and-economics-dse)
 # Contributors
-Andrea Ierardi
-<p>
+
+
+<h3 align="center" font-size="300px"> Andrea Ierardi <h3>
   <a href="https://www.linkedin.com/in/andreaierardi/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
@@ -17,7 +18,6 @@ Andrea Ierardi
     <img src="https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/img/website.svg" width=15>
    Website
   </a>
-
 
 
 ## Years 2019 - 2021
