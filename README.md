@@ -29,12 +29,12 @@ Andrea Ierardi
        - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1anno/2trimestre/Coding%20for%20DataScience/Python) - Module (3 CFU/ECTS) 
 - __3° trimester - 24 CFU/ECTS__
   - *Advanced Microeconomics and Macroeconomics* (total 12 CFU/ECTS):
-       - [Advanced Macroeconomics]() - Module (6 CFU/ECTS)
+       - [Advanced Macroeconomics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
   - *Machine Learning, Statistical Learning, Deep Learning and Artificial Intelligence* (total 12 CFU/ECTS):
        - [Machine Learning]() - Module (6 CFU/ECTS)
-       - [Statistical Learning, Deep Learning and Artificial Intelligence]() - Module (6 CFU/ETCS)
+       - [Statistical Learning, Deep Learning and Artificial Intelligence](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ETCS)
   -  *Coding for Data Science and Data Management*
-       - [Data Management]() - Module (6 CFU/ETCS)
+       - [Data Management](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ETCS)
 
 - __Seminar/Laboratories - 3 CFU/ECTS__
   - *Short Course Data Science with Prof. Kenett* (total 3 CFU/ECTS)
@@ -44,13 +44,13 @@ Andrea Ierardi
 ### 2° Year - 2020/2021
 - __1° trimester 12 CFU/ECTS__
     - *Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy* (total 12 CFU/ECTS):
-       - [Cybersecurity and Privacy Preservation Techniques]() - Module (6 CFU/ECTS)
-       - [Digital Security and Privacy]() - Module (6 CFU/ECTS)
+       - [Cybersecurity and Privacy Preservation Techniques](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
+       - [Digital Security and Privacy](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
 
 - __2° trimester 12 CFU/ECTS__
      - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
-       - [Algorithms for Massive Data]() - Module (6 CFU/ECTS)
-       - [Cloud and Distributed Computing]() - Module (6 CFU/ECTS)
+       - [Algorithms for Massive Data](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
+       - [Cloud and Distributed Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS)
 
 - __3° trimester - 0 CFU/ECTS__
 
