@@ -1,4 +1,4 @@
-<h1 align="center"> Master of Science in Data Science and Economics (DSE) - Notes </h1>
+<h1 align="center"> Master of Science in Data Science and Economics (DSE) <br> Notes and Projects </h1>
 
 ## Università degli Studi di Milano 
 <p> Notes, projects and slides of the Master of Science in Data Science and Economics (DSE) </p>
@@ -6,7 +6,19 @@
 [Course page](https://www.unimi.it/en/education/data-science-and-economics-dse)
 # Contributors
 Andrea Ierardi
- 
+<p>
+  <a href="https://www.linkedin.com/in/andreaierardi/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/https://github.com/Andreaierardi" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a> &nbsp; 
+ <a href=" andreaierardi.github.io/" rel="nofollow noreferrer">
+    <img src="img/" alt="website"> Website
+  </a>
+
+![Alt text](https://potherca-blog.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
+<img src="https://potherca-blog.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
 
 ## Years 2019 - 2021
 
