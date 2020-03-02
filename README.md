@@ -3,7 +3,7 @@
 ## Università degli Studi di Milano 
 <p> Notes, projects and slides of the Master of Science in Data Science and Economics (DSE) </p>
 
-[Course info](https://www.unimi.it/en/education/data-science-and-economics-dse)
+[Course page](https://www.unimi.it/en/education/data-science-and-economics-dse)
 # Contributors
 Andrea Ierardi
  
