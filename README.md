@@ -4,7 +4,7 @@
 <p> Notes, projects and slides of the Master of Science in Data Science and Economics (DSE) </p>
 
 [Course page](https://www.unimi.it/en/education/data-science-and-economics-dse)
-# Contributors
+# Contributors :busts_in_silhouette:
 
 
 <h3 align="center" font-size="300px"> Andrea Ierardi <h3>
