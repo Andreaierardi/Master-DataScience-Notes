@@ -18,7 +18,7 @@
     <img src="https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/img/website.svg" width=15>
    Website
   </a>
-
+<br>
 
 ## Years 2019 - 2021
 
