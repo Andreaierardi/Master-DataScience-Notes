@@ -44,12 +44,12 @@
        - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/2trimester/Coding%20for%20Data%20Science%20-%20Python%20language/Python) - Module (3 CFU/ECTS) 
 - __3° trimester - 24 CFU/ECTS__
   - *Advanced Microeconomics and Macroeconomics* (total 12 CFU/ECTS):  
-       - [Advanced Macroeconomics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
+       - [Advanced Macroeconomics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) 
   - *Machine Learning, Statistical Learning, Deep Learning and Artificial Intelligence* (total 12 CFU/ECTS):
-       - [Machine Learning]() - Module (6 CFU/ECTS) :no_entry:
-       - [Statistical Learning, Deep Learning and Artificial Intelligence](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ETCS) :no_entry:
+       - [Machine Learning]() - Module (6 CFU/ECTS) 
+       - [Statistical Learning, Deep Learning and Artificial Intelligence](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ETCS) 
   -  *Coding for Data Science and Data Management*
-       - [Data Management](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ETCS) :no_entry:
+       - [Data Management](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ETCS) 
 
 - __Seminar/Laboratories - 3 CFU/ECTS__ 
   - *Short Course Data Science with Prof. Kenett* (total 3 CFU/ECTS)
