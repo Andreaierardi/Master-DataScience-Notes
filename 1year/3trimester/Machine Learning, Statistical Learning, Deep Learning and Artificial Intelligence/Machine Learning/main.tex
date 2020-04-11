@@ -1,0 +1,273 @@
+\title{Statistical Methods for Machine Learning}
+\author{
+        Andrea Ierardi \\
+                Data Science and Economcis\\
+        Università degli Studi di Milano\\
+        
+}
+\date{\today}
+
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{systeme}
+\usepackage{amssymb}
+\newcommand\barra[1]{\mathbb{#1}}
+
+\begin{document}
+\maketitle
+
+
+\begin{abstract}
+This is the paper's abstract \ldots
+\end{abstract}
+
+\section{Lecture 1 - 09-03-2020}
+
+\subsection{Introduction}
+This is time for all good men to come to the aid of their party!
+
+MACHINE LEARNING
+In this course we look at the principle behind design of Machine learning.
+Not just coding but have an idea of algorithm that can work with the data.
+We have to fix a mathematical framework: some statistic and mathematics.
+Work on ML on a higher level
+ML is data inference: make prediction about the future using data about the
+past
+Clustering —> grouping according to similarity
+Planning —> (robot to learn to interact in a certain environment)
+Classification —> (assign meaning to data) example: Spam filtering
+I want to predict the outcome of this individual or i want to predict whether a
+person click or not in a certain advertisement.
+Examples
+Classify data into categories:
+Medical diagnosis: data are medical records and • categories are diseases
+• Document analysis: data are texts and categories are topics
+• Image analysts: data are digital images and for categories name of objects
+in the image (but could be different).
+• Spam filtering: data are emails, categories are spam vs non spam.
+• Advertising prediction: data are features of web site visitors and categories
+could be click/non click on banners.
+Classification : Different from clustering since we do not have semantically
+classification (spam or not spam) —> like meaning of the image.
+I have a semantic label.
+Clustering: i want to group data with similarity function.
+Planning: Learning what to do next
+Clustering: Learn similarity function
+Classification: Learn semantic labels meaning of data
+Planning: Learn actions given state
+In classification is an easier than planning task since I’m able to make
+prediction telling what is the semantic label that goes with data points.
+If i can do classification i can clustering.
+If you do planning you probably classify (since you understanding meaning in
+your position) and then you can also do clustering probably.
+We will focus on classification because many tasks are about classification.
+Classify data in categories we can image a set of categories.
+For instance the tasks:
+‘predict income of a person’
+‘Predict tomorrow price for a stock’
+The label is a number and not an abstract thing.
+We can distinguish two cases:
+The label set —> set of possible categories for each data • point. For each of
+this could be finite set of abstract symbols (case of document classification,
+medical diagnosis). So the task is classification.
+• Real number (no bound on how many of them). My prediction will be a real
+number and is not a category. In this case we talk about a task of
+regression.
+Classification: task we want to give a label predefined point in abstract
+categories (like YES or NO)
+Regression: task we want to give label to data points but this label are
+numbers.
+When we say prediction task: used both for classification and regression
+tasks.
+Supervised learning: Label attached to data (classification, regression)
+Unsupervised learning: No labels attached to data (clustering)
+In unsupervised the mathematical modelling and way algorithm are score and
+can learn from mistakes is a little bit harder. Problem of clustering is harder to
+model mathematically.
+You can cast planning as supervised learning: i can show the robot which is
+the right action to do in that state. But that depends on planning task is
+formalised.
+Planning is higher level of learning since include task of supervised and
+unsupervised learning.
+Why is this important ?
+Algorithm has to know how to given the label.
+In ML we want to teach the algorithm to perform prediction correctly. Initially
+algorithm will make mistakes in classifying data. We want to tell algorithm that
+classification was wrong and just want to perform a score. Like giving a grade
+to the algorithm to understand if it did bad or really bad.
+So we have mistakes!
+Algorithm predicts and something makes a mistake —> we can correct it.
+Then algorithm can be more precisely.
+We have to define this mistake.
+Mistakes in case of classification:
+If category is the wrong one (in the simple case). We • have a binary signal
+where we know that category is wrong.
+How to communicate it?
+We can use the loss function: we can tell the algorithm whether is wrong or
+not.
+Loss function: measure discrepancy between ‘true’ label and predicted
+label.
+So we may assume that every datapoint has a true label.
+If we have a set of topic this is the true topic that document is talking about.
+It is typical in supervised learning.
+\\\\
+How good the algorithm did?
+\\
+
+\[l(y,\hat{y})\leq0 \]
+
+were $y $ is true label and $\hat{y}$ is predicted label
+\\\\
+We want to build a spam filter were $0$ is not spam and $1$ is spam and that 
+Classification task: 
+\\\\
+$f(n) = \begin{cases} 0, & \mbox{if } \hat{y} = y 
+\\ 1, & 
+\mbox{if }\hat{y} \neq y
+\end{cases}
+$
+\\\\
+The loss function is the “interface” between algorithm and data.
+So algorithm know about the data through the loss function.
+If we give a useless loss function the algorithm will not perform good: is
+important to have a good loss function.
+Spam filtering
+We have two main mistakes:
+It is the same mistake? No if i have important email and you classify as spam
+that’s bad and if you show me a spam than it’s ok.
+So we have to assign a different weight.
+Even in binary classification, mistakes are not equal.
+e Iotf.TFprIuos.uos
+True came
+razee
+Cussler aircN TASK spam ACG FIRM
+ftp.y GO
+IF F Y n is soon
+IF FEY 0 Nor spam
+ZERO CNE Cass
+n n
+Span No Seamy Binary Classification
+I 2
+FALSE PEENE Mistake Y NON SPAM J Spam
+FN Mistake i f SPAM y NO spam
+2 IF Fp Meter Airenita
+f Y F on positive
+y ye en MISTAKE
+0 otherwise
+
+
+\paragraph{Outline}
+The remainder of this article is organized as follows.
+Section~\ref{previous work} gives account of previous work.
+Our new and exciting results are described in Section~\ref{results}.
+Finally, Section~\ref{conclusions} gives the conclusions.
+
+
+\section{Lecture 10 - 07-04-2020}
+
+\subsection{TO BE DEFINE}
+
+$|E[z] = |E[|E[z|x]]$
+\\\\
+$|E[X] = \sum_{t = 1}^{m} |E[x \Pi(A\begin{small}
+t \end{small} ) ]$
+\\\\
+$x \in \mathbb{R}^d
+$
+\\
+$\mathbb{P}(Y_{\Pi(s,x)} = 1) = \\\\ \mathbb{E}[\Pi { Y_{\Pi(s,x)} = 1 } ] = \\\\
+= \sum_{t = 1}^{m} \mathbb{E}[\Pi\{Y_t = 1\} \cdot \Pi { Pi(s,x) = t}] = \\\\
+= \sum_{t = 1}^{m} \mathbb{E}[\mathbb{E}[\Pi\{Y_t = 1\} \cdot \Pi\{\Pi(s,x) = t\} | X_t]] = \\\\
+given the fact that Y_t \sim \eta(X_t) \Rightarrow give me probability \\
+Y_t = 1 and \Pi(s,x) = t are independent given X_Y (e. g. \mathbb{E}[Zx] = \mathbb{E}[x] \ast \cdot \mathbb{E}[z]\\\\
+= \sum_{t = 1}^{m} \barra{E}[\barra{E}[\Pi\{Y_t = 1\}|X_t] \cdot \barra{E} [ \Pi(s,x) = t | Xt]] = \\\\
+= \sum_{t = 1}^{m} \barra{E}[\eta(X_t) \cdot \Pi \cdot \{\Pi (s,x) = t \}] = \\\\
+= \barra{E} [ \eta(X_{\Pi(s,x)}]
+$
+
+\[ \barra{P} (Y_{\Pi(s,x)}| X=x = \barra{E}[\eta(X_\Pi (s,x))] \]
+\\\\
+
+$
+\barra{P} (Y_{\Pi(s,x)} = 1, y = -1 ) = \\\\
+= \barra{E}[\Pi\{Y_{\Pi(s,x)  }= 1\} \dot \Pi\{Y= -1|X\} ]] =  \\\\ 
+= \barra{E}[\Pi \{ Y_{\Pi(s,x)} = 1\} \cdot \Pi \{ y = -1 \} ] = \\\\
+= \barra{E}[\barra{E}[\Pi \{ Y_{\Pi(s,x)} = 1\} \cdot \Pi \{ y = -1 | X \} ]] = \\\\
+$
+
+\[ Y_{\Pi(s,x)} = 1  \quad \quad y = -1 (1- \eta(x)) \quad when \quad X = x\]
+
+$
+\\\\ = \barra{E}[\barra{E}[\Pi \{Y_\Pi(s,x)\} = 1 | X] \cdot \barra{E}[\Pi \{y = -1\} |X ]] = \\\\
+= \barra {E}[\eta_{\Pi(s,x)} \cdot (1-\eta(x))] = \\\\
+similarly: \quad \barra{P}(Y_{\Pi(s,x)} = -1 ,  y = 1) = \\
+\barra{E} [(1- \eta_{\Pi(s,x)}) \cdot \eta(x)]
+\\\\
+\barra{E} [ \ell_D (\hat{h}_s)] = \barra{P}(Y_{\Pi(s,x)} \neq y ) = 
+\\\\
+= \barra{P}(Y_{\Pi(s,x)} = 1, y = -1) + \barra{P}(Y_{Pi(s,x)} = -1, y = 1) = 
+\\\\
+= \barra{E} [\eta_{\Pi(s,x)} \cdot (1-eta(x))] + \barra{E}[( 1- \eta_{\Pi(s,x)})\cdot \eta(x)]$
+\\\\
+Make assumptions on $D_x \quad and \quad \eta$: \\
+
+
+MANCAAAAAAA ROBAAA
+\\\\
+
+$
+\eta(x') <= \eta(x) + c || X-x'|| --> euclidean distance
+\\\\
+1-\eta(x') <= 1- \eta(x) + c||X-x'||
+\\\\
+$
+
+
+$
+X' = X_{Pi(s,x)}
+\\\\
+\eta(X) \cdot (1-\eta(x')) + (1-\eta(x))\cdot \eta(x') <=
+\\\\
+<= \eta(x) \cdot((1-\eta(x))+\eta(x)\cdot c||X-x'|| + (1-\eta(x))\cdot c||X-x'|| = 
+\\\\
+= 2 \cdot \eta(x) \cdot (1- \eta(x)) + c||X-x'|| \\\\
+\barra{E}[\ell_d \cdot (\hat{h}_s)] <= 2 \cdot \barra{E} [\eta(x) - (1-\eta(x))] + c \cdot \barra(E)[||X-x_{\Pi(s,x)}||]
+$
+\\ where $<=$ mean at most
+\\\\
+Compare risk for zero-one loss
+\\
+$
+\barra{E}[min\{\eta(x),1-\eta(x)\}] = \ell_D (f*)
+\\\\
+\eta(x) \cdot( 1- \eta(X)) <= min\{\eta(x), 1-eta(x) \} \quad \forall x
+\\\\
+\barra{E}[\eta(x)\cdot(1-\eta(x)] <= \ell_D(f*)
+\\\\
+\barra{E}[\ell_d(\hat{l}_s)] <= 2 \cdot \ell_D(f*) + c \cdot \barra{E}[||X-X_{\Pi(s,x)}||]
+\\\\
+\eta(x) \in \{0,1\}
+$
+\\\\
+Depends on dimension: curse of dimensionality
+\\\\--DISEGNO--
+\\\\
+$
+\ell_d(f*) = 0 \iff min\{ \eta(x), 1-\eta(x)\} =0 \quad$ with probability = 1
+\\
+to be true $\eta(x) \in \{0,1\}$
+
+\section{Previous work}\label{previous work}
+A much longer \LaTeXe{} example was written by Gil~\cite{Gil:02}.
+
+\section{Results}\label{results}
+In this section we describe the results.
+
+\section{Conclusions}\label{conclusions}
+We worked hard, and achieved very little.
+
+\bibliographystyle{abbrv}
+\bibliography{main}
+
+\end{document}
+This is never printed
