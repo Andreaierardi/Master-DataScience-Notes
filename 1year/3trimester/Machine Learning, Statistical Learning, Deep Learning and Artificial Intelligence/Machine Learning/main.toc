@@ -1,0 +1,30 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Lecture 1 - 09-03-2020}{2}%
+\contentsline {subsection}{\numberline {1.1}Introduction}{2}%
+\contentsline {section}{\numberline {2}Lecture 2 - 07-04-2020}{5}%
+\contentsline {subsection}{\numberline {2.1}Argomento}{5}%
+\contentsline {subsection}{\numberline {2.2}Loss}{5}%
+\contentsline {subsubsection}{\numberline {2.2.1}Absolute Loss}{5}%
+\contentsline {subsubsection}{\numberline {2.2.2}Square Loss}{6}%
+\contentsline {subsubsection}{\numberline {2.2.3}Example of information of square loss}{6}%
+\contentsline {subsubsection}{\numberline {2.2.4}labels and losses}{8}%
+\contentsline {subsubsection}{\numberline {2.2.5}Example TF(idf) documents encoding}{9}%
+\contentsline {section}{\numberline {3}Lecture 3 - 07-04-2020}{11}%
+\contentsline {subsection}{\numberline {3.1}Overfitting}{13}%
+\contentsline {subsubsection}{\numberline {3.1.1}Noise in the data}{13}%
+\contentsline {subsection}{\numberline {3.2}Underfitting}{15}%
+\contentsline {subsection}{\numberline {3.3}Nearest neighbour}{15}%
+\contentsline {section}{\numberline {4}Lecture 4 - 07-04-2020}{17}%
+\contentsline {subsection}{\numberline {4.1}Computing $h_{NN}$}{17}%
+\contentsline {subsection}{\numberline {4.2}Tree Predictor}{18}%
+\contentsline {section}{\numberline {5}Lecture 5 - 07-04-2020}{21}%
+\contentsline {subsection}{\numberline {5.1}Tree Classifier}{21}%
+\contentsline {subsection}{\numberline {5.2}Jensen’s inequality}{22}%
+\contentsline {subsection}{\numberline {5.3}Tree Predictor}{24}%
+\contentsline {subsection}{\numberline {5.4}Statistical model for Machine Learning}{25}%
+\contentsline {section}{\numberline {6}Lecture 6 - 07-04-2020}{27}%
+\contentsline {section}{\numberline {7}Lecture 7 - 07-04-2020}{28}%
+\contentsline {section}{\numberline {8}Lecture 8 - 07-04-2020}{29}%
+\contentsline {section}{\numberline {9}Lecture 9 - 07-04-2020}{30}%
+\contentsline {section}{\numberline {10}Lecture 10 - 07-04-2020}{31}%
+\contentsline {subsection}{\numberline {10.1}TO BE DEFINE}{31}%
