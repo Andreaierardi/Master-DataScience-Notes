@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Lecture 1 - 09-03-2020}{3}%
+\contentsline {subsection}{\numberline {1.1}Introduction}{3}%
+\contentsline {section}{\numberline {2}Lecture 2 - 07-04-2020}{6}%
+\contentsline {subsection}{\numberline {2.1}Argomento}{6}%
+\contentsline {subsection}{\numberline {2.2}Loss}{6}%
+\contentsline {subsubsection}{\numberline {2.2.1}Absolute Loss}{6}%
+\contentsline {subsubsection}{\numberline {2.2.2}Square Loss}{7}%
+\contentsline {subsubsection}{\numberline {2.2.3}Example of information of square loss}{7}%
+\contentsline {subsubsection}{\numberline {2.2.4}labels and losses}{9}%
+\contentsline {subsubsection}{\numberline {2.2.5}Example TF(idf) documents encoding}{10}%
+\contentsline {section}{\numberline {3}Lecture 3 - 07-04-2020}{12}%
+\contentsline {subsection}{\numberline {3.1}Overfitting}{14}%
+\contentsline {subsubsection}{\numberline {3.1.1}Noise in the data}{14}%
+\contentsline {subsection}{\numberline {3.2}Underfitting}{16}%
+\contentsline {subsection}{\numberline {3.3}Nearest neighbour}{16}%
+\contentsline {section}{\numberline {4}Lecture 4 - 07-04-2020}{18}%
+\contentsline {section}{\numberline {5}Lecture 5 - 07-04-2020}{19}%
+\contentsline {section}{\numberline {6}Lecture 6 - 07-04-2020}{20}%
+\contentsline {section}{\numberline {7}Lecture 7 - 07-04-2020}{21}%
+\contentsline {section}{\numberline {8}Lecture 8 - 07-04-2020}{22}%
+\contentsline {section}{\numberline {9}Lecture 9 - 07-04-2020}{23}%
+\contentsline {section}{\numberline {10}Lecture 10 - 07-04-2020}{24}%
+\contentsline {subsection}{\numberline {10.1}TO BE DEFINE}{24}%

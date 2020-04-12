@@ -1,0 +1,92 @@
+\section{Lecture 10 - 07-04-2020}
+\subsection{TO BE DEFINE}
+
+$|E[z] = |E[|E[z|x]]$
+\\\\
+$|E[X] = \sum_{t = 1}^{m} |E[x \Pi(A\begin{small}
+t \end{small} ) ]$
+\\\\
+$x \in \mathbb{R}^d
+$
+\\
+$\mathbb{P}(Y_{\Pi(s,x)} = 1) = \\\\ \mathbb{E}[\Pi { Y_{\Pi(s,x)} = 1 } ] = \\\\
+= \sum_{t = 1}^{m} \mathbb{E}[\Pi\{Y_t = 1\} \cdot \Pi { Pi(s,x) = t}] = \\\\
+= \sum_{t = 1}^{m} \mathbb{E}[\mathbb{E}[\Pi\{Y_t = 1\} \cdot \Pi\{\Pi(s,x) = t\} | X_t]] = \\\\
+given the fact that Y_t \sim \eta(X_t) \Rightarrow give me probability \\
+Y_t = 1 and \Pi(s,x) = t are independent given X_Y (e. g. \mathbb{E}[Zx] = \mathbb{E}[x] \ast \cdot \mathbb{E}[z]\\\\
+= \sum_{t = 1}^{m} \barra{E}[\barra{E}[\Pi\{Y_t = 1\}|X_t] \cdot \barra{E} [ \Pi(s,x) = t | Xt]] = \\\\
+= \sum_{t = 1}^{m} \barra{E}[\eta(X_t) \cdot \Pi \cdot \{\Pi (s,x) = t \}] = \\\\
+= \barra{E} [ \eta(X_{\Pi(s,x)}]
+$
+
+\[ \barra{P} (Y_{\Pi(s,x)}| X=x = \barra{E}[\eta(X_\Pi (s,x))] \]
+\\\\
+
+$
+\barra{P} (Y_{\Pi(s,x)} = 1, y = -1 ) = \\\\
+= \barra{E}[\Pi\{Y_{\Pi(s,x)  }= 1\} \dot \Pi\{Y= -1|X\} ]] =  \\\\ 
+= \barra{E}[\Pi \{ Y_{\Pi(s,x)} = 1\} \cdot \Pi \{ y = -1 \} ] = \\\\
+= \barra{E}[\barra{E}[\Pi \{ Y_{\Pi(s,x)} = 1\} \cdot \Pi \{ y = -1 | X \} ]] = \\\\
+$
+
+\[ Y_{\Pi(s,x)} = 1  \quad \quad y = -1 (1- \eta(x)) \quad when \quad X = x\]
+
+$
+\\\\ = \barra{E}[\barra{E}[\Pi \{Y_\Pi(s,x)\} = 1 | X] \cdot \barra{E}[\Pi \{y = -1\} |X ]] = \\\\
+= \barra {E}[\eta_{\Pi(s,x)} \cdot (1-\eta(x))] = \\\\
+similarly: \quad \barra{P}(Y_{\Pi(s,x)} = -1 ,  y = 1) = \\
+\barra{E} [(1- \eta_{\Pi(s,x)}) \cdot \eta(x)]
+\\\\
+\barra{E} [ \ell_D (\hat{h}_s)] = \barra{P}(Y_{\Pi(s,x)} \neq y ) = 
+\\\\
+= \barra{P}(Y_{\Pi(s,x)} = 1, y = -1) + \barra{P}(Y_{Pi(s,x)} = -1, y = 1) = 
+\\\\
+= \barra{E} [\eta_{\Pi(s,x)} \cdot (1-eta(x))] + \barra{E}[( 1- \eta_{\Pi(s,x)})\cdot \eta(x)]$
+\\\\
+Make assumptions on $D_x \quad and \quad \eta$: \\
+
+
+MANCAAAAAAA ROBAAA
+\\\\
+
+$
+\eta(x') <= \eta(x) + c || X-x'|| --> euclidean distance
+\\\\
+1-\eta(x') <= 1- \eta(x) + c||X-x'||
+\\\\
+$
+
+
+$
+X' = X_{Pi(s,x)}
+\\\\
+\eta(X) \cdot (1-\eta(x')) + (1-\eta(x))\cdot \eta(x') <=
+\\\\
+<= \eta(x) \cdot((1-\eta(x))+\eta(x)\cdot c||X-x'|| + (1-\eta(x))\cdot c||X-x'|| = 
+\\\\
+= 2 \cdot \eta(x) \cdot (1- \eta(x)) + c||X-x'|| \\\\
+\barra{E}[\ell_d \cdot (\hat{h}_s)] <= 2 \cdot \barra{E} [\eta(x) - (1-\eta(x))] + c \cdot \barra(E)[||X-x_{\Pi(s,x)}||]
+$
+\\ where $<=$ mean at most
+\\\\
+Compare risk for zero-one loss
+\\
+$
+\barra{E}[min\{\eta(x),1-\eta(x)\}] = \ell_D (f*)
+\\\\
+\eta(x) \cdot( 1- \eta(X)) <= min\{\eta(x), 1-eta(x) \} \quad \forall x
+\\\\
+\barra{E}[\eta(x)\cdot(1-\eta(x)] <= \ell_D(f*)
+\\\\
+\barra{E}[\ell_d(\hat{l}_s)] <= 2 \cdot \ell_D(f*) + c \cdot \barra{E}[||X-X_{\Pi(s,x)}||]
+\\\\
+\eta(x) \in \{0,1\}
+$
+\\\\
+Depends on dimension: curse of dimensionality
+\\\\--DISEGNO--
+\\\\
+$
+\ell_d(f*) = 0 \iff min\{ \eta(x), 1-\eta(x)\} =0 \quad$ with probability = 1
+\\
+to be true $\eta(x) \in \{0,1\}$

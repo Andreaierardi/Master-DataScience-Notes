@@ -1,9 +1,21 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.12)  12 APR 2020 15:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.12)  12 APR 2020 15:16
 entering extended mode
-**./main.tex
-(main.tex
+**./lecture3.tex
+(lecture3.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
+("E:\Program Files\MiKTeX 2.9\tex/latex/subfiles\subfiles.cls"
+Document Class: subfiles 2020/02/14 v1.6 Multi-file projects (class)
+Preamble taken from file `../main.tex'
+("E:\Program Files\MiKTeX 2.9\tex/latex/tools\verbatim.sty"
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks14
+\verbatim@line=\toks15
+\verbatim@in@stream=\read2
+)
+("E:\Program Files\MiKTeX 2.9\tex/latex/import\import.sty"
+Package: import 2020/04/01  v 6.2
+) (../main.tex
 ("E:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 ("E:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
@@ -31,7 +43,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 ("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks14
+\@emptytoks=\toks16
 \ex@=\dimen135
 ))
 ("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
@@ -61,21 +73,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip16
 \c@parentequation=\count182
 \dspbrk@lvl=\count183
-\tag@help=\toks15
+\tag@help=\toks17
 \row@=\count184
 \column@=\count185
 \maxfields@=\count186
-\andhelp@=\toks16
+\andhelp@=\toks18
 \eqnshift@=\dimen138
 \alignsep@=\dimen139
 \tagshift@=\dimen140
 \tagwidth@=\dimen141
 \totwidth@=\dimen142
 \lineht@=\dimen143
-\@envbody=\toks17
+\@envbody=\toks19
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks18
+\mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
@@ -88,8 +100,8 @@ LaTeX Info: Redefining \] on input line 2860.
 Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 )
 ("E:\Program Files\MiKTeX 2.9\tex/generic/systeme\systeme.tex"
-\SYS_systemecode=\toks19
-\SYS_systempreamble=\toks20
+\SYS_systemecode=\toks21
+\SYS_systempreamble=\toks22
 \SYSeqnum=\count189
 )
 Package: systeme 2019/01/13 v0.32 Mise en forme de systemes d'equations (CT)
@@ -107,186 +119,43 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 ("E:\Program Files\MiKTeX 2.9\tex/latex/subfiles\subfiles.sty"
 Package: subfiles 2020/02/14 v1.6 Multi-file projects (package)
-
-("E:\Program Files\MiKTeX 2.9\tex/latex/import\import.sty"
-Package: import 2020/04/01  v 6.2
-))
+)))
 ("E:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count190
 \l__pdf_internal_box=\box47
 )
-(main.aux)
-\openout1 = `main.aux'.
+(lecture3.aux)
+\openout1 = `lecture3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
-
- ("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
-
-
-("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-{C:/Users/AndreDany/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (main.t
-oc)
-\tf@toc=\write3
-\openout3 = `main.toc'.
-
- [2]
-(lectures/lecture1.tex
-Underfull \hbox (badness 10000) in paragraph at lines 9--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--96
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 99--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--139
-
- []
-
-[4]) [5] (lectures/lecture2.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--32
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--78
-
- []
-
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 78--83
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--106
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--106
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--106
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--112
-
- []
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
-
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
-
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 169--179
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 186--33
-
- []
-
-[11] (lectures/lecture3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
 
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
 
+("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 Overfull \hbox (12.30455pt too wide) detected at line 9
 \OML/cmm/m/it/12 x \OT1/cmr/m/n/12 = (\OML/cmm/m/it/12 x[]; :::; x[]\OT1/cmr/m/
 n/12 ) \OML/cmm/m/it/12 x[] []x \OMS/cmsy/m/n/12 2 \OML/cmm/m/it/12 X[] X \OT1/
@@ -336,7 +205,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--35
 
  []
 
-[12]
+[1
+
+{C:/Users/AndreDany/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 48--54
 
  []
@@ -356,7 +227,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--75
 
  []
 
-[13]
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 78--86
 
  []
@@ -381,7 +252,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--108
 
  []
 
-[14]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 110--138
 
  []
@@ -416,7 +287,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--168
 
  []
 
-[15]
+[4]
 Overfull \hbox (36.32568pt too wide) detected at line 170
 \OML/cmm/m/it/12 A \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 ERM[] \OMS/cmsy/m/n/12 !
  []
@@ -457,113 +328,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--223
 
  []
 
-[16]) [17] (lectures/lecture4.tex) [18] (lectures/lecture5.tex) [19]
-(lectures/lecture6.tex) [20] (lectures/lecture7.tex) [21]
-(lectures/lecture8.tex) [22] (lectures/lecture9.tex) [23]
-(lectures/lecture10.tex
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 6.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--21
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--31
-
- []
-
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 34--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--58
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
-
- []
-
-[25] [26] (main.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) [27] (main.aux) ) 
+[6] (lecture3.aux) ) 
 Here is how much of TeX's memory you used:
- 2059 strings out of 481556
- 29942 string characters out of 2923622
- 268529 words of memory out of 3000000
- 17278 multiletter control sequences out of 15000+200000
- 542786 words of font info for 63 fonts, out of 3000000 for 9000
+ 2035 strings out of 481556
+ 27886 string characters out of 2923622
+ 264292 words of memory out of 3000000
+ 17282 multiletter control sequences out of 15000+200000
+ 539886 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,11n,31p,321b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
-r/jknappen/ec/dpi600\tcrm1200.pk><E:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmbx12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmex10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-mi12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
-<E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><E:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><E:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy6.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmsy8.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti
-12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.
-pfb>
-Output written on main.pdf (27 pages, 198551 bytes).
+ 42i,11n,44p,316b,125s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\tcrm1200.pk><E:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><E:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/symbols/msbm10.pfb>
+Output written on lecture3.pdf (6 pages, 135512 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
