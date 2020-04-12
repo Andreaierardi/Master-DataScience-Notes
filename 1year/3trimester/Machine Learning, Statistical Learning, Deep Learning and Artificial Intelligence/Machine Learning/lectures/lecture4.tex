@@ -6,7 +6,7 @@
 We spoke about Knn classifier with voronoi diagram
 
 $$
-\hat{\ell}(\hnn) = 0 \qquad \forall Traning set
+\hat{\ell}(\hnn) = 0 \qquad \forall \, \textit{Traning set}
 $$
 \\
 $\hnn$ predictor needs to store entire dataset.
@@ -16,7 +16,7 @@ Computing $\hnn(x)$ requires computing distances between x and points in the tra
 \\
 $$
 \Theta(d) \quad \textit{time for each distance}
-$$\\
+$$
 
 NN $\rightarrow$ 1-NN\\
 We can generalise NN in K-NN with $k = 1,3,5,7$ so odd $K$ \\
@@ -36,7 +36,7 @@ $K = 1$ error is 0.\\
 In the second line we switch to $k =3$. Second point doesn’t switch and third will
 be classify to positive and we have training mistake.\\
 Switches corresponds to border of voronoi partition.
-$$\knn \qquad \textit{For multiclass classification}$$\\
+$$\knn \qquad \textit{For multiclass classification}$$
 $$
 (|Y| > 2 ) \qquad \textit{for regression } Y\equiv \barra{R}
 $$

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.12)  12 APR 2020 15:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.12)  12 APR 2020 19:33
 entering extended mode
 **./main.tex
 (main.tex
@@ -111,34 +111,112 @@ Package: subfiles 2020/02/14 v1.6 Multi-file projects (package)
 ("E:\Program Files\MiKTeX 2.9\tex/latex/import\import.sty"
 Package: import 2020/04/01  v 6.2
 ))
+("E:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2020/02/14 3.40 The Babel package
+
+("E:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("E:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("E:\Program Files\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("E:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count190
+\U@D=\dimen144
+
+("E:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+\bbl@dirlevel=\count191
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language72) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language72) on input line 108.
+))
+("E:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("E:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("E:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("E:\Program Files\MiKTeX 2.9\tex/latex/graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("E:\Program Files\MiKTeX 2.9\tex/latex/framed\framed.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip52
+\fb@frw=\dimen145
+\fb@frh=\dimen146
+\FrameRule=\dimen147
+\FrameSep=\dimen148
+)
 ("E:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count190
+\l__kernel_color_stack_int=\count192
 \l__pdf_internal_box=\box47
 )
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+ ("E:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count193
+\scratchdimen=\dimen149
+\scratchbox=\box48
+\nofMPsegments=\count194
+\nofMParguments=\count195
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count196
+\MPscratchDim=\dimen150
+\MPnumerator=\count197
+\makeMPintoPDFobject=\count198
+\everyMPtoPDFconversion=\toks22
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
 
  ("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
 
 
 ("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
@@ -150,7 +228,7 @@ oc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [2]
+ [2] [3]
 (lectures/lecture1.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--96
 
@@ -161,7 +239,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--96
 
  []
 
-[3]
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 99--139
 
  []
@@ -176,7 +254,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--139
 
  []
 
-[4]) [5] (lectures/lecture2.tex
+[5]) [6] (lectures/lecture2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--16
 
  []
@@ -196,7 +274,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
-[6]
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 49--52
 
  []
@@ -211,7 +289,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--81
 
  []
 
-[7]
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 81--86
 
  []
@@ -236,42 +314,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--115
 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 164--171
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
 
  []
 
 [10]
+Underfull \hbox (badness 10000) in paragraph at lines 164--171
+
+ []
+
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 172--182
 
  []
@@ -281,7 +359,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--199
 
  []
 
-) [11] (lectures/lecture3.tex
+) [12] (lectures/lecture3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
@@ -336,7 +414,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--35
 
  []
 
-[12]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 48--54
 
  []
@@ -356,7 +434,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--75
 
  []
 
-[13]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 78--86
 
  []
@@ -381,7 +459,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--108
 
  []
 
-[14]
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 110--138
 
  []
@@ -416,7 +494,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--168
 
  []
 
-[15]
+[16]
 Overfull \hbox (36.32568pt too wide) detected at line 170
 \OML/cmm/m/it/12 A \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 ERM[] \OMS/cmsy/m/n/12 !
  []
@@ -457,118 +535,402 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--223
 
  []
 
-[16]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
-) [17] (lectures/lecture4.tex) [18] (lectures/lecture5.tex) [19]
-(lectures/lecture6.tex) [20] (lectures/lecture7.tex) [21]
-(lectures/lecture8.tex) [22] (lectures/lecture9.tex) [23]
-(lectures/lecture10.tex
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 6.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--21
+) [18] (lectures/lecture4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--21
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
+Underfull \hbox (badness 10000) in paragraph at lines 21--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
+Underfull \hbox (badness 10000) in paragraph at lines 42--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--31
+Underfull \hbox (badness 10000) in paragraph at lines 42--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--66
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--88
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 93--99
+
+ []
+
+
+Overfull \hbox (30.99239pt too wide) detected at line 115
+\OML/cmm/m/it/12 X \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 Sunny; 
+\OT1/cmr/m/n/12 50%\OML/cmm/m/it/12 ; No\OMS/cmsy/m/n/12 g  !  []f\OML/cmm/m/it
+/12 outlook:humidity; windy\OMS/cmsy/m/n/12 g
+ []
+
+[21]
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 163.
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 142--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--50
+
+ []
+
+[22] (lectures/lecture5.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--66
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--130
 
  []
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 34--47
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--47
+Underfull \hbox (badness 10000) in paragraph at lines 136--146
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
+Underfull \hbox (badness 10000) in paragraph at lines 136--146
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
+Underfull \hbox (badness 10000) in paragraph at lines 136--146
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--58
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+Underfull \hbox (badness 10000) in paragraph at lines 156--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+Underfull \hbox (badness 10000) in paragraph at lines 171--177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+Underfull \hbox (badness 10000) in paragraph at lines 171--177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 189.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 189.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--193
 
  []
 
-[25] [26] (main.bbl
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--193
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 203--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--221
+
+ []
+
+[27]) [28] (lectures/lecture6.tex) [29] (lectures/lecture7.tex) [30]
+(lectures/lecture8.tex) [31] (lectures/lecture9.tex) [32]
+(lectures/lecture10.tex
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 9.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--34
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 37--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--96
+
+ []
+
+[34]) [35] (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [27] (main.aux) ) 
+) [36] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 2059 strings out of 481556
- 29942 string characters out of 2923622
- 268529 words of memory out of 3000000
- 17278 multiletter control sequences out of 15000+200000
- 542786 words of font info for 63 fonts, out of 3000000 for 9000
+ 3728 strings out of 481556
+ 51810 string characters out of 2923622
+ 310148 words of memory out of 3000000
+ 18900 multiletter control sequences out of 15000+200000
+ 543918 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,11n,31p,321b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,11n,37p,321b,258s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
-r/jknappen/ec/dpi600\tcrm1200.pk><E:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmbx12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmex10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-mi12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
-<E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><E:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><E:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy6.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmsy8.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti
-12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.
-pfb>
-Output written on main.pdf (27 pages, 198691 bytes).
+r/jknappen/ec/dpi600\tcti1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\
+fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><E:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmex10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmmi10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
+6.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><E:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><E:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy6.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.
+pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+>
+Output written on main.pdf (36 pages, 243951 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
+ 187 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
