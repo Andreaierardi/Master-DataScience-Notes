@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.12)  12 APR 2020 15:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.12)  12 APR 2020 15:21
 entering extended mode
 **./main.tex
 (main.tex
@@ -177,111 +177,111 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--139
  []
 
 [4]) [5] (lectures/lecture2.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--13
+Underfull \hbox (badness 10000) in paragraph at lines 7--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--27
+Underfull \hbox (badness 10000) in paragraph at lines 17--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--27
+Underfull \hbox (badness 10000) in paragraph at lines 17--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--32
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--78
+Underfull \hbox (badness 10000) in paragraph at lines 63--81
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 78--83
+Underfull \hbox (badness 10000) in paragraph at lines 81--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--106
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--106
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--106
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--112
+Underfull \hbox (badness 10000) in paragraph at lines 110--115
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--153
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
+Underfull \hbox (badness 10000) in paragraph at lines 164--171
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 169--179
+Underfull \hbox (badness 10000) in paragraph at lines 172--182
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 186--33
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--199
 
  []
 
-[11] (lectures/lecture3.tex
+) [11] (lectures/lecture3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
@@ -457,7 +457,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--223
 
  []
 
-[16]) [17] (lectures/lecture4.tex) [18] (lectures/lecture5.tex) [19]
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+) [17] (lectures/lecture4.tex) [18] (lectures/lecture5.tex) [19]
 (lectures/lecture6.tex) [20] (lectures/lecture7.tex) [21]
 (lectures/lecture8.tex) [22] (lectures/lecture9.tex) [23]
 (lectures/lecture10.tex
@@ -561,7 +566,7 @@ c/amsfonts/cm/cmsy6.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsy8.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti
 12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.
 pfb>
-Output written on main.pdf (27 pages, 198551 bytes).
+Output written on main.pdf (27 pages, 198691 bytes).
 PDF statistics:
  146 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
