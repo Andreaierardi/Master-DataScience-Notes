@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=latex 2020.4.11)  12 APR 2020 22:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=latex 2020.4.11)  12 APR 2020 22:05
 entering extended mode
 **./main.tex
 (main.tex
@@ -224,47 +224,46 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 
 
-! LaTeX Error: Cannot determine size of graphic in ./img/frontpage.jpg (no Boun
-dingBox).
+! LaTeX Error: File `frontpage' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.48 ...raphics[width=.7\linewidth]{frontpage.jpg}
+l.48 ...udegraphics[width=.7\linewidth]{frontpage}
                                                   
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-File: ./img/frontpage.jpg Graphic file (type eps)
-<./img/frontpage.jpg> [1
+[1
 
-] [2] (main.toc)
-\tf@toc=\write3
-\openout3 = `main.toc'.
-
- [1] (lectures/lecture1.tex
-Underfull \hbox (badness 10000) in paragraph at lines 9--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--96
-
- []
-
-[2]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
-
+] (main.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+))
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [1] [2]
+(lectures/lecture1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--96
+
+ []
+
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 99--139
 
  []
@@ -279,7 +278,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--139
 
  []
 
-[3]) [4] (lectures/lecture2.tex
+[4]) [5] (lectures/lecture2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--16
 
  []
@@ -299,7 +298,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
-[5]
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 49--52
 
  []
@@ -314,7 +313,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--81
 
  []
 
-[6]
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 81--86
 
  []
@@ -339,42 +338,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--115
 
  []
 
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 164--171
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
 
  []
 
 [9]
+Underfull \hbox (badness 10000) in paragraph at lines 164--171
+
+ []
+
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 172--182
 
  []
@@ -384,7 +383,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--199
 
  []
 
-) [10] (lectures/lecture3.tex
+) [11] (lectures/lecture3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
@@ -439,7 +438,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--35
 
  []
 
-[11]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 48--54
 
  []
@@ -459,7 +458,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--75
 
  []
 
-[12]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 78--86
 
  []
@@ -484,7 +483,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--108
 
  []
 
-[13]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 110--138
 
  []
@@ -519,7 +518,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--168
 
  []
 
-[14]
+[15]
 Overfull \hbox (36.32568pt too wide) detected at line 170
 \OML/cmm/m/it/12 A \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 ERM[] \OMS/cmsy/m/n/12 !
  []
@@ -560,12 +559,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--223
 
  []
 
-[15]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
-) [16] (lectures/lecture4.tex
+) [17] (lectures/lecture4.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--14
 
  []
@@ -600,7 +599,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--66
 
  []
 
-[17]
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 68--70
 
  []
@@ -610,7 +609,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--88
 
  []
 
-[18]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 93--99
 
  []
@@ -622,7 +621,7 @@ Overfull \hbox (30.99239pt too wide) detected at line 115
 /12 outlook:humidity; windy\OMS/cmsy/m/n/12 g
  []
 
-[19]
+[20]
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 163.
 
@@ -666,7 +665,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--76
 
  []
 
-[20] (lectures/lecture5.tex
+[21] (lectures/lecture5.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--14
 
  []
@@ -701,7 +700,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--66
 
  []
 
-[21]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 68--70
 
  []
@@ -771,7 +770,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--130
 
  []
 
-[22]
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 133--135
 
  []
@@ -791,7 +790,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--146
 
  []
 
-[23]
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 152--154
 
  []
@@ -827,7 +826,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--193
 
  []
 
-[24]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 203--213
 
  []
@@ -847,8 +846,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--221
 
  []
 
-[25]) [26] (lectures/lecture6.tex) [27] (lectures/lecture7.tex) [28]
-(lectures/lecture8.tex) [29] (lectures/lecture9.tex) [30]
+[26]) [27] (lectures/lecture6.tex) [28] (lectures/lecture7.tex) [29]
+(lectures/lecture8.tex) [30] (lectures/lecture9.tex) [31]
 (lectures/lecture10.tex
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 9.
@@ -878,7 +877,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--34
 
  []
 
-[31]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 37--50
 
  []
@@ -923,18 +922,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--96
 
  []
 
-[32]) [33] (main.bbl
+[33]) [34] (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [34] (main.aux) ) 
+) [35] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 3636 strings out of 480934
- 50556 string characters out of 2909674
- 313110 words of memory out of 3000000
- 19420 multiletter control sequences out of 15000+200000
+ 3644 strings out of 480934
+ 50616 string characters out of 2909674
+ 314110 words of memory out of 3000000
+ 19425 multiletter control sequences out of 15000+200000
  544831 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,11n,37p,1147b,259s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,11n,37p,321b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.dvi (36 pages, 66348 bytes).
+Output written on main.dvi (36 pages, 72912 bytes).
