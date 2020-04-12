@@ -114,14 +114,15 @@ It is typical in supervised learning.
 How good the algorithm did?
 \\
 
-\[l(y,\hat{y})\leq0 \]
+\[\ell(y,\hat{y})\leq0 \]
 
 were $y $ is true label and $\hat{y}$ is predicted label
 \\\\
 We want to build a spam filter were $0$ is not spam and $1$ is spam and that 
 Classification task: 
 \\\\
-$f(n) = \begin{cases} 0, & \mbox{if } \hat{y} = y 
+$
+\ell(y,\hat{y} = \begin{cases} 0, & \mbox{if } \hat{y} = y 
 \\ 1, & 
 \mbox{if }\hat{y} \neq y
 \end{cases}
@@ -162,6 +163,115 @@ Section~\ref{previous work} gives account of previous work.
 Our new and exciting results are described in Section~\ref{results}.
 Finally, Section~\ref{conclusions} gives the conclusions.
 
+
+\section{Lecture 2 - 07-04-2020}
+
+\subsection{Argomento}
+Classification tasks\\
+Semantic label space Y\\
+Categorization Y finite and\\ small
+Regression Y appartiene ad |R\\
+How to predict labels?\\
+Using the lost function —> ..\\
+Binary classification\\
+Label space is Y = { -1, +1 }\\
+Zero-one loss\\
+
+$
+\ell(y,\hat{y} = \begin{cases} 0, & \mbox{if } \hat{y} = y 
+\\ 1, & 
+\mbox{if }\hat{y} \neq y
+\end{cases}
+\\\\
+FP \quad \hat{y} = 1,\quad y = -1\\
+FN \quad \hat{y} = -1, \quad y = 1
+$
+\\\\
+Losses for regression?\\
+$y$, and $\hat{y} \in \barra{R}$, \\so they are numbers!\\
+One example of loss is the absolute loss: absolute difference between numbers\\
+\subsection{Loss}
+\subsubsection{Absolute Loss}
+$$\ell(y,\hat{y} = | y - \hat{y} |  \Rightarrow absolute \quad loss\\ $$
+--- DISEGNO ---\\\\
+Some inconvenient properties:
+
+\begin{itemize}
+\item ...
+\item Derivative only two values (not much informations)
+\end{itemize}
+
+\subsubsection{Square Loss}
+$$ \ell(y,\hat{y} = ( y - \hat{y} )^2  \Rightarrow \textit{square loss}\\$$
+-- DISEGNO ---\\
+Derivative :
+\begin{itemize}
+\item more informative
+\item and differentible 
+\end{itemize}
+Real numbers as label $\rightarrow$ regression.\\
+Whenever taking difference between two prediction make sense (value are numbers) then we are talking about regression problem.\\
+Classification as categorization when we have small finite set.\\\\
+
+\subsubsection{Example of information of square loss}
+
+$\ell(y,\hat{y}) = ( y - \hat{y} )^2 = F(y) 
+\\
+F'(\hat(y)) = -2 \cdot (y-\hat{y})
+$
+\begin{itemize}
+\item I'm under sho or over and how much
+\item How much far away from the truth
+\end{itemize}
+$ \ell(y,\hat{y}) = | y- \hat{y}| = F(y') \cdot F'(y) = Sign (y-\hat{y} )\\\\ $
+Question about the future\\
+Will it rain tomorrow?\\
+We have a label and this is a binary classification problem.\\
+My label space will be Y = { “rain”, “no rain” }\\
+We don’t get a binary prediction, we need another space called prediction space (or decision space). Z = [0,1]\\
+$
+Z = [0,1]
+\hat{y} \in Z \qquad \hat{y} \textit{ is my prediction of rain tomorrow}
+\\
+\hat{y} = \barra{P} (y = "rain") \quad  \rightarrow \textit{my guess is tomorrow will rain (not sure)}\\\\ 
+y \in Y \qquad \hat{y} \in Z \\quad \textit{How can we manage loss?}
+\\
+\textit{Put numbers in our space}\\
+\{1,0\} \quad \textit{where 1 is rain and 0 no rain}\\\\
+$
+I measure how much I’m far from reality.\\
+So loss behave like this and the punishment is gonna go linearly??\\
+\[26..\]\\
+However is pretty annoying. Sometime I prefer to punish more so i going quadratically instead of linearly.\\
+There are other way to punish this.\\
+I called \textbf{logarithmic loss}\\ 
+We are extending a lot the range of our loss function.\\
+
+$$
+\ell(y,\hat{y}) = | y- \hat{y}| \in |0,1| \qquad \ell(y,\hat{y}) = ( y- \hat{y})^2 \in |0,1|
+$$
+\\
+If i want to expand the punishment i use logarithmic loss\\
+\\
+$ \ell(y,\hat{y} = \begin{cases} ln \dfrac{1}{\hat{y}, & \mbox{if } y = 1 \textit{(rain)} 
+\\ ln \frac{1}{1-\hat{y}}, & 
+\mbox{if } y = 0 \textit{(no rain} 
+\end{cases}
+\\\\
+F(\hat{y}) \rightarrow can be 0 if i predict with certainty
+
+\mbox{if} \hat{y} = 0.5 \qquad \ell(y, \dfrac{1}{2}) = ln 2 \quad \textit{costnat losses in each prediction}\\\\
+\lim_{\hat{y}\to\0^+} \ell(1,\hat{y}) = + \inf
+
+$
+
+\section{Lecture 3 - 07-04-2020}
+\section{Lecture 4 - 07-04-2020}
+\section{Lecture 5 - 07-04-2020}
+\section{Lecture 6 - 07-04-2020}
+\section{Lecture 7 - 07-04-2020}
+\section{Lecture 8 - 07-04-2020}
+\section{Lecture 9 - 07-04-2020}
 
 \section{Lecture 10 - 07-04-2020}
 

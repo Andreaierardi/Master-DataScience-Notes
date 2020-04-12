@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=latex 2020.4.11)  11 APR 2020 23:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.12)  12 APR 2020 11:36
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-04-06>
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+("E:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
+("E:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -21,24 +21,24 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
+\@emptytoks=\toks14
 \ex@=\dimen135
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen136
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count175
@@ -61,43 +61,43 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip16
 \c@parentequation=\count182
 \dspbrk@lvl=\count183
-\tag@help=\toks16
+\tag@help=\toks15
 \row@=\count184
 \column@=\count185
 \maxfields@=\count186
-\andhelp@=\toks17
+\andhelp@=\toks16
 \eqnshift@=\dimen138
 \alignsep@=\dimen139
 \tagshift@=\dimen140
 \tagwidth@=\dimen141
 \totwidth@=\dimen142
 \lineht@=\dimen143
-\@envbody=\toks18
+\@envbody=\toks17
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks19
+\mathdisplay@stack=\toks18
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/systeme\systeme.sty"
-("C:\Program Files\MiKTeX 2.9\tex/latex/xstring\xstring.sty"
-("C:\Program Files\MiKTeX 2.9\tex/generic/xstring\xstring.tex"
+("E:\Program Files\MiKTeX 2.9\tex/latex/systeme\systeme.sty"
+("E:\Program Files\MiKTeX 2.9\tex/latex/xstring\xstring.sty"
+("E:\Program Files\MiKTeX 2.9\tex/generic/xstring\xstring.tex"
 \integerpart=\count187
 \decimalpart=\count188
 )
 Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/systeme\systeme.tex"
-\SYS_systemecode=\toks20
-\SYS_systempreamble=\toks21
+("E:\Program Files\MiKTeX 2.9\tex/generic/systeme\systeme.tex"
+\SYS_systemecode=\toks19
+\SYS_systempreamble=\toks20
 \SYSeqnum=\count189
 )
 Package: systeme 2019/01/13 v0.32 Mise en forme de systemes d'equations (CT)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -105,15 +105,10 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-dvips.def"
-File: l3backend-dvips.def 2020-03-12 L3 backend support: dvips
+("E:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count190
 \l__pdf_internal_box=\box47
-\g__pdf_backend_object_int=\count190
-\l__pdf_backend_content_box=\box48
-\l__pdf_backend_model_box=\box49
-\g__pdf_backend_annotation_int=\count191
-\g__pdf_backend_link_int=\count192
-\g__pdf_backend_link_sf_int=\count193
 )
 (main.aux)
 \openout1 = `main.aux'.
@@ -134,13 +129,13 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
 
- ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+ ("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
 
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Underfull \hbox (badness 10000) in paragraph at lines 29--116
@@ -154,111 +149,1067 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--116
 
 [1
 
-] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 119--157
+{C:/Users/AndreDany/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 119--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--157
+Underfull \hbox (badness 10000) in paragraph at lines 119--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--157
+Underfull \hbox (badness 10000) in paragraph at lines 119--158
 
  []
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 172.
+LaTeX Warning: Reference `previous work' on page 3 undefined on input line 162.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--187
 
- []
+LaTeX Warning: Reference `results' on page 3 undefined on input line 163.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--187
+LaTeX Warning: Reference `conclusions' on page 3 undefined on input line 164.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 188--190
+Underfull \hbox (badness 10000) in paragraph at lines 180--193
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--190
+Underfull \hbox (badness 10000) in paragraph at lines 180--193
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--197
+Underfull \hbox (badness 10000) in paragraph at lines 195--198
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 200--213
+Underfull \hbox (badness 10000) in paragraph at lines 212--215
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--213
+Underfull \hbox (badness 10000) in paragraph at lines 212--215
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--217
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--217
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 218--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 226--259
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 226--259
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 226--259
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 226--259
+Underfull \hbox (badness 10000) in paragraph at lines 226--244
 
  []
 
 [5]
+Underfull \hbox (badness 10000) in paragraph at lines 244--249
 
-LaTeX Warning: Citation `Gil:02' on page 6 undefined on input line 261.
+ []
 
-No file main.bbl.
-[6] (main.aux)
+Runaway argument?
+{\hat {y}, & \mbox {if } y = 1 \textit {(rain)} \\ ln \frac {1}{1-\hat \ETC.
+! Paragraph ended before \@genfrac was complete.
+<to be read again> 
+                   \par 
+l.262 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
-LaTeX Warning: There were undefined references.
+! Undefined control sequence.
+l.264 \lim_{\hat{y}\to\0
+                        ^+} \ell(1,\hat{y}) = + \inf
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
- ) 
-Here is how much of TeX's memory you used:
- 1950 strings out of 480934
- 25924 string characters out of 2909674
- 271852 words of memory out of 3000000
- 17841 multiletter control sequences out of 15000+200000
- 542046 words of font info for 61 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 30i,9n,31p,268b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.dvi (6 pages, 14028 bytes).
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.268 \section
+              {Lecture 3 - 07-04-2020}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.268 \section
+              {Lecture 3 - 07-04-2020}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.268 \section{Lecture 3 - 07-04-2020}
+                                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.268 \section{Lecture 3 - 07-04-2020}
+                                      
+I'm guessing that you meant to end an alignment here.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \section{Lecture 3 - 07-04-2020}
+                                      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.281 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.281 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 282.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.284 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.284 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.287 \\
+        
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.288 $\mathbb{P}(Y_{\Pi(s,x)} = 1) = \\\\
+                                           \mathbb{E}[\Pi { Y_{\Pi(s,x)} = 1...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.288 $\mathbb{P}(Y_{\Pi(s,x)} = 1) = \\\\ 
+                                           \mathbb{E}[\Pi { Y_{\Pi(s,x)} = 1...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.288 ...thbb{E}[\Pi { Y_{\Pi(s,x)} = 1 } ] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.288 ...thbb{E}[\Pi { Y_{\Pi(s,x)} = 1 } ] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.289 ..._t = 1\} \cdot \Pi { Pi(s,x) = t}] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.289 ..._t = 1\} \cdot \Pi { Pi(s,x) = t}] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.290 ... \cdot \Pi\{\Pi(s,x) = t\} | X_t]] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.290 ... \cdot \Pi\{\Pi(s,x) = t\} | X_t]] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.291 ...a(X_t) \Rightarrow give me probability \\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.292 ...mathbb{E}[x] \ast \cdot \mathbb{E}[z]\\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.292 ...mathbb{E}[x] \ast \cdot \mathbb{E}[z]\\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.293 ...ot \barra{E} [ \Pi(s,x) = t | Xt]] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.293 ...ot \barra{E} [ \Pi(s,x) = t | Xt]] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.294 ...cdot \Pi \cdot \{\Pi (s,x) = t \}] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.294 ...cdot \Pi \cdot \{\Pi (s,x) = t \}] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (71.26564pt too wide) in paragraph at lines 280--298
+$\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 E\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 z\OT1/cm
+r/m/n/12 ] = \OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 E\OT1/cmr/m/n/12 [\OMS/cmsy/m/n
+/12 j\OML/cmm/m/it/12 E\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 z\OMS/cmsy/m/n/12 j\OM
+L/cmm/m/it/12 x\OT1/cmr/m/n/12 ]]$ $[]$$[]$ $\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12
+ E\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 X\OT1/cmr/m/n/12 ] = [][] \OMS/cmsy/m/n/12 
+j\OML/cmm/m/it/12 E\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 (\OML/cm
+m/m/it/12 At\OT1/cmr/m/n/12 )]$ $[]$$[]$ $\OML/cmm/m/it/12 x \OMS/cmsy/m/n/12 2
+ \U/msb/m/n/12 R[]$ $[]$ $P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 Y[] \OT1/cmr/m/n/1
+2 = 1) =$$[]$$[]\U/msb/m/n/12 E\OT1/cmr/m/n/12 [[]] =$$[]$$[] =
+ []
+
+
+Overfull \hbox (10.78996pt too wide) in paragraph at lines 280--298
+\OML/cmm/m/it/12 t\OMS/cmsy/m/n/12 gj\OML/cmm/m/it/12 X[]\OT1/cmr/m/n/12 ]] =$$
+[]$$[]\OML/cmm/m/it/12 giventhefactthatY[] \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 
+\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 X[]\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ) \OML
+/cmm/m/it/12 givemeprobability$$[]Y[] \OT1/cmr/m/n/12 = 1\OML/cmm/m/it/12 and\O
+T1/cmr/m/n/12 (\OML/cmm/m/it/12 s; x\OT1/cmr/m/n/12 ) =
+ []
+
+
+Overfull \hbox (4.04996pt too wide) in paragraph at lines 280--298
+\OML/cmm/m/it/12 tareindependentgivenX[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 e:g:\
+U/msb/m/n/12 E\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 Zx\OT1/cmr/m/n/12 ] = \U/msb/m/
+n/12 E\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ] \OMS/cmsy/m/n/12  
+\U/msb/m/n/12 E\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 z\OT1/cmr/m/n/12 ]$$[]$$[] = [
+][] \U/msb/m/n/12 E\OT1/cmr/m/n/12 [\U/msb/m/n/12 E\OT1/cmr/m/n/12 [\OMS/cmsy/
+m/n/12 f\OML/cmm/m/it/12 Y[] \OT1/cmr/m/n/12 = 1\OMS/cmsy/m/n/12 gj\OML/cmm/m/i
+t/12 X[]\OT1/cmr/m/n/12 ] \OMS/cmsy/m/n/12 
+ []
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.299 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.299 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.302 \barra{P} (Y_{\Pi(s,x)} = 1, y = -1 ) = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.302 \barra{P} (Y_{\Pi(s,x)} = 1, y = -1 ) = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.303 ...x)  }= 1\} \dot \Pi\{Y= -1|X\} ]] =  \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.303 ...x)  }= 1\} \dot \Pi\{Y= -1|X\} ]] =  \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.304 ...x)} = 1\} \cdot \Pi \{ y = -1 \} ] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.304 ...x)} = 1\} \cdot \Pi \{ y = -1 \} ] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.305 ... 1\} \cdot \Pi \{ y = -1 | X \} ]] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.305 ... 1\} \cdot \Pi \{ y = -1 | X \} ]] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.311 \\\\
+           = \barra{E}[\barra{E}[\Pi \{Y_\Pi(s,x)\} = 1 | X] \cdot \barra{E}...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.311 \\\\ 
+           = \barra{E}[\barra{E}[\Pi \{Y_\Pi(s,x)\} = 1 | X] \cdot \barra{E}...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.311 ...dot \barra{E}[\Pi \{y = -1\} |X ]] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.311 ...dot \barra{E}[\Pi \{y = -1\} |X ]] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.312 ...\eta_{\Pi(s,x)} \cdot (1-\eta(x))] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.312 ...\eta_{\Pi(s,x)} \cdot (1-\eta(x))] = \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.313 ...barra{P}(Y_{\Pi(s,x)} = -1 ,  y = 1) = \\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.315 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.315 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.317 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.317 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.319 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.319 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.321 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.321 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.322 ...mptions on $D_x \quad and \quad \eta$: \\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.326 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.326 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.330 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.330 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.332 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.332 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.338 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.338 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.340 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.340 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.342 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.342 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.343 ...ta(x) \cdot (1- \eta(x)) + c||X-x'|| \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.343 ...ta(x) \cdot (1- \eta(x)) + c||X-x'|| \\\\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.346 \\ 
+         where $<=$ mean at most
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.347 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.347 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.349 \\
+        
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.352 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.352 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.354 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.354 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.356 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.356 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.358 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.358 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.361 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.361 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.363 \\\\
+          --DISEGNO--
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.363 \\\\-
+           -DISEGNO--
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.364 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.364 \\\\
+          
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@b ->\ifnum 0=`{\fi }${}\cr 
+                                     
+l.367 \\
+        
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.370 \section
+              {Previous work}\label{previous work}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.370 \section
+              {Previous work}\label{previous work}
+Try typing  <return>  to proceed.
+If that doesn'
