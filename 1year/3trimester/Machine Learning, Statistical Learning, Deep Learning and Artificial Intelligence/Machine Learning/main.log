@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=latex 2020.4.11)  12 APR 2020 21:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=latex 2020.4.11)  12 APR 2020 21:50
 entering extended mode
 **./main.tex
 (main.tex
@@ -928,12 +928,12 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 ) [35] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 3644 strings out of 480934
- 50616 string characters out of 2909674
- 314110 words of memory out of 3000000
+ 3643 strings out of 480934
+ 50610 string characters out of 2909674
+ 314098 words of memory out of 3000000
  19425 multiletter control sequences out of 15000+200000
  544831 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,11n,37p,321b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,11n,37p,321b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on main.dvi (36 pages, 72912 bytes).
