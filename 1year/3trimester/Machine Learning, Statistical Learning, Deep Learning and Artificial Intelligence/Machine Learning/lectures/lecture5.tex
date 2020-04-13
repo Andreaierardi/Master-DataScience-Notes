@@ -1,8 +1,9 @@
 \documentclass[../main.tex]{subfiles}
 \begin{document}
-\section{Lecture 5 - 07-04-2020}
 
-\subsection{Tree Classifier}
+\chapter{Lecture 5 - 07-04-2020}
+
+\section{Tree Classifier}
 
 Supposed we groped a tree up to this point and we are wandering how to
 grow it.
@@ -64,7 +65,7 @@ How is traning error going to change?
 I’m hoping my algorithm is not going to overfit (if training error goes to 0 also
 testing error goes to 0).\\
 
-\subsection{Jensen’s inequality}
+\section{Jensen’s inequality}
 If $\psi$ is a concave function $\longrightarrow $ (like $log$ or $\sqrt[2]{..}$ )\\
 Also $\psi$ is a function that map $0$ to $1$, \quad $\longrightarrow$ \quad $\psi\:[0,1]\rightarrow \barra{R}$\\
 $$
@@ -174,7 +175,7 @@ All this functions has this shape (concave???)\\
 \\
 In practise Machine Learning algorithm use GNI or entropy to control the split
 \\\\
-\subsection{Tree Predictor}
+\section{Tree Predictor}
 \begin{itemize}
 \item Multi class classification $|Y| > 2$ $\longrightarrow$ \red{take majority}
 \item Regression $Y = \barra{R} $ $\longrightarrow$ \red{take average of labels in $\sll$}
@@ -210,7 +211,7 @@ classifier (second one) making test splitting data space into region that has
 this sort of “blackish” shape ( like boxes: blue box, red box, yellow box)\\
 A good exercise in which I want to reconstruct the tree given this picture.
 \\\\
-\subsection{Statistical model for Machine Learning}
+\section{Statistical model for Machine Learning}
 
 To understand Tree classifier, nearest neighbour and other algorithm...\\
 It’s important to understand that the only way to have a guideline in which

@@ -1,241 +1,348 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.12)  13 APR 2020 10:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  13 APR 2020 11:48
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14>
-("E:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+("C:\Program Files\MiKTeX 2.9\tex/latex/elegantnote\ElegantNote.cls"
+
+LaTeX Warning: You have requested document class `ElegantNote',
+               but the document class provides `elegantnote'.
+
+Document Class: elegantnote 2018/12/09 ElegantNote v2.20 class
+("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifxetex.sty"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count167
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count168
+\calc@Bcount=\count169
+\calc@Adimen=\dimen134
+\calc@Bdimen=\dimen135
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count170
+\calc@Cskip=\skip49
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("E:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen134
+\c@part=\count171
+\c@section=\count172
+\c@subsection=\count173
+\c@subsubsection=\count174
+\c@paragraph=\count175
+\c@subparagraph=\count176
+\c@figure=\count177
+\c@table=\count178
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\bibindent=\dimen136
 )
-("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
 Package: amsmath 2020/01/20 v2.17e AMS math features
-\@mathmargin=\skip49
+\@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks14
-\ex@=\dimen135
+\@emptytoks=\toks16
+\ex@=\dimen137
 ))
-("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen136
+\pmbraise@=\dimen138
 )
-("E:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count175
+\inf@bad=\count179
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count176
-\leftroot@=\count177
+\uproot@=\count180
+\leftroot@=\count181
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count178
-\DOTSCASE@=\count179
+\classnum@=\count182
+\DOTSCASE@=\count183
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
 \Mathstrutbox@=\box45
 \strutbox@=\box46
-\big@size=\dimen137
+\big@size=\dimen139
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count180
-\c@MaxMatrixCols=\count181
+\macc@depth=\count184
+\c@MaxMatrixCols=\count185
 \dotsspace@=\muskip16
-\c@parentequation=\count182
-\dspbrk@lvl=\count183
-\tag@help=\toks15
-\row@=\count184
-\column@=\count185
-\maxfields@=\count186
-\andhelp@=\toks16
-\eqnshift@=\dimen138
-\alignsep@=\dimen139
-\tagshift@=\dimen140
-\tagwidth@=\dimen141
-\totwidth@=\dimen142
-\lineht@=\dimen143
-\@envbody=\toks17
-\multlinegap=\skip50
-\multlinetaggap=\skip51
-\mathdisplay@stack=\toks18
+\c@parentequation=\count186
+\dspbrk@lvl=\count187
+\tag@help=\toks17
+\row@=\count188
+\column@=\count189
+\maxfields@=\count190
+\andhelp@=\toks18
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
+\@envbody=\toks19
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
-("E:\Program Files\MiKTeX 2.9\tex/latex/systeme\systeme.sty"
-("E:\Program Files\MiKTeX 2.9\tex/latex/xstring\xstring.sty"
-("E:\Program Files\MiKTeX 2.9\tex/generic/xstring\xstring.tex"
-\integerpart=\count187
-\decimalpart=\count188
+("C:\Program Files\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks26
 )
-Package: xstring 2019/02/06 v1.83 String manipulations (CT)
-)
-("E:\Program Files\MiKTeX 2.9\tex/generic/systeme\systeme.tex"
-\SYS_systemecode=\toks19
-\SYS_systempreamble=\toks20
-\SYSeqnum=\count189
-)
-Package: systeme 2019/01/13 v0.32 Mise en forme de systemes d'equations (CT)
-)
-("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
+("C:\Program Files\MiKTeX 2.9\tex/latex/ctex\ctex.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-03-06 L3 programming layer (loader) 
 
-("E:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-("E:\Program Files\MiKTeX 2.9\tex/latex/subfiles\subfiles.sty"
-Package: subfiles 2020/02/14 v1.6 Multi-file projects (package)
-
-("E:\Program Files\MiKTeX 2.9\tex/latex/import\import.sty"
-Package: import 2020/04/01  v 6.2
-))
-("E:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2020/02/14 3.40 The Babel package
-
-("E:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
-File: switch.def 2020/02/14 3.40 Babel switching mechanism
-)
-*************************************
-* Local config file bblopts.cfg used
-*
-("E:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("E:\Program Files\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
-Language: english 2017/06/06 v3.3r English support from the babel system
-
-("E:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2020/02/14 3.40 Babel common definitions
-\babel@savecnt=\count190
-\U@D=\dimen144
-
-("E:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
-\bbl@readstream=\read2
-\bbl@dirlevel=\count191
-)
-Package babel Info: \l@canadian = using hyphenrules for english
-(babel)             (\language0) on input line 102.
-Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language72) on input line 105.
-Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language72) on input line 108.
-))
-("E:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("E:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-
-("E:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-
-("E:\Program Files\MiKTeX 2.9\tex/latex/graphics\dvipsnam.def"
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
-("E:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("E:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
-)
-("E:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-
-("E:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("E:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 105.
-)
-\Gin@req@height=\dimen145
-\Gin@req@width=\dimen146
-)
-("E:\Program Files\MiKTeX 2.9\tex/latex/framed\framed.sty"
-Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip52
-\fb@frw=\dimen147
-\fb@frh=\dimen148
-\FrameRule=\dimen149
-\FrameSep=\dimen150
-)
-("E:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count192
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count191
 \l__pdf_internal_box=\box47
-)
-(main.aux)
-\openout1 = `main.aux'.
+))
+Package: ctex 2019/05/29 v2.4.16 Chinese adapter in LaTeX (CTEX)
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
- ("E:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count193
-\scratchdimen=\dimen151
-\scratchbox=\box48
-\nofMPsegments=\count194
-\nofMParguments=\count195
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count196
-\MPscratchDim=\dimen152
-\MPnumerator=\count197
-\makeMPintoPDFobject=\count198
-\everyMPtoPDFconversion=\toks23
-) ("E:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/xparse\xparse.sty"
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count192
+\g__xparse_grabber_int=\count193
+\l__xparse_m_args_int=\count194
+\l__xparse_v_nesting_int=\count195
 )
-!pdfTeX error: pdflatex (file ./img/frontpage2.jpg): reading JPEG image failed 
-(no JPEG header found)
- ==> Fatal error occurred, no output PDF file produced!
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/ctex\ctexhook.sty"
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/ctex\ctexpatch.sty"
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fix-cm.sty"
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count196
+\l__ctex_tmp_box=\box48
+\l__ctex_tmp_dim=\dimen146
+\g__ctex_section_depth_int=\count197
+\g__ctex_font_size_int=\count198
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/ctex/config\ctexopts.cfg"
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/ctex/engine\ctex-engine-pdftex.def"
+File: ctex-engine-pdftex.def 2019/05/29 v2.4.16 (pdf)LaTeX adapter (CTEX)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/cjk\CJKutf8.sty"
+Package: CJKutf8 2015/04/18 4.8.4
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks27
+\inpenc@posthook=\toks28
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/cjk\CJK.sty"
+Package: CJK 2015/04/18 4.8.4
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/cjk/mule\MULEenc.sty"
+Package: MULEenc 2015/04/18 4.8.4
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/cjk\CJK.enc"
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box49
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/cjkpunct\CJKpunct.sty"
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count199
+\CJKpunct@cntb=\count266
+\CJKpunct@cntc=\count267
+\CJKpunct@cntd=\count268
+\CJKpunct@cnte=\count269
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/cjkpunct\CJKpunct.spa"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/cjk\CJKspace.sty"
+Package: CJKspace 2015/04/18 3.8.0
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/ctex\ctexspa.def"
+File: ctexspa.def 2019/05/29 v2.4.16 Space info for CJKpunct (CTEX)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/cjk\CJKfntef.sty"
+Package: CJKfntef 2015/04/18 4.8.4
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/cjk\CJKulem.sty"
+Package: CJKulem 2015/04/18 4.8.4
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/ulem\ulem.sty"
+\UL@box=\box50
+\UL@hyphenbox=\box51
+\UL@skip=\skip58
+\UL@hook=\toks29
+\UL@height=\dimen147
+\UL@pe=\count270
+\UL@pixel=\dimen148
+\ULC@box=\box52
+Package: ulem 2019/11/18
+\ULdepth=\dimen149
+)
+\UL@lastkern=\dimen150
+\CJK@skip=\skip59
+)
+\CJK@fntefSkip=\skip60
+\CJK@nest=\count271
+\CJK@fntefDimen=\dimen151
+\CJK@underdotBox=\box53
+\CJK@ULbox=\box54
+\CJK@underanyskip=\dimen152
+)
+\ccwd=\dimen153
+\l__ctex_ccglue_skip=\skip61
+)
+\l__ctex_ziju_dim=\dimen154
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/zhnumber\zhnumber.sty"
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count272
+\l__zhnum_byte_min_int=\count273
+\l__zhnum_byte_max_int=\count274
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/zhnumber\zhnumber-utf8.cfg"
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/ctex/scheme\ctex-scheme-plain.def"
+File: ctex-scheme-plain.def 2019/05/29 v2.4.16 Plain scheme for generic (CTEX)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/ctex/fontset\ctex-fontset-windows.def"
+File: ctex-fontset-windows.def 2019/05/29 v2.4.16 Windows fonts definition (CTE
+X)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/ctex/fontset\ctex-fontset-window
