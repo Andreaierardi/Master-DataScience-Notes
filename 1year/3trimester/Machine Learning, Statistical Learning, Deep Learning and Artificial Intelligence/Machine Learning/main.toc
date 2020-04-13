@@ -1,34 +1,34 @@
 \babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}Lecture 1 - 09-03-2020}{3}%
-\contentsline {section}{\numberline {1.1}Introduction}{3}%
-\contentsline {chapter}{\numberline {2}Lecture 2 - 07-04-2020}{6}%
-\contentsline {section}{\numberline {2.1}Argomento}{6}%
-\contentsline {section}{\numberline {2.2}Loss}{6}%
-\contentsline {subsection}{\numberline {2.2.1}Absolute Loss}{6}%
-\contentsline {subsection}{\numberline {2.2.2}Square Loss}{7}%
-\contentsline {subsection}{\numberline {2.2.3}Example of information of square loss}{7}%
-\contentsline {subsection}{\numberline {2.2.4}labels and losses}{8}%
-\contentsline {subsection}{\numberline {2.2.5}Example TF(idf) documents encoding}{10}%
-\contentsline {chapter}{\numberline {3}Lecture 3 - 07-04-2020}{12}%
-\contentsline {section}{\numberline {3.1}Overfitting}{14}%
-\contentsline {subsection}{\numberline {3.1.1}Noise in the data}{14}%
-\contentsline {section}{\numberline {3.2}Underfitting}{15}%
-\contentsline {section}{\numberline {3.3}Nearest neighbour}{16}%
-\contentsline {chapter}{\numberline {4}Lecture 4 - 07-04-2020}{18}%
-\contentsline {section}{\numberline {4.1}Computing $h_{NN}$}{18}%
-\contentsline {section}{\numberline {4.2}Tree Predictor}{19}%
-\contentsline {chapter}{\numberline {5}Lecture 5 - 07-04-2020}{22}%
-\contentsline {section}{\numberline {5.1}Tree Classifier}{22}%
-\contentsline {section}{\numberline {5.2}Jensen’s inequality}{23}%
-\contentsline {section}{\numberline {5.3}Tree Predictor}{25}%
-\contentsline {section}{\numberline {5.4}Statistical model for Machine Learning}{26}%
-\contentsline {chapter}{\numberline {6}Lecture 6 - 07-04-2020}{28}%
-\contentsline {section}{\numberline {6.1}Bayes Optimal Predictor}{28}%
-\contentsline {subsection}{\numberline {6.1.1}Square Loss}{29}%
-\contentsline {subsection}{\numberline {6.1.2}Zero-one loss for binary classification}{30}%
-\contentsline {section}{\numberline {6.2}Bayes Risk}{32}%
-\contentsline {chapter}{\numberline {7}Lecture 7 - 07-04-2020}{33}%
-\contentsline {chapter}{\numberline {8}Lecture 8 - 07-04-2020}{34}%
-\contentsline {chapter}{\numberline {9}Lecture 9 - 07-04-2020}{35}%
-\contentsline {chapter}{\numberline {10}Lecture 10 - 07-04-2020}{36}%
-\contentsline {section}{\numberline {10.1}TO BE DEFINE}{36}%
+\contentsline {chapter}{\numberline {1}Lecture 1 - 09-03-2020}{4}%
+\contentsline {section}{\numberline {1.1}Introduction}{4}%
+\contentsline {chapter}{\numberline {2}Lecture 2 - 07-04-2020}{7}%
+\contentsline {section}{\numberline {2.1}Argomento}{7}%
+\contentsline {section}{\numberline {2.2}Loss}{7}%
+\contentsline {subsection}{\numberline {2.2.1}Absolute Loss}{7}%
+\contentsline {subsection}{\numberline {2.2.2}Square Loss}{8}%
+\contentsline {subsection}{\numberline {2.2.3}Example of information of square loss}{8}%
+\contentsline {subsection}{\numberline {2.2.4}labels and losses}{9}%
+\contentsline {subsection}{\numberline {2.2.5}Example TF(idf) documents encoding}{11}%
+\contentsline {chapter}{\numberline {3}Lecture 3 - 07-04-2020}{13}%
+\contentsline {section}{\numberline {3.1}Overfitting}{15}%
+\contentsline {subsection}{\numberline {3.1.1}Noise in the data}{15}%
+\contentsline {section}{\numberline {3.2}Underfitting}{16}%
+\contentsline {section}{\numberline {3.3}Nearest neighbour}{17}%
+\contentsline {chapter}{\numberline {4}Lecture 4 - 07-04-2020}{19}%
+\contentsline {section}{\numberline {4.1}Computing $h_{NN}$}{19}%
+\contentsline {section}{\numberline {4.2}Tree Predictor}{20}%
+\contentsline {chapter}{\numberline {5}Lecture 5 - 07-04-2020}{23}%
+\contentsline {section}{\numberline {5.1}Tree Classifier}{23}%
+\contentsline {section}{\numberline {5.2}Jensen’s inequality}{24}%
+\contentsline {section}{\numberline {5.3}Tree Predictor}{26}%
+\contentsline {section}{\numberline {5.4}Statistical model for Machine Learning}{27}%
+\contentsline {chapter}{\numberline {6}Lecture 6 - 07-04-2020}{29}%
+\contentsline {section}{\numberline {6.1}Bayes Optimal Predictor}{29}%
+\contentsline {subsection}{\numberline {6.1.1}Square Loss}{30}%
+\contentsline {subsection}{\numberline {6.1.2}Zero-one loss for binary classification}{31}%
+\contentsline {section}{\numberline {6.2}Bayes Risk}{33}%
+\contentsline {chapter}{\numberline {7}Lecture 7 - 07-04-2020}{34}%
+\contentsline {chapter}{\numberline {8}Lecture 8 - 07-04-2020}{35}%
+\contentsline {chapter}{\numberline {9}Lecture 9 - 07-04-2020}{36}%
+\contentsline {chapter}{\numberline {10}Lecture 10 - 07-04-2020}{37}%
+\contentsline {section}{\numberline {10.1}TO BE DEFINE}{37}%

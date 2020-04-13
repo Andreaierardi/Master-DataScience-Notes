@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  13 APR 2020 15:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  13 APR 2020 15:32
 entering extended mode
 **./main.tex
 (main.tex
@@ -326,7 +326,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  [1
 
 ] [2]
-(lectures/lecture1.tex
+(main.lof)
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+ [3
+
+] (lectures/lecture1.tex
 Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--95
@@ -338,7 +344,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--95
 
  []
 
-[3
+[4
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 98--138
@@ -355,7 +361,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--138
 
  []
 
-[4]) [5] (lectures/lecture2.tex
+[5]) [6] (lectures/lecture2.tex
 Chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--16
@@ -377,7 +383,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
-[6
+[7
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 49--52
@@ -394,7 +400,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--81
 
  []
 
-[7]
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 81--86
 
  []
@@ -419,37 +425,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--115
 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
 [9]
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--156
+
+ []
+
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 164--171
 
  []
@@ -459,12 +465,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 172--182
 
  []
 
-[10]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 189--199
 
  []
 
-) [11] (lectures/lecture3.tex
+) [12] (lectures/lecture3.tex
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--7
@@ -521,7 +527,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--35
 
  []
 
-[12
+[13
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 48--54
@@ -548,7 +554,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--86
 
  []
 
-[13]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 89--96
 
  []
@@ -593,7 +599,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--138
 
  []
 
-[14]
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 144--160
 
  []
@@ -609,7 +615,7 @@ Overfull \hbox (36.23656pt too wide) detected at line 170
  []
  []
 
-[15]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 177--179
 
  []
@@ -644,12 +650,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--223
 
  []
 
-[16]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
-) [17] (lectures/lecture4.tex
+) [18] (lectures/lecture4.tex
 Chapter 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--14
@@ -686,7 +692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--66
 
  []
 
-[18
+[19
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 68--70
@@ -698,7 +704,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--88
 
  []
 
-[19]
+[20]
 Underfull \hbox (badness 10000) in paragraph at lines 93--99
 
  []
@@ -714,46 +720,46 @@ Overfull \hbox (30.95695pt too wide) detected at line 115
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 163.
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 142--93
+Underfull \hbox (badness 10000) in paragraph at lines 142--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--93
+Underfull \hbox (badness 10000) in paragraph at lines 142--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--93
+Underfull \hbox (badness 10000) in paragraph at lines 142--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--93
+Underfull \hbox (badness 10000) in paragraph at lines 142--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--93
+Underfull \hbox (badness 10000) in paragraph at lines 142--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--93
+Underfull \hbox (badness 10000) in paragraph at lines 142--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--93
+Underfull \hbox (badness 10000) in paragraph at lines 142--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--93
+Underfull \hbox (badness 10000) in paragraph at lines 142--95
 
  []
 
-[20] [21] (lectures/lecture5.tex
+[21] [22] (lectures/lecture5.tex
 Chapter 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--15
@@ -790,7 +796,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--67
 
  []
 
-[22
+[23
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 69--71
@@ -862,7 +868,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--131
 
  []
 
-[23]
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 134--136
 
  []
@@ -892,43 +898,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--162
 
  []
 
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 172--178
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--178
-
- []
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 190.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 190.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--194
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--194
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--214
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--214
-
- []
-
 [25]
+Underfull \hbox (badness 10000) in paragraph at lines 172--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--178
+
+ []
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 190.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 190.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--214
+
+ []
+
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 216--222
 
  []
@@ -938,7 +944,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--222
 
  []
 
-) [26] [27] (lectures/lecture6.tex
+) [27] [28] (lectures/lecture6.tex
 Chapter 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--17
@@ -970,7 +976,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--52
 
  []
 
-[28
+[29
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 53--57
@@ -1005,7 +1011,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--93
 
  []
 
-[29]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 98--100
 
  []
@@ -1031,7 +1037,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--150
 
  []
 
-[30]
+[31]
 Underfull \hbox (badness 10000) in paragraph at lines 165--169
 
  []
@@ -1055,32 +1061,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--185
 
  []
 
-[31]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 206--210
 
  []
 
-<./img/bayesrisk.jpg, id=130, 496.10344pt x 237.13594pt>
+<./img/bayesrisk.jpg, id=133, 496.10344pt x 237.13594pt>
 File: ./img/bayesrisk.jpg Graphic file (type jpg)
 <use ./img/bayesrisk.jpg>
-Package pdftex.def Info: ./img/bayesrisk.jpg  used on input line 220.
-(pdftex.def)             Requested size: 496.10222pt x 237.13535pt.
-)
-Overfull \hbox (106.10222pt too wide) in paragraph at lines 219--101
-[] 
- []
-
-[32 <./img/bayesrisk.jpg>] (lectures/lecture7.tex
+Package pdftex.def Info: ./img/bayesrisk.jpg  used on input line 222.
+(pdftex.def)             Requested size: 390.0pt x 186.41986pt.
+) [33 <./img/bayesrisk.jpg>] (lectures/lecture7.tex
 Chapter 7.
-) [33
+) [34
 
 ] (lectures/lecture8.tex
 Chapter 8.
-) [34
+) [35
 
 ] (lectures/lecture9.tex
 Chapter 9.
-) [35
+) [36
 
 ] (lectures/lecture10.tex
 Chapter 10.
@@ -1112,7 +1113,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--34
 
  []
 
-[36
+[37
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 37--50
@@ -1159,21 +1160,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--96
 
  []
 
-[37]) [38] (main.bbl
+[38]) [39] (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [39
+) [40
 
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 5163 strings out of 480934
- 71375 string characters out of 2909670
+ 5168 strings out of 480934
+ 71584 string characters out of 2909670
  339202 words of memory out of 3000000
- 20874 multiletter control sequences out of 15000+200000
+ 20876 multiletter control sequences out of 15000+200000
  553472 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,11n,42p,309b,280s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,11n,42p,309b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
 appen/ec/dpi600\tcbx1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts
 /pk/ljfour/jknappen/ec/dpi600\tcti1200.pk> <C:\Users\AndreDany\AppData\Local\Mi
@@ -1198,9 +1199,9 @@ nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:
 /Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (40 pages, 1301652 bytes).
+Output written on main.pdf (41 pages, 1302663 bytes).
 PDF statistics:
- 570 PDF objects out of 1000 (max. 8388607)
+ 574 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
