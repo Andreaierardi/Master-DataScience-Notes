@@ -1,7 +1,7 @@
 \documentclass[../main.tex]{subfiles}
 
 \begin{document}
-\section{Lecture 3 - 07-04-2020}
+\chapter{Lecture 3 - 07-04-2020}
 Data point x represented as sequences of measurement and we called this
 measurements features or attributes.\\
 $$ x = (x_1,..., x_d)  \qquad x_1 \quad \textit{feature value}
@@ -74,7 +74,7 @@ which we can avoid this to happen by design:
 We want when we run ERM choosing a good predictor with ...... PD\\\\
 
 
-\subsection{Overfitting}
+\section{Overfitting}
 We called this as overfitting: specific situation in which ‘A’ (where A is the
 learning algorithm) overfits if f output by A tends to have a training error much
 smaller than the test error.\\
@@ -84,7 +84,7 @@ Minimising training error doesn’t mean minimising test error. Overfitting is b
 Why this happens?\\
 This happen because we have \textbf{noise in the data}\\
 
-\subsubsection{Noise in the data}
+\subsection{Noise in the data}
 
 Noise in the data: $y_t$ is not deterministically associated with $x_i$.\\\\
 Could be that datapoint appears more times in the same test set.
@@ -160,7 +160,7 @@ define which predictor is good.\\
 
 
 
-\subsection{Underfitting}
+\section{Underfitting}
 ‘A’ underfits when f output by A has training error close to test error but they
 are both large.\\
 Close error test and training error is good but the are both large.
@@ -183,7 +183,7 @@ $$
 m >> ln |F| \qquad when \quad |F| < \infty \textit{\\ where m is the size of traning set}
 $$
 \\
-\subsection{Nearest neighbour}
+\section{Nearest neighbour}
 This is completely different from ERM and is one of the first learning
 algorithm. This exploit the geometry of the data.
 Assume that our data space X is:

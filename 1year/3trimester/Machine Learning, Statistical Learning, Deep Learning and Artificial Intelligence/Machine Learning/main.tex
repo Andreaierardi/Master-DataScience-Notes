@@ -1,4 +1,4 @@
-\documentclass[a4paper,12pt]{ElegantNote}
+\documentclass[a4paper,12pt]{report}
 \usepackage{amsmath}
 \usepackage{systeme}
 \usepackage{amssymb}
@@ -11,6 +11,8 @@
 \usepackage{framed}
 \usepackage{titlesec}
 \usepackage[T1]{fontenc}
+%Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
+%\usepackage[Glenn]{fncychap}
 
 \graphicspath{ {./img/} }
 \definecolor{mypink}{cmyk}{0, 0.7808, 0.4429, 0.1412}
@@ -28,14 +30,17 @@
 \newcommand\gray[1]{\textcolor{mygray}{#1}}
 \newcommand\col[2]{\textcolor{#2}{#1}}
 
+%\titleformat{\chapter}[display]
+%  {\normalfont\bfseries}{}{0pt}{\Large}
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries}{}{0pt}{\Huge\color{Blue}}
+\titlespacing*{\chapter}{0pt}{-80pt}{40pt}
 \chapterfont{\color{Blue}}
 \sectionfont{\color{GoodGreen}}
-\subsectionfont{\color{GoodGreen}}
-
-%\titleformat{\section}
- % {\normalfont\normalsize\bfseries}{\thesection.}{1em}{}
+\subsectionfont{\color{BrickRed}}
 
 
+  
 \begin{document}
 
 \begin{titlepage}

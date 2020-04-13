@@ -1,9 +1,9 @@
 \documentclass[../main.tex]{subfiles}
 
 \begin{document}
-\section{Lecture 2 - 07-04-2020}
+\chapter{Lecture 2 - 07-04-2020}
 
-\subsection{Argomento}
+\section{Argomento}
 Classification tasks\\
 Semantic label space Y\\
 Categorization Y finite and\\ small
@@ -27,8 +27,8 @@ $
 Losses for regression?\\
 $y$, and $\hat{y} \in \barra{R}$, \\so they are numbers!\\
 One example of loss is the absolute loss: absolute difference between numbers\\
-\subsection{Loss}
-\subsubsection{Absolute Loss}
+\section{Loss}
+\subsection{Absolute Loss}
 $$\ell(y,\hat{y} = | y - \hat{y} |  \Rightarrow absolute \quad loss\\ $$
 --- DISEGNO ---\\\\
 Some inconvenient properties:
@@ -38,7 +38,7 @@ Some inconvenient properties:
 \item Derivative only two values (not much informations)
 \end{itemize}
 
-\subsubsection{Square Loss}
+\subsection{Square Loss}
 $$ \ell(y,\hat{y} = ( y - \hat{y} )^2  \Rightarrow \textit{square loss}\\$$
 -- DISEGNO ---\\
 Derivative :
@@ -50,7 +50,7 @@ Real numbers as label $\rightarrow$ regression.\\
 Whenever taking difference between two prediction make sense (value are numbers) then we are talking about regression problem.\\
 Classification as categorization when we have small finite set.\\\\
 
-\subsubsection{Example of information of square loss}
+\subsection{Example of information of square loss}
 
 $\ell(y,\hat{y}) = ( y - \hat{y} )^2 = F(y) 
 \\
@@ -106,7 +106,7 @@ $
 The algorithm will be punish high more the prediction is not real. Algorithm will not get 0 and 1 because for example is impossible to get a perfect prediction.\\
 This loss is useful to give this information to the algorithm.\\\\
 Now we talk about labels and losses\\
-\subsubsection{labels and losses}
+\subsection{labels and losses}
 Data points: they have some semantic labels that denote some true about this data points and we want to predict this labels.\\
 We need to define what data points are: number? Strings? File? Typically they are stored in database records \\
 They can have very precise structure or more homogeneously structured \\
@@ -154,7 +154,7 @@ There is a way to encode a set of documents in point in a fixed dimensional
 space in such way it make sense this coordinate are comparable.\\
 I can represent fields with [0,1] for Neural network for example. But they have no geometrical meaning\\
 
-\subsubsection{Example TF(idf) documents encoding} 
+\subsection{Example TF(idf) documents encoding} 
 TF encoding of docs.
 \begin{enumerate}
 \item Extract where all the words from docs
