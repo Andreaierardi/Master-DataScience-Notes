@@ -28,7 +28,9 @@
 \contentsline {subsection}{\numberline {6.1.2}Zero-one loss for binary classification}{31}%
 \contentsline {section}{\numberline {6.2}Bayes Risk}{33}%
 \contentsline {chapter}{\numberline {7}Lecture 7 - 07-04-2020}{34}%
-\contentsline {chapter}{\numberline {8}Lecture 8 - 07-04-2020}{35}%
-\contentsline {chapter}{\numberline {9}Lecture 9 - 07-04-2020}{36}%
-\contentsline {chapter}{\numberline {10}Lecture 10 - 07-04-2020}{37}%
-\contentsline {section}{\numberline {10.1}TO BE DEFINE}{37}%
+\contentsline {subsection}{\numberline {7.0.1}Chernoff-Hoffding bound}{34}%
+\contentsline {subsubsection}{Union Bound}{35}%
+\contentsline {chapter}{\numberline {8}Lecture 8 - 07-04-2020}{38}%
+\contentsline {chapter}{\numberline {9}Lecture 9 - 07-04-2020}{39}%
+\contentsline {chapter}{\numberline {10}Lecture 10 - 07-04-2020}{40}%
+\contentsline {section}{\numberline {10.1}TO BE DEFINE}{40}%
