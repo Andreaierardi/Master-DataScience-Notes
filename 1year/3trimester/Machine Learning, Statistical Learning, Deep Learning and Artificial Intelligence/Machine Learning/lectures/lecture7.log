@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  13 APR 2020 20:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  14 APR 2020 21:52
 entering extended mode
 **./lecture7.tex
 (lecture7.tex
@@ -336,32 +336,139 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--33
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
+
+ []
+
+
+Overfull \hbox (0.51405pt too wide) detected at line 54
+\U/msb/m/n/12 P [] \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 e[] or \U/msb/m/n/12 P [
+] \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 e[]
+ []
+
 [1
 
 
 {C:/Users/AndreDany/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(lecture7.aux) ) 
+<../img/lez7-img1.JPG, id=17, 188.95593pt x 88.83188pt>
+File: ../img/lez7-img1.JPG Graphic file (type jpg)
+<use ../img/lez7-img1.JPG>
+Package pdftex.def Info: ../img/lez7-img1.JPG  used on input line 73.
+(pdftex.def)             Requested size: 117.00119pt x 55.0047pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--87
+
+ []
+
+<../img/lez7-img2.JPG, id=18, 79.79813pt x 73.02281pt>
+File: ../img/lez7-img2.JPG Graphic file (type jpg)
+<use ../img/lez7-img2.JPG>
+Package pdftex.def Info: ../img/lez7-img2.JPG  used on input line 98.
+(pdftex.def)             Requested size: 77.99881pt x 71.37688pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (27.96684pt too wide) detected at line 111
+\U/msb/m/n/12 P [] \OMS/cmsy/m/n/12  \U/msb/m/n/12 P []  \OMS/cmsy/m/n/12 [  \
+U/msb/m/n/12 P [] \OMS/cmsy/m/n/12 
+ []
+
+
+Overfull \hbox (4.4292pt too wide) detected at line 118
+\OMS/cmsy/m/n/12  \U/msb/m/n/12 P [] \OT1/cmr/m/n/12 + \U/msb/m/n/12 P []  \OM
+S/cmsy/m/n/12   \OT1/cmr/m/n/12 2 \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 e[]  \OM
+S/cmsy/m/n/12 ) [][]
+ []
+
+[2 <../img/lez7-img1.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
+
+ []
+
+<../img/lez7-img3.JPG, id=25, 388.45125pt x 124.96687pt>
+File: ../img/lez7-img3.JPG Graphic file (type jpg)
+<use ../img/lez7-img3.JPG>
+Package pdftex.def Info: ../img/lez7-img3.JPG  used on input line 132.
+(pdftex.def)             Requested size: 195.0pt x 62.73308pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--159
+
+ []
+
+[3 <../img/lez7-img2.JPG> <../img/lez7-img3.JPG>]
+Overfull \hbox (76.34352pt too wide) detected at line 161
+\OML/cmm/m/it/12 `[] [] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 min `[] []  [] [] []
+`[] [] [][]\OMS/cmsy/m/n/12 ! []
+ []
+
+<../img/lez7-img4.JPG, id=29, 245.41687pt x 77.53969pt>
+File: ../img/lez7-img4.JPG Graphic file (type jpg)
+<use ../img/lez7-img4.JPG>
+Package pdftex.def Info: ../img/lez7-img4.JPG  used on input line 165.
+(pdftex.def)             Requested size: 117.00119pt x 36.9666pt.
+<../img/lez7-img5.JPG, id=30, 234.1247pt x 109.1578pt>
+File: ../img/lez7-img5.JPG Graphic file (type jpg)
+<use ../img/lez7-img5.JPG>
+Package pdftex.def Info: ../img/lez7-img5.JPG  used on input line 172.
+(pdftex.def)             Requested size: 117.00119pt x 54.55045pt.
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 176.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--180
+
+ []
+
+[4 <../img/lez7-img4.JPG> <../img/lez7-img5.JPG>] (lecture7.aux) ) 
 Here is how much of TeX's memory you used:
- 5070 strings out of 480934
- 68436 string characters out of 2909670
- 331037 words of memory out of 3000000
- 20834 multiletter control sequences out of 15000+200000
- 539297 words of font info for 45 fonts, out of 3000000 for 9000
+ 5130 strings out of 480934
+ 69441 string characters out of 2909670
+ 334037 words of memory out of 3000000
+ 20876 multiletter control sequences out of 15000+200000
+ 546629 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,5n,50p,332b,124s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
-knappen/ec/dpi600\ecrm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on lecture7.pdf (1 page, 85469 bytes).
+ 42i,7n,50p,332b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\An
+dreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk
+> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
+00\ecti1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecbx1440.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\AndreDany\AppData\Local\M
+iKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on lecture7.pdf (4 pages, 213421 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
+ 219 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
