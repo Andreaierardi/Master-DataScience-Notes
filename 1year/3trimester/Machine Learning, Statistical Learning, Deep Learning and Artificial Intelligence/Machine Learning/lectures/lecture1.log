@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  13 APR 2020 12:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  15 APR 2020 21:00
 entering extended mode
 **./lecture1.tex
 (lecture1.tex
@@ -232,16 +232,6 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/fncychap\fncychap.sty"
-Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
-\RW=\skip55
-\mylen=\skip56
-\myhi=\skip57
-\px=\skip58
-\py=\skip59
-\pyy=\skip60
-\pxx=\skip61
 )))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
@@ -318,29 +308,68 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 )
 Chapter 1.
-LaTeX Font Info:    Trying to load font information for OT1+pzc on input line 3
-.
-("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1pzc.fd"
-File: ot1pzc.fd 2020/03/25 font definitions for OT1/pzc.
-)
-LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <76> not available
-(Font)              Font shape `OT1/pzc/m/it' tried instead on input line 3.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 3--3
-[][][][][][][][][]  
- []
-
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 3
-.
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmss.fd"
-File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-Underfull \hbox (badness 10000) in paragraph at lines 8--95
+Underfull \hbox (badness 10000) in paragraph at lines 8--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--95
+Underfull \hbox (badness 10000) in paragraph at lines 8--14
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--53
 
  []
 
@@ -348,55 +377,85 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--95
 
 
 {C:/Users/AndreDany/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
-
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
-
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 10000) in paragraph at lines 98--138
+Underfull \hbox (badness 10000) in paragraph at lines 61--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--138
+Underfull \hbox (badness 10000) in paragraph at lines 61--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--138
+Underfull \hbox (badness 10000) in paragraph at lines 61--89
 
  []
 
-[2] [3] (lecture1.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--89
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 93--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--123
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
+
+ []
+
+[4] (lecture1.aux) ) 
 Here is how much of TeX's memory you used:
- 5192 strings out of 480934
- 70233 string characters out of 2909670
- 340605 words of memory out of 3000000
- 20940 multiletter control sequences out of 15000+200000
- 542533 words of font info for 50 fonts, out of 3000000 for 9000
+ 5099 strings out of 480934
+ 68776 string characters out of 2909670
+ 333073 words of memory out of 3000000
+ 20853 multiletter control sequences out of 15000+200000
+ 546309 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,9n,50p,332b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/
-ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX
-\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\AndreDany\AppDat
-a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\An
-dreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1728.pk
->{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/zapfchan/
-uzcmi8a.pfb>
-Output written on lecture1.pdf (3 pages, 76413 bytes).
+ 42i,9n,50p,332b,152s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\AndreDany\AppData\Lo
+cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\AndreD
+any\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C
+:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\e
+crm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecbx1728.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk
+/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb>
+Output written on lecture1.pdf (4 pages, 100195 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
+ 205 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
