@@ -1,42 +1,44 @@
 \babel@toc {english}{}
 \contentsline {chapter}{\numberline {1}Lecture 1 - 09-03-2020}{4}%
-\contentsline {section}{\numberline {1.1}Introduction}{4}%
-\contentsline {chapter}{\numberline {2}Lecture 2 - 07-04-2020}{7}%
-\contentsline {section}{\numberline {2.1}Argomento}{7}%
-\contentsline {section}{\numberline {2.2}Loss}{7}%
-\contentsline {subsection}{\numberline {2.2.1}Absolute Loss}{7}%
-\contentsline {subsection}{\numberline {2.2.2}Square Loss}{8}%
-\contentsline {subsection}{\numberline {2.2.3}Example of information of square loss}{8}%
-\contentsline {subsection}{\numberline {2.2.4}labels and losses}{9}%
-\contentsline {subsection}{\numberline {2.2.5}Example TF(idf) documents encoding}{11}%
-\contentsline {chapter}{\numberline {3}Lecture 3 - 07-04-2020}{13}%
-\contentsline {section}{\numberline {3.1}Overfitting}{15}%
-\contentsline {subsection}{\numberline {3.1.1}Noise in the data}{15}%
-\contentsline {section}{\numberline {3.2}Underfitting}{16}%
-\contentsline {section}{\numberline {3.3}Nearest neighbour}{17}%
-\contentsline {chapter}{\numberline {4}Lecture 4 - 07-04-2020}{19}%
-\contentsline {section}{\numberline {4.1}Computing $h_{NN}$}{19}%
-\contentsline {section}{\numberline {4.2}Tree Predictor}{20}%
-\contentsline {chapter}{\numberline {5}Lecture 5 - 07-04-2020}{23}%
-\contentsline {section}{\numberline {5.1}Tree Classifier}{23}%
-\contentsline {section}{\numberline {5.2}Jensen’s inequality}{24}%
-\contentsline {section}{\numberline {5.3}Tree Predictor}{26}%
-\contentsline {section}{\numberline {5.4}Statistical model for Machine Learning}{27}%
-\contentsline {chapter}{\numberline {6}Lecture 6 - 07-04-2020}{29}%
-\contentsline {section}{\numberline {6.1}Bayes Optimal Predictor}{29}%
-\contentsline {subsection}{\numberline {6.1.1}Square Loss}{30}%
-\contentsline {subsection}{\numberline {6.1.2}Zero-one loss for binary classification}{31}%
-\contentsline {section}{\numberline {6.2}Bayes Risk}{33}%
-\contentsline {chapter}{\numberline {7}Lecture 7 - 07-04-2020}{34}%
-\contentsline {section}{\numberline {7.1}Chernoff-Hoffding bound}{34}%
-\contentsline {section}{\numberline {7.2}Union Bound}{35}%
-\contentsline {section}{\numberline {7.3}Studying overfitting of a ERM}{39}%
-\contentsline {chapter}{\numberline {8}Lecture 8 - 07-04-2020}{41}%
-\contentsline {section}{\numberline {8.1}The problem of estimating risk in practise}{42}%
-\contentsline {section}{\numberline {8.2}Cross-validation}{44}%
-\contentsline {section}{\numberline {8.3}Nested cross validation}{46}%
-\contentsline {chapter}{\numberline {9}Lecture 9 - 07-04-2020}{47}%
-\contentsline {section}{\numberline {9.1}Tree predictors}{47}%
-\contentsline {subsection}{\numberline {9.1.1}Catalan Number}{49}%
-\contentsline {chapter}{\numberline {10}Lecture 10 - 07-04-2020}{53}%
-\contentsline {section}{\numberline {10.1}TO BE DEFINE}{53}%
+\contentsline {section}{\numberline {1.1}Introduction of the course}{4}%
+\contentsline {section}{\numberline {1.2}Examples}{4}%
+\contentsline {subsection}{\numberline {1.2.1}Spam filtering}{7}%
+\contentsline {chapter}{\numberline {2}Lecture 2 - 07-04-2020}{8}%
+\contentsline {section}{\numberline {2.1}Argomento}{8}%
+\contentsline {section}{\numberline {2.2}Loss}{8}%
+\contentsline {subsection}{\numberline {2.2.1}Absolute Loss}{8}%
+\contentsline {subsection}{\numberline {2.2.2}Square Loss}{9}%
+\contentsline {subsection}{\numberline {2.2.3}Example of information of square loss}{9}%
+\contentsline {subsection}{\numberline {2.2.4}labels and losses}{10}%
+\contentsline {subsection}{\numberline {2.2.5}Example TF(idf) documents encoding}{12}%
+\contentsline {chapter}{\numberline {3}Lecture 3 - 07-04-2020}{14}%
+\contentsline {section}{\numberline {3.1}Overfitting}{16}%
+\contentsline {subsection}{\numberline {3.1.1}Noise in the data}{16}%
+\contentsline {section}{\numberline {3.2}Underfitting}{17}%
+\contentsline {section}{\numberline {3.3}Nearest neighbour}{18}%
+\contentsline {chapter}{\numberline {4}Lecture 4 - 07-04-2020}{20}%
+\contentsline {section}{\numberline {4.1}Computing $h_{NN}$}{20}%
+\contentsline {section}{\numberline {4.2}Tree Predictor}{21}%
+\contentsline {chapter}{\numberline {5}Lecture 5 - 07-04-2020}{24}%
+\contentsline {section}{\numberline {5.1}Tree Classifier}{24}%
+\contentsline {section}{\numberline {5.2}Jensen’s inequality}{25}%
+\contentsline {section}{\numberline {5.3}Tree Predictor}{27}%
+\contentsline {section}{\numberline {5.4}Statistical model for Machine Learning}{28}%
+\contentsline {chapter}{\numberline {6}Lecture 6 - 07-04-2020}{30}%
+\contentsline {section}{\numberline {6.1}Bayes Optimal Predictor}{30}%
+\contentsline {subsection}{\numberline {6.1.1}Square Loss}{31}%
+\contentsline {subsection}{\numberline {6.1.2}Zero-one loss for binary classification}{32}%
+\contentsline {section}{\numberline {6.2}Bayes Risk}{34}%
+\contentsline {chapter}{\numberline {7}Lecture 7 - 07-04-2020}{35}%
+\contentsline {section}{\numberline {7.1}Chernoff-Hoffding bound}{35}%
+\contentsline {section}{\numberline {7.2}Union Bound}{36}%
+\contentsline {section}{\numberline {7.3}Studying overfitting of a ERM}{40}%
+\contentsline {chapter}{\numberline {8}Lecture 8 - 07-04-2020}{42}%
+\contentsline {section}{\numberline {8.1}The problem of estimating risk in practise}{43}%
+\contentsline {section}{\numberline {8.2}Cross-validation}{45}%
+\contentsline {section}{\numberline {8.3}Nested cross validation}{47}%
+\contentsline {chapter}{\numberline {9}Lecture 9 - 07-04-2020}{48}%
+\contentsline {section}{\numberline {9.1}Tree predictors}{48}%
+\contentsline {subsection}{\numberline {9.1.1}Catalan Number}{50}%
+\contentsline {chapter}{\numberline {10}Lecture 10 - 07-04-2020}{54}%
+\contentsline {section}{\numberline {10.1}TO BE DEFINE}{54}%
