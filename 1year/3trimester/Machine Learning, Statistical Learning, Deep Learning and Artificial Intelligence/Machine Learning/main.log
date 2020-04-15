@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  14 APR 2020 21:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  15 APR 2020 12:32
 entering extended mode
 **./main.tex
 (main.tex
@@ -232,20 +232,20 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count194
@@ -301,12 +301,12 @@ G,.JBIG2,.JB2,.eps]
 <./img/unimi.png, id=1, 1240.635pt x 416.2752pt>
 File: ./img/unimi.png Graphic file (type png)
 <use ./img/unimi.png>
-Package pdftex.def Info: ./img/unimi.png  used on input line 53.
+Package pdftex.def Info: ./img/unimi.png  used on input line 55.
 (pdftex.def)             Requested size: 195.0pt x 65.42395pt.
 <./img/front.jpg, id=3, 1606.0pt x 903.375pt>
 File: ./img/front.jpg Graphic file (type jpg)
 <use ./img/front.jpg>
-Package pdftex.def Info: ./img/front.jpg  used on input line 72.
+Package pdftex.def Info: ./img/front.jpg  used on input line 74.
 (pdftex.def)             Requested size: 350.99762pt x 197.4336pt.
  [1
 
@@ -720,42 +720,42 @@ Overfull \hbox (30.95695pt too wide) detected at line 115
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 163.
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 142--96
+Underfull \hbox (badness 10000) in paragraph at lines 142--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--96
+Underfull \hbox (badness 10000) in paragraph at lines 142--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--96
+Underfull \hbox (badness 10000) in paragraph at lines 142--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--96
+Underfull \hbox (badness 10000) in paragraph at lines 142--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--96
+Underfull \hbox (badness 10000) in paragraph at lines 142--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--96
+Underfull \hbox (badness 10000) in paragraph at lines 142--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--96
+Underfull \hbox (badness 10000) in paragraph at lines 142--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--96
+Underfull \hbox (badness 10000) in paragraph at lines 142--98
 
  []
 
@@ -1141,14 +1141,14 @@ Overfull \hbox (27.96684pt too wide) detected at line 111
 U/msb/m/n/12 P [] \OMS/cmsy/m/n/12 
  []
 
-
+[35 <./lectures/../img/lez7-img1.JPG>]
 Overfull \hbox (4.4292pt too wide) detected at line 118
 \OMS/cmsy/m/n/12  \U/msb/m/n/12 P [] \OT1/cmr/m/n/12 + \U/msb/m/n/12 P []  \OM
 S/cmsy/m/n/12   \OT1/cmr/m/n/12 2 \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 e[]  \OM
 S/cmsy/m/n/12 ) [][]
  []
 
-[35 <./lectures/../img/lez7-img1.JPG>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 122--125
 
  []
@@ -1164,17 +1164,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--145
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--159
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--159
-
- []
-
 [36 <./lectures/../img/lez7-img2.JPG> <./lectures/../img/lez7-img3.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 147--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--159
+
+ []
+
+
 Overfull \hbox (76.34352pt too wide) detected at line 161
 \OML/cmm/m/it/12 `[] [] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 min `[] []  [] [] []
 `[] [] [][]\OMS/cmsy/m/n/12 ! []
@@ -1195,19 +1195,89 @@ Package pdftex.def Info: lectures/../img/lez7-img5.JPG  used on input line 172.
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 176.
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 161--108
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--193
 
  []
 
 [37 <./lectures/../img/lez7-img4.JPG> <./lectures/../img/lez7-img5.JPG>]
-(lectures/lecture8.tex
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
+
+ []
+
+<lectures/../img/lez7-img6.JPG, id=155, 327.47343pt x 208.52907pt>
+File: lectures/../img/lez7-img6.JPG Graphic file (type jpg)
+<use lectures/../img/lez7-img6.JPG>
+Package pdftex.def Info: lectures/../img/lez7-img6.JPG  used on input line 217.
+
+(pdftex.def)             Requested size: 195.0pt x 124.17337pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--224
+
+ []
+
+[38 <./lectures/../img/lez7-img6.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 251--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--273
+
+ []
+
+[39])
+Underfull \hbox (badness 10000) in paragraph at lines 295--110
+
+ []
+
+[40] (lectures/lecture8.tex
 Chapter 8.
-) [38
+) [41
 
 ] (lectures/lecture9.tex
 Chapter 9.
-) [39
+) [42
 
 ] (lectures/lecture10.tex
 Chapter 10.
@@ -1239,7 +1309,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--34
 
  []
 
-[40
+[43
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 37--50
@@ -1286,48 +1356,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--96
 
  []
 
-[41]) [42] (main.bbl
+[44]) [45] (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [43
+) [46
 
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 5206 strings out of 480934
- 72528 string characters out of 2909670
- 339202 words of memory out of 3000000
- 20905 multiletter control sequences out of 15000+200000
- 555029 words of font info for 76 fonts, out of 3000000 for 9000
+ 5218 strings out of 480934
+ 72729 string characters out of 2909670
+ 339238 words of memory out of 3000000
+ 20913 multiletter control sequences out of 15000+200000
+ 557124 words of font info for 79 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,11n,42p,309b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,11n,42p,311b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
-appen/ec/dpi600\tcbx1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts
-/pk/ljfour/jknappen/ec/dpi600\tcti1200.pk> <C:\Users\AndreDany\AppData\Local\Mi
-KTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\AndreDany\Ap
-pData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\User
-s\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm120
+appen/ec/dpi600\ecbi1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts
+/pk/ljfour/jknappen/ec/dpi600\tcbx1200.pk> <C:\Users\AndreDany\AppData\Local\Mi
+KTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcti1200.pk> <C:\Users\AndreDany\Ap
+pData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\User
+s\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx144
 0.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecbx1728.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
-r/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\AndreDany\AppData\Loc
-al\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\AndreDa
-ny\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk> <C:
+dpi600\tcrm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\AndreDany\AppData\Loc
+al\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\AndreDa
+ny\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:
 \Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ec
-bx2488.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-msy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (44 pages, 1382132 bytes).
+rm2074.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
+n/ec/dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/
+msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msb
+m10.pfb>
+Output written on main.pdf (47 pages, 1413965 bytes).
 PDF statistics:
- 599 PDF objects out of 1000 (max. 8388607)
+ 628 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

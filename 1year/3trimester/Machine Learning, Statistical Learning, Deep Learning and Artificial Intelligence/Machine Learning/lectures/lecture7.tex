@@ -40,7 +40,7 @@ $$
 We cannot have a sample of $n = \infty$ so we will introduce another assumption:
 the \red{Chernoff-Hoffding bound}
 
-\subsection{Chernoff-Hoffding bound}
+\section{Chernoff-Hoffding bound}
 $$
 Z_1,...,Z_n \quad \textit{iid random variable} \qquad \barra{E}\left[Z_t \right] = u
 $$
@@ -61,7 +61,7 @@ $
 \\
 We are using the bound of e to bound the deviation of this.
 
-\subsubsection{Union Bound}
+\section{Union Bound}
 Union bound: a collection of event not necessary disjoint, then i know
 that probability of the union of this event is the at most the sum of the
 probabilities of individual events
@@ -177,4 +177,124 @@ In risk we get opt in $h^*$ but in empirical one we could get another $h’$ bet
 \\\\
 In order to fix on a concrete algorithm we are going to take the empirical Islam
 minimiser (ERM) algorithm.
+\\
+$A$ is $ERM$ on $H$ \qquad $\left(A\right) = \hat{h} = (\in) \, argmin \, \hat{\ell}_S\left(h\right)
+$
+\\
+Once I piack $\hat{h}$ i can look at training error of ERM
+\\
+$$ \hat{\ell}_S\left(\hat{h}\right) of \hat{h} = A(S)$$
+where $\hat{\ell}_S$ is the training error
+\\\\
+Should $\hat{\ell}_S\left(\hat{h}\right)$ be close to $\ell_D\left(\hat{h}\right)$ ?
+\\
+I’m interested in empirical error minimiser and do a trivial decomposition.
+\\\\
+$$
+\ell_d\left(\hat{h}\right) = \quad \ell_D\left(\hat{h}\right) - \ell_d\left(h^*\right) + \qquad \longrightarrow \red{\textbf{ Variance error $\Rightarrow$ Overfitting}}
+$$
+$$
+\qquad \quad +\,  \ell_d\left(h^+\right) - \ell_d\left(f^*\right) + \qquad \longrightarrow \red{\textbf{ Bias error $\Rightarrow$ Underfitting}}
+$$
+$$ \qquad \qquad \quad 
++ \, \ell_D\left(f^*\right)\qquad \qquad \quad  \longrightarrow \red{\textbf{ Bayes risk $\Rightarrow$ Unavoidable}} 
+$$\\
+Even the best predictor is going to suffer that\\
+$$ f^* \textit{ is \textbf{Bayes Optimal} for $(D,\ell)$ }
+$$
+$$\forall \, h \qquad \ell_D\left(h\right) \geq \ell_D\left(f^*\right)
+$$
+If $f^* \not\in H$ then $\ell_D\left(h^*\right) > \ell_D (f^*) $
+\\\\
+If i pick $h^*$ I will pick some error because we are not close enough to the risk.\\
+We called this component \red{\textbf{bias error}}.\\
+Bias error is responsible for underfitting (when training and test are close
+to each but they are both high :( )\\
+\red{\textbf{Variance error}} over fitting
+\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{../img/lez7-img6.JPG}
+    \caption{Draw of how $\hat{h}$, $h^*$ and $f^*$ are represented}
+    %\label{fig:}
+\end{figure}\\
+Variance is a random quantity and we want to study this.
+We can always get risk from training error.
+\\\\
+\section{Studying overfitting of a ERM}
+We can bound it with probability.\\
+\bred{I add and subtract trivial traning error $\hat{\ell}_S\left(h\right)$}
+$$
+\ell_D \left(\hat{h}\right) 
+-\ell_d \left(h^*\right)
+\quad
+ = 
+ \quad 
+\ell_D \left(\hat{h}\right) - 
+\hat{\ell}_S\left( h \right)
++ 
+\hat{\ell}_S \left( \hat{h} \right)
+- \ell_D\left( h^* \right) \leq 
+$$
+$$
+\leq \, \ell_D \left(\hat{h}\right) - 
+\hat{\ell}_S\left( \hat{h} \right)
++ 
+\hat{\ell}_S \left( h^* \right)
+- \ell_D\left( h^* \right) \leq \,
+$$
+$$
+\leq \, | \, \ell_D\left(\hat{h}\right) - \hat{\ell}_S\left(h\right) \, | + | \, \hat{\ell}_S\left(h^+\right) - \ell_D\left(h^*\right) \, |\, \leq
+$$
+$$
+\leq \quad 2 \cdot max \, |\hat{\ell}_S\left(h\right) - \ell_D\left(h\right) |
+$$
+(no probability here)\\
+\textbf{Any given $\hat{h}$ minising $\hat{\ell}_S\left(h\right)$}
+\\\\
+Now assume we have a large deviation
+\\
+$$
+\textit{Assume \quad } \ell_D\left(\hat{h}\right) - \ell_D \left(h^* \right) > \varepsilon \qquad \Rightarrow \qquad max \, | \, \hat{\ell}_S\left(h\right) - \ell_D \left(h\right) \, | > \frac{\varepsilon}{2}
+$$
+\\
+We know $\ell_d\left(\hat{h}\right) - \ell_D\left(h^*\right) 
+\quad \leq \quad 2
+ \cdot max \,|\, \hat{\ell}_S \left(h\right) - \ell_D\left(h\right) \, |$ \quad $\Rightarrow$
+\\
+$$
+\Rightarrow \quad \exists h \in H \qquad | \, \hat{\ell}_S\left(h\right) - \ell_D\left(h \right) \, | \, > \frac{3}{2} \qquad \Rightarrow
+$$
+with $|H| < \infty$
+$$
+\Rightarrow U \left( \, | \, \hat{\ell}_S\left(h\right) - \ell_D \left(h\right) \, | \, \right) > \frac{3}{2}
+$$
+\\
+$$
+\barra{P} \left( \ell_D \left(\hat{h}\right) - \ell_D \left( h^* \right) 
+> 
+\varepsilon \right) \quad \leq \quad \barra{P} \left( U \left( \, | \, \hat{\ell}_S\left(h\right) - \ell_D \left(h\right) \, | \, \right) > \frac{3}{2} \right) \quad \leq
+$$
+$$
+\red{\leq}  \quad \sum_{h \in H}{} \, \barra{P} \left( \,  | \, \hat{\ell}_S\left(h\right) - \ell_D \left(h\right) \, |  \, > \frac{3}{2}  \right) \qquad \leq \qquad \sum_{h \in H}{} 2 \cdot e^{-2 \, \left(\frac{\varepsilon}{2}\right)^2 \, m} \qquad \leq 
+$$
+\bred{Union Bound } \blue{Chernoff. Hoffding bound ($\barra{P} \left( ... \right) $)}
+$$
+\leq \quad 2 \cdot |H| e^{- \, \frac{\varepsilon^2}{2} \, m}
+$$
+\\ 
+Solve for $\varepsilon$ \qquad
+$
+2 \cdot |H| e^{- \, \frac{\varepsilon^2}{2} \, m} \quad = \quad \delta
+$
+$$
+\textit{ Solve for } \varepsilon \longrightarrow \quad  \varepsilon = \sqrt[]{\frac{2}{m} \cdot \ln \cdot \frac{2|H|}{\delta}}
+$$
+$$
+\ell_D\left(\hat{h}\right) - \ell_D \left( h^* \right) \quad\leq \quad \sqrt[]{\frac{2}{m} \cdot \ln \cdot \frac{2|H|}{\delta}}
+$$
+\\
+With probability at least $1 - \delta$ with respect to random draw of $S$.\\
+We want $m >> ln |H|$ \quad $\longrightarrow$ in order to avoid overfitting
+\\
 \end{document}
