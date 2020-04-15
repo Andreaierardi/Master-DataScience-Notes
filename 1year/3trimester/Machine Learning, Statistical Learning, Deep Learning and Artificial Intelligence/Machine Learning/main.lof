@@ -14,5 +14,13 @@
 \contentsline {figure}{\numberline {7.5}{\ignorespaces Example}}{37}%
 \contentsline {figure}{\numberline {7.6}{\ignorespaces Draw of how $\hat {h}$, $h^*$ and $f^*$ are represented}}{38}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Representation of $\hat {h}$, $h^*$ and $f^*$ }}{41}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Example}}{42}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Splitting test and training set}}{44}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces K-folds}}{45}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Nested Cross Validation}}{46}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Tree building}}{47}%
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Tree with at most N node}}{48}%
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Algorithm for tree predictors}}{51}%
 \addvspace {10\p@ }

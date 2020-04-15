@@ -32,6 +32,11 @@
 \contentsline {section}{\numberline {7.2}Union Bound}{35}%
 \contentsline {section}{\numberline {7.3}Studying overfitting of a ERM}{39}%
 \contentsline {chapter}{\numberline {8}Lecture 8 - 07-04-2020}{41}%
-\contentsline {chapter}{\numberline {9}Lecture 9 - 07-04-2020}{42}%
-\contentsline {chapter}{\numberline {10}Lecture 10 - 07-04-2020}{43}%
-\contentsline {section}{\numberline {10.1}TO BE DEFINE}{43}%
+\contentsline {section}{\numberline {8.1}The problem of estimating risk in practise}{42}%
+\contentsline {section}{\numberline {8.2}Cross-validation}{44}%
+\contentsline {section}{\numberline {8.3}Nested cross validation}{46}%
+\contentsline {chapter}{\numberline {9}Lecture 9 - 07-04-2020}{47}%
+\contentsline {section}{\numberline {9.1}Tree predictors}{47}%
+\contentsline {subsection}{\numberline {9.1.1}Catalan Number}{49}%
+\contentsline {chapter}{\numberline {10}Lecture 10 - 07-04-2020}{53}%
+\contentsline {section}{\numberline {10.1}TO BE DEFINE}{53}%
