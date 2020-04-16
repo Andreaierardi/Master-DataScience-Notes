@@ -42,3 +42,5 @@
 \contentsline {subsection}{\numberline {9.1.1}Catalan Number}{50}%
 \contentsline {chapter}{\numberline {10}Lecture 10 - 07-04-2020}{54}%
 \contentsline {section}{\numberline {10.1}TO BE DEFINE}{54}%
+\contentsline {section}{\numberline {10.2}MANCANO 20 MINUTI DI LEZIONE}{54}%
+\contentsline {section}{\numberline {10.3}Compare risk for zero-one loss}{56}%
