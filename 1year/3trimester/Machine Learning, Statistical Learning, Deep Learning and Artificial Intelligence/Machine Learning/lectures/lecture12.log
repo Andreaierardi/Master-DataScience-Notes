@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  20 APR 2020 11:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  20 APR 2020 11:35
 entering extended mode
-**./lecture11.tex
-(lecture11.tex
+**./lecture12.tex
+(lecture12.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 ("C:\Program Files\MiKTeX 2.9\tex/latex/subfiles\subfiles.cls"
@@ -238,8 +238,8 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count193
 \l__pdf_internal_box=\box48
 )
-(lecture11.aux)
-\openout1 = `lecture11.aux'.
+(lecture12.aux)
+\openout1 = `lecture12.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -309,268 +309,26 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 )
 Chapter 1.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<../img/lez11-img1.JPG, id=1, 214.55156pt x 150.5625pt>
-File: ../img/lez11-img1.JPG Graphic file (type jpg)
-<use ../img/lez11-img1.JPG>
-Package pdftex.def Info: ../img/lez11-img1.JPG  used on input line 21.
-(pdftex.def)             Requested size: 234.00238pt x 164.21324pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--39
-
- []
-
 [1
 
 
-{C:/Users/AndreDany/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../img/
-lez11-img1.JPG>]
-<../img/lez11-img2.JPG, id=17, 51.19125pt x 42.1575pt>
-File: ../img/lez11-img2.JPG Graphic file (type jpg)
-<use ../img/lez11-img2.JPG>
-Package pdftex.def Info: ../img/lez11-img2.JPG  used on input line 53.
-(pdftex.def)             Requested size: 39.00238pt x 32.1217pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--65
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--65
-
- []
-
-
-Overfull \hbox (29.38765pt too wide) detected at line 80
-\U/msb/m/n/12 E [] \OT1/cmr/m/n/12 +  2  \OMS/cmsy/m/n/12   []    [] \OML/cmm
-/m/it/12 I\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 X \OMS/cmsy/m/n/12 2 \OML/cmm/m/it
-/12 C[]\OMS/cmsy/m/n/12 g  \OML/cmm/m/it/12 I\OMS/cmsy/m/n/12 f\OML/cmm/m/it/1
-2 C[] \OMS/cmsy/m/n/12 \ \OML/cmm/m/it/12 S \OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12 =
- 0\OMS/cmsy/m/n/12 g \OT1/cmr/m/n/12 =
- []
-
-
-Overfull \hbox (75.62454pt too wide) detected at line 92
-\OT1/cmr/m/n/12 = \OML/cmm/m/it/12 " \OMS/cmsy/m/n/12   []   \U/msb/m/n/12 E 
-[] \OT1/cmr/m/n/12 + 2 \OMS/cmsy/m/n/12   []    [] \U/msb/m/n/12 E [] \OMS/cm
-sy/m/n/12 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--125
-
- []
-
-[2 <../img/lez11-img2.JPG>]
-<../img/lez11-img3.JPG, id=23, 122.70844pt x 64.74188pt>
-File: ../img/lez11-img3.JPG Graphic file (type jpg)
-<use ../img/lez11-img3.JPG>
-Package pdftex.def Info: ../img/lez11-img3.JPG  used on input line 135.
-(pdftex.def)             Requested size: 77.99881pt x 41.1541pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 153--157
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--170
-
- []
-
-[3 <../img/lez11-img3.JPG>]
-Underfull \hbox (badness 10000) in paragraph at lines 193--195
-
- []
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
-
-Missing character: There is no ˆ in font cmr12!
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
-
-Missing character: There is no ˆ in font cmr12!
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
-
-Missing character: There is no ˆ in font cmr8!
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
-
-Missing character: There is no ˆ in font cmr6!
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 223--229
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 223--229
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--251
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--251
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 253--256
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 253--256
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--268
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--287
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--287
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--287
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--287
-
- []
-
-[5]
-<../img/lez11-img4.JPG, id=39, 328.22626pt x 147.55125pt>
-File: ../img/lez11-img4.JPG Graphic file (type jpg)
-<use ../img/lez11-img4.JPG>
-Package pdftex.def Info: ../img/lez11-img4.JPG  used on input line 311.
-(pdftex.def)             Requested size: 195.0pt x 87.66011pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--333
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 335--341
-
- []
-
-[7 <../img/lez11-img4.JPG>] (lecture11.aux) ) 
+{C:/Users/AndreDany/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(lecture12.aux) ) 
 Here is how much of TeX's memory you used:
- 5147 strings out of 480934
- 69639 string characters out of 2909670
- 334090 words of memory out of 3000000
- 20893 multiletter control sequences out of 15000+200000
- 550599 words of font info for 74 fonts, out of 3000000 for 9000
+ 5036 strings out of 480934
+ 67935 string characters out of 2909670
+ 328090 words of memory out of 3000000
+ 20817 multiletter control sequences out of 15000+200000
+ 536495 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,11n,50p,333b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\AndreDany\AppData\Local
-\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\AndreDany
-\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\U
-sers\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
-1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
-ec/dpi600\ecrm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/lj
-four/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-mi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/symbols/msbm10.pfb>
-Output written on lecture11.pdf (7 pages, 249447 bytes).
+ 42i,5n,50p,333b,142s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fo
+nts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\AndreDany\AppData\Local
+\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
+Output written on lecture12.pdf (1 page, 13581 bytes).
 PDF statistics:
- 263 PDF objects out of 1000 (max. 8388607)
+ 47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

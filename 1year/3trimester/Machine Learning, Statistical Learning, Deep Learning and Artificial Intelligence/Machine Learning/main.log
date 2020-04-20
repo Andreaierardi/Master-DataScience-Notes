@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  16 APR 2020 15:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  20 APR 2020 11:36
 entering extended mode
 **./main.tex
 (main.tex
@@ -232,20 +232,20 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count194
@@ -301,12 +301,12 @@ G,.JBIG2,.JB2,.eps]
 <./img/unimi.png, id=1, 1240.635pt x 416.2752pt>
 File: ./img/unimi.png Graphic file (type png)
 <use ./img/unimi.png>
-Package pdftex.def Info: ./img/unimi.png  used on input line 55.
+Package pdftex.def Info: ./img/unimi.png  used on input line 56.
 (pdftex.def)             Requested size: 195.0pt x 65.42395pt.
 <./img/front.jpg, id=3, 1606.0pt x 903.375pt>
 File: ./img/front.jpg Graphic file (type jpg)
 <use ./img/front.jpg>
-Package pdftex.def Info: ./img/front.jpg  used on input line 74.
+Package pdftex.def Info: ./img/front.jpg  used on input line 75.
 (pdftex.def)             Requested size: 350.99762pt x 197.4336pt.
  [1
 
@@ -805,42 +805,42 @@ Overfull \hbox (30.95695pt too wide) detected at line 115
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 163.
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 142--98
+Underfull \hbox (badness 10000) in paragraph at lines 142--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--98
+Underfull \hbox (badness 10000) in paragraph at lines 142--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--98
+Underfull \hbox (badness 10000) in paragraph at lines 142--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--98
+Underfull \hbox (badness 10000) in paragraph at lines 142--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--98
+Underfull \hbox (badness 10000) in paragraph at lines 142--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--98
+Underfull \hbox (badness 10000) in paragraph at lines 142--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--98
+Underfull \hbox (badness 10000) in paragraph at lines 142--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--98
+Underfull \hbox (badness 10000) in paragraph at lines 142--99
 
  []
 
@@ -1352,7 +1352,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 271--273
  []
 
 [40])
-Underfull \hbox (badness 10000) in paragraph at lines 295--110
+Underfull \hbox (badness 10000) in paragraph at lines 295--111
 
  []
 
@@ -1604,12 +1604,12 @@ Package pdftex.def Info: lectures/../img/lez9-img3.JPG  used on input line 215.
 
 (pdftex.def)             Requested size: 234.00238pt x 133.93207pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 209--118
+Underfull \hbox (badness 10000) in paragraph at lines 209--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--118
+Underfull \hbox (badness 10000) in paragraph at lines 209--119
 
  []
 
@@ -1722,20 +1722,244 @@ Package pdftex.def Info: lectures/../img/lez10-img2.JPG  used on input line 131
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [56 <./lectures/../img/lez10-img1.JPG>] (main.bbl [57 <./lectures/../img/lez1
-0-img2.JPG>]
+) [56 <./lectures/../img/lez10-img1.JPG>] (lectures/lecture11.tex [57 <./lectur
+es/../img/lez10-img2.JPG>]
+Chapter 11.
+<lectures/../img/lez11-img1.JPG, id=232, 214.55156pt x 150.5625pt>
+File: lectures/../img/lez11-img1.JPG Graphic file (type jpg)
+<use lectures/../img/lez11-img1.JPG>
+Package pdftex.def Info: lectures/../img/lez11-img1.JPG  used on input line 21.
+
+(pdftex.def)             Requested size: 234.00238pt x 164.21324pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--39
+
+ []
+
+[58
+
+ <./lectures/../img/lez11-img1.JPG>]
+<lectures/../img/lez11-img2.JPG, id=236, 51.19125pt x 42.1575pt>
+File: lectures/../img/lez11-img2.JPG Graphic file (type jpg)
+<use lectures/../img/lez11-img2.JPG>
+Package pdftex.def Info: lectures/../img/lez11-img2.JPG  used on input line 53.
+
+(pdftex.def)             Requested size: 39.00238pt x 32.1217pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--65
+
+ []
+
+
+Overfull \hbox (29.38765pt too wide) detected at line 80
+\U/msb/m/n/12 E [] \OT1/cmr/m/n/12 +  2  \OMS/cmsy/m/n/12   []    [] \OML/cmm
+/m/it/12 I\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 X \OMS/cmsy/m/n/12 2 \OML/cmm/m/it
+/12 C[]\OMS/cmsy/m/n/12 g  \OML/cmm/m/it/12 I\OMS/cmsy/m/n/12 f\OML/cmm/m/it/1
+2 C[] \OMS/cmsy/m/n/12 \ \OML/cmm/m/it/12 S \OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12 =
+ 0\OMS/cmsy/m/n/12 g \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (75.62454pt too wide) detected at line 92
+\OT1/cmr/m/n/12 = \OML/cmm/m/it/12 " \OMS/cmsy/m/n/12   []   \U/msb/m/n/12 E 
+[] \OT1/cmr/m/n/12 + 2 \OMS/cmsy/m/n/12   []    [] \U/msb/m/n/12 E [] \OMS/cm
+sy/m/n/12 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+ []
+
+[59 <./lectures/../img/lez11-img2.JPG>]
+<lectures/../img/lez11-img3.JPG, id=240, 122.70844pt x 64.74188pt>
+File: lectures/../img/lez11-img3.JPG Graphic file (type jpg)
+<use lectures/../img/lez11-img3.JPG>
+Package pdftex.def Info: lectures/../img/lez11-img3.JPG  used on input line 135
+.
+(pdftex.def)             Requested size: 77.99881pt x 41.1541pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--170
+
+ []
+
+[60 <./lectures/../img/lez11-img3.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 193--195
+
+ []
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
+
+Missing character: There is no ˆ in font cmr12!
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
+
+Missing character: There is no ˆ in font cmr12!
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
+
+Missing character: There is no ˆ in font cmr8!
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 219.
+
+Missing character: There is no ˆ in font cmr6!
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--251
+
+ []
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 253--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--287
+
+ []
+
+[62]
+<lectures/../img/lez11-img4.JPG, id=252, 328.22626pt x 147.55125pt>
+File: lectures/../img/lez11-img4.JPG Graphic file (type jpg)
+<use lectures/../img/lez11-img4.JPG>
+Package pdftex.def Info: lectures/../img/lez11-img4.JPG  used on input line 311
+.
+(pdftex.def)             Requested size: 195.0pt x 87.66011pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--333
+
+ []
+
+[63]) [64 <./lectures/../img/lez11-img4.JPG>] (lectures/lecture12.tex
+Chapter 12.
+) [65
+
+] (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [58
+) [66
 
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 5286 strings out of 480934
- 74499 string characters out of 2909670
- 336238 words of memory out of 3000000
- 20967 multiletter control sequences out of 15000+200000
- 558361 words of font info for 83 fonts, out of 3000000 for 9000
+ 5334 strings out of 480934
+ 75897 string characters out of 2909670
+ 336254 words of memory out of 3000000
+ 21003 multiletter control sequences out of 15000+200000
+ 561784 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,13n,42p,311b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
@@ -1755,19 +1979,20 @@ rm2074.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
 n/ec/dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmbx6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
 8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (59 pages, 1616411 bytes).
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (67 pages, 1699850 bytes).
 PDF statistics:
- 712 PDF objects out of 1000 (max. 8388607)
+ 748 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 

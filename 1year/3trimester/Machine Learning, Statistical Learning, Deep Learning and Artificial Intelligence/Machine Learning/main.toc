@@ -44,3 +44,11 @@
 \contentsline {section}{\numberline {10.1}TO BE DEFINE}{54}%
 \contentsline {section}{\numberline {10.2}MANCANO 20 MINUTI DI LEZIONE}{54}%
 \contentsline {section}{\numberline {10.3}Compare risk for zero-one loss}{56}%
+\contentsline {chapter}{\numberline {11}Lecture 11 - 20-04-2020}{58}%
+\contentsline {section}{\numberline {11.1}Analysis of $K_{NN}$}{58}%
+\contentsline {subsection}{\numberline {11.1.1}Study of $K_{NN}$}{61}%
+\contentsline {subsection}{\numberline {11.1.2}study of trees}{62}%
+\contentsline {section}{\numberline {11.2}Non-parametric Algorithms}{63}%
+\contentsline {subsection}{\numberline {11.2.1}Example of parametric algorithms}{64}%
+\contentsline {chapter}{\numberline {12}Lecture 12 - 21-04-2020}{65}%
+\contentsline {section}{\numberline {12.1}Non parametrics algorithms}{65}%
