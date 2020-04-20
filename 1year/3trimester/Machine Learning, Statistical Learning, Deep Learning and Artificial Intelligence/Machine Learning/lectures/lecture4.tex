@@ -49,8 +49,12 @@ You can vary this algorithm as you want.\\\\
 Let’s go back to Binary classification.\\
 The $k$ parameter is the effect of making the structure of classifier more
 complex and less complex for small value of $k$.\\\\
---.. DISEGNO ..--
-\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\linewidth]{../img/lez4-img1.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}\\
 Fix training set and test set\\
 Accury as oppose to the error
 \\\\
@@ -83,6 +87,12 @@ I want to avoid comparing $x_i$ with $x_j$,  $i\neq j $\\
 so comparing different feature and we want to compare each feature with
 each self. I don’t want to mix them up.\\
 We can use a tree!
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{../img/lez4-img2.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}\\
 \\
 I have 3 features:
 \begin{itemize}
@@ -90,17 +100,21 @@ I have 3 features:
 \item humidity $= \{[0,100]\}$
 \item windy $ = \{yes,no\}$
 \end{itemize}
-... -- DISEGNO -- ...\\\\
 Tree is a natural way of doing decision and abstraction of decision process of
 one person. It is a good way to deal with categorical variables.\\
 What kind of tree we are talking about?\\
 Tree has inner node and leaves. Leaves are associated with labels $(Y)$ and
 inner nodes are associated with test.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.3\linewidth]{../img/lez4-img3.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}\\
 \begin{itemize}
 \item Inner node $\rightarrow$ test
 \item Leaves $\rightarrow$ label in Y
 \end{itemize}
-%... -- DISEGNO -- ... 
 Test if a function $f$ (NOT A PREDICTOR!) \\
 Test $ \qquad f_i \, X_i \rightarrow \{1,...,k\}$
 \\ where $k$ is the number of children (inner node) to which test is assigned
@@ -146,19 +160,37 @@ $ Y = \{-1, +1 \}$
 \\\\
 What's the simplest way?\\
 Initial tree and correspond to a costant classifier
-\\\\
--- DISEGNO --
-\\\\
+\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.2\linewidth]{../img/lez4-img4.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}\\
 \textbf{Majority of all example}
-\\\\
--- DISEGNO --
-\\\\
+\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.2\linewidth]{../img/lez4-img5.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}\\
 $(x_1, y_1) ... (x_m, y_m)$ \\
 $ x_t \in X$ \qquad $ y_t \in \{-1,+1\}$\\
 Training set $S = \{ (x,y) \in S$, x is routed to $\ell\}$\\
 $S_{\ell}^+$ 
-\\\\
--- DISEGNO --
-\\\\
-$ S_{\ell}$ and $ S’_{\ell}$ are given by the result of the test, not the labels  and $\ell$ and $\ell'$.
+\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{../img/lez4-img6.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}\\
+$ S_{\ell}$ and $ S’_{\ell}$ are given by the result of the test, not the labels  and $\ell$ and $\ell'$.\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\linewidth]{../img/lez4-img7.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
 \end{document}

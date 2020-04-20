@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  15 APR 2020 21:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  20 APR 2020 14:50
 entering extended mode
 **./lecture2.tex
 (lecture2.tex
@@ -333,129 +333,148 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--30
 
  []
 
+<../img/lez2-img1.JPG, id=1, 99.37125pt x 78.2925pt>
+File: ../img/lez2-img1.JPG Graphic file (type jpg)
+<use ../img/lez2-img1.JPG>
+Package pdftex.def Info: ../img/lez2-img1.JPG  used on input line 36.
+(pdftex.def)             Requested size: 155.99762pt x 122.92067pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--35
+Underfull \hbox (badness 10000) in paragraph at lines 32--42
 
  []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 [1
 
 
 {C:/Users/AndreDany/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 49--52
+<../img/lez2-img2.JPG, id=16, 173.14688pt x 85.06781pt>
+File: ../img/lez2-img2.JPG Graphic file (type jpg)
+<use ../img/lez2-img2.JPG>
+Package pdftex.def Info: ../img/lez2-img2.JPG  used on input line 53.
+(pdftex.def)             Requested size: 155.99762pt x 76.64468pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--58
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--52
+Underfull \hbox (badness 10000) in paragraph at lines 62--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--81
+Underfull \hbox (badness 10000) in paragraph at lines 62--65
 
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 81--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--109
+[2 <../img/lez2-img1.JPG> <../img/lez2-img2.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 76--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--109
+Underfull \hbox (badness 10000) in paragraph at lines 94--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--109
+Underfull \hbox (badness 10000) in paragraph at lines 102--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--115
+Underfull \hbox (badness 10000) in paragraph at lines 102--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--122
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
+Underfull \hbox (badness 10000) in paragraph at lines 131--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
+Underfull \hbox (badness 10000) in paragraph at lines 131--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
+Underfull \hbox (badness 10000) in paragraph at lines 131--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
+Underfull \hbox (badness 10000) in paragraph at lines 131--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--156
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 164--171
+Underfull \hbox (badness 10000) in paragraph at lines 131--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--182
+Underfull \hbox (badness 10000) in paragraph at lines 131--169
 
  []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 189--199
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
 
  []
 
-[6] (lecture2.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--212
+
+ []
+
+[6] [7] (lecture2.aux) ) 
 Here is how much of TeX's memory you used:
- 5099 strings out of 480934
- 68776 string characters out of 2909670
- 333073 words of memory out of 3000000
- 20853 multiletter control sequences out of 15000+200000
+ 5114 strings out of 480934
+ 69055 string characters out of 2909670
+ 336089 words of memory out of 3000000
+ 20864 multiletter control sequences out of 15000+200000
  546309 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,10n,50p,316b,142s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9
-\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\AndreDany\AppData\Lo
-cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\AndreD
-any\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C
-:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\e
-crm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
-en/ec/dpi600\ecbx1728.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk
-/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/symbols/msbm10.pfb>
-Output written on lecture2.pdf (6 pages, 165099 bytes).
+ 42i,10n,50p,316b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\AndreDany\AppDat
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\An
+dreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk
+> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
+00\ecrm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecbx1728.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/symbols/msbm10.pfb>
+Output written on lecture2.pdf (7 pages, 186460 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
+ 281 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

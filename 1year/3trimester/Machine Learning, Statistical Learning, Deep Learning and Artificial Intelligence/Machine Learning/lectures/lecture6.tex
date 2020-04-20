@@ -79,7 +79,14 @@ where red{$G(\hat{y})$ is equal to the part between $\left[...\right]$}
 $$
 \frac{d G(\hat{y})}{d\hat{y}} = 2 \cdot \hat{y}- 2 \cdot \barra{E} \left[ \, y | X= x \, \right] = 0  \quad \longrightarrow \quad \red{\textit{So setting derivative to 0}}
 $$
-\\ --- DISEGNO OPT CURVE ---\\\\
+Suppose we have a learning domain\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.1\linewidth]{../img/lez6-img0.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
+\\
 $G' (\hat{y}) = \hat{y}^2 - 2\cdot b \cdot \hat{y}$
 \\
 $$
@@ -130,9 +137,14 @@ $$\
 $$
 D_{y|x} = \{ \eta(x), 1- \eta(x) \}
 $$
-\\
+\newpage
 Suppose we have a learning domain\\
---- DISEGNO --
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.6\linewidth]{../img/lez6-img1.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
 \\
 where $\eta$ is a function of $x$, so i can plot it\\
 $\eta$ will te me $Prob (x) = $
@@ -141,10 +153,15 @@ $\eta$ tells me a lot how hard is learning problem in the domain
 \\
 $\eta(x)$ is not necessary continous
 \\
---- DISEGNO ---
-\\\\
-$\eta(x) \in \{0,1\} $ \qquad $y$ is always determined by $x$
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.6\linewidth]{../img/lez6-img2.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
 \\
+$\eta(x) \in \{0,1\} $ \qquad $y$ is always determined by $x$
+\newpage
 How to get $f^*$ from the graph?
 \\
 $$
@@ -153,7 +170,13 @@ $$
 $$
 Y = \{-1, +1 \}
 $$
---- DISEGNO ---\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\linewidth]{../img/lez6-img3.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
+\\
 ===============================\\
 MANCA ROBAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\
 ==============================
@@ -217,10 +240,11 @@ $$\
 $$
 \barra{E} \left[ \, \ell , f^*(x) \, \right] = \barra{E} \left[ \, min \, \{ \eta(x) , 1- \eta(x) \} \, \right] 
 $$
+\\
 \begin{figure}[h]
     \centering
-    \includegraphics[width=1\textwidth]{bayesrisk.jpg}
-    \caption{Example of Bayes Risk}
+    \includegraphics[width=0.7\linewidth]{../img/lez6-img4.JPG}
+    \caption{Example of domain of $\knn$}
     %\label{fig:}
 \end{figure}
 \\

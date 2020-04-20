@@ -9,9 +9,14 @@ Supposed we groped a tree up to this point and we are wandering how to
 grow it.
 \\
 $S$ Training set $(x_1,y_1)...(x_m,y_m)$, $x_1 \in X$
-\\\\
--- DISEGNO
-\\\\
+\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\linewidth]{../img/lez5-img1.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
+\\
 $$
 \sll \equiv \{(x_1,y_1) \, x_t \quad \textit{is router to } \ell \}
 $$
@@ -57,22 +62,39 @@ where $\psi(a) = min \{a, 1-a \} \qquad a \in [0,1] $
 \\
 I want to replace inner node with other leaves.
 \\
--- DISEGNO --
-\\\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{../img/lez5-img2.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
+\\
 How is traning error going to change?
 (when i replace inner nodes with other leaves)
 \\
 I’m hoping my algorithm is not going to overfit (if training error goes to 0 also
-testing error goes to 0).\\
-
+testing error goes to 0).
+\newpage
 \section{Jensen’s inequality}
-If $\psi$ is a concave function $\longrightarrow $ (like $log$ or $\sqrt[2]{..}$ )\\
+If $\psi$ is a concave function $\longrightarrow $ (like $log$ or $\sqrt[2]{..}$ )
+\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\linewidth]{../img/lez5-img3.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
+\\
 Also $\psi$ is a function that map $0$ to $1$, \quad $\longrightarrow$ \quad $\psi\:[0,1]\rightarrow \barra{R}$\\
 $$
 \psi(\alpha \cdot a + (1-\alpha) \cdot b ) \geq \alpha \cdot \psi(a) + (1-\alpha) \cdot \psi(b)
 \qquad \textit{Also 2° derivative is negative}$$
-\\
--- DISEGNO --
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{../img/lez5-img4.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
 \\
 $$ \hat{\ell}(h_T) = \frac{1}{m} \cdot \sum_{\ell}{} \psi  (\frac{\nl^+}{\nl}) \cdot \nl
 $$
@@ -89,8 +111,13 @@ $
 \\\\
 I want to check function $min$ concave between 0 and 1.\\
 $$min (0,1) = 0  \qquad \psi(a) = min(\alpha, 1- \alpha) $$
-\\ -- DISEGNO --
-\\\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\linewidth]{../img/lez5-img5.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
+\\
 \red{This is a concave function and now I can apply Jensen's inquality}
 \\\\
 $$
@@ -139,8 +166,13 @@ the approximately since we are not every time sure.
 \\\\
 --- MANCA PARTE ---
 \\
---- IMMAGINE ---
-\\\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{../img/lez5-img6.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
+\\
 $ p = 0.8 \qquad q = 1 \qquad r = 1 \qquad \alpha = 60\%$
 \\
 Net Change in number of mistakes\\
@@ -155,9 +187,19 @@ Fraction of example miss classified $\ell -$ error $\ell' +$  error $\ell"$ \\
 $$
 = 0.2 - ( \frac{1}{2} \cdot 0.4 + \frac{1}{2} \cdot 0 ) = 0  
 $$
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.6\linewidth]{../img/lez5-img7.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\linewidth]{../img/lez5-img8.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
 \\
---- DISEGNO ---
-\\\\
 Idea is to replace minimum function with convex combination.
 $$
 \psi(\alpha) = min\ \{\alpha, 1-\alpha\} \qquad \psi(a) \geq \psi(\alpha)
@@ -170,11 +212,15 @@ $$
 )}
 \end{cases}
 $$
-All this functions has this shape (concave???)\\
--- DISEGNO --
+All this functions has this shape (concave???)
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\linewidth]{../img/lez5-img9.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
 \\
 In practise Machine Learning algorithm use GNI or entropy to control the split
-\\\\
 \section{Tree Predictor}
 \begin{itemize}
 \item Multi class classification $|Y| > 2$ $\longrightarrow$ \red{take majority}
@@ -189,7 +235,12 @@ Unless leaves are \textit{"pured"}, the training error will be bigger than 0.
 \\\\
 In general, i can always write $\hat{\ell}(h_t)$ to 0 by growing enough the tree unless there are $x_1$ in the Time Series such that $(x_t, y_t)(x_t,y_t’)$ with $y_t \neq y_t’$ both occur.
 \\
---- DISEGNO ----
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\linewidth]{../img/lez5-img10.JPG}
+    \caption{Example of domain of $\knn$}
+    %\label{fig:}
+\end{figure}
 \\
 $$ if (x_1 = \alpha) \wedge (x_2 = \geq \alpha) \vee (x_1 = b) \vee (x_1 = c) \wedge (x_3= y) \qquad 
 $$

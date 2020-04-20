@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  15 APR 2020 20:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  20 APR 2020 15:23
 entering extended mode
 **./lecture9.tex
 (lecture9.tex
@@ -453,10 +453,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--226
 
 [5 <../img/lez9-img3.JPG>] [6] (lecture9.aux) ) 
 Here is how much of TeX's memory you used:
- 5139 strings out of 480934
- 69381 string characters out of 2909670
- 335073 words of memory out of 3000000
- 20878 multiletter control sequences out of 15000+200000
+ 5140 strings out of 480934
+ 69385 string characters out of 2909670
+ 335089 words of memory out of 3000000
+ 20879 multiletter control sequences out of 15000+200000
  551506 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,13n,50p,332b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -480,7 +480,7 @@ rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on lecture9.pdf (6 pages, 237910 bytes).
+Output written on lecture9.pdf (6 pages, 237915 bytes).
 PDF statistics:
  277 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
