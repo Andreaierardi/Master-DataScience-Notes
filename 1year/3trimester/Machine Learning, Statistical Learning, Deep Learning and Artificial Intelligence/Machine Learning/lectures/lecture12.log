@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  20 APR 2020 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  21 APR 2020 10:30
 entering extended mode
 **./lecture12.tex
 (lecture12.tex
@@ -309,26 +309,156 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 )
 Chapter 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 8--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--17
+
+ []
+
+<../img/lez12-img1.JPG, id=1, 314.67563pt x 160.34906pt>
+File: ../img/lez12-img1.JPG Graphic file (type jpg)
+<use ../img/lez12-img1.JPG>
+Package pdftex.def Info: ../img/lez12-img1.JPG  used on input line 35.
+(pdftex.def)             Requested size: 234.00238pt x 119.24121pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--44
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [1
 
 
 {C:/Users/AndreDany/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(lecture12.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 49--60
+
+ []
+
+[2 <../img/lez12-img1.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+<../img/lez12-img2.JPG, id=24, 65.49469pt x 61.73062pt>
+File: ../img/lez12-img2.JPG Graphic file (type jpg)
+<use ../img/lez12-img2.JPG>
+Package pdftex.def Info: ../img/lez12-img2.JPG  used on input line 83.
+(pdftex.def)             Requested size: 77.99881pt x 73.51778pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--88
+
+ []
+
+<../img/lez12-img3.JPG, id=25, 106.14656pt x 110.66344pt>
+File: ../img/lez12-img3.JPG Graphic file (type jpg)
+<use ../img/lez12-img3.JPG>
+Package pdftex.def Info: ../img/lez12-img3.JPG  used on input line 108.
+(pdftex.def)             Requested size: 77.99881pt x 81.32059pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../img/lez12-img4.JPG, id=26, 137.7647pt x 115.18031pt>
+File: ../img/lez12-img4.JPG Graphic file (type jpg)
+<use ../img/lez12-img4.JPG>
+Package pdftex.def Info: ../img/lez12-img4.JPG  used on input line 124.
+(pdftex.def)             Requested size: 155.99762pt x 130.43692pt.
+[3 <../img/lez12-img2.JPG>]
+<../img/lez12-img5.JPG, id=31, 310.91156pt x 131.74219pt>
+File: ../img/lez12-img5.JPG Graphic file (type jpg)
+<use ../img/lez12-img5.JPG>
+Package pdftex.def Info: ../img/lez12-img5.JPG  used on input line 147.
+(pdftex.def)             Requested size: 234.00238pt x 99.15414pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <../img/lez12-img3.JPG> <../img/lez12-img4.JPG>]
+<../img/lez12-img6.JPG, id=35, 116.68594pt x 99.37125pt>
+File: ../img/lez12-img6.JPG Graphic file (type jpg)
+<use ../img/lez12-img6.JPG>
+Package pdftex.def Info: ../img/lez12-img6.JPG  used on input line 156.
+(pdftex.def)             Requested size: 117.00119pt x 99.64392pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--176
+
+ []
+
+[5 <../img/lez12-img5.JPG> <../img/lez12-img6.JPG>]
+<../img/lez12-img7.JPG, id=39, 199.49532pt x 143.78719pt>
+File: ../img/lez12-img7.JPG Graphic file (type jpg)
+<use ../img/lez12-img7.JPG>
+Package pdftex.def Info: ../img/lez12-img7.JPG  used on input line 180.
+(pdftex.def)             Requested size: 234.00238pt x 168.66693pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--210
+
+ []
+
+[6 <../img/lez12-img7.JPG>] [7] (lecture12.aux) ) 
 Here is how much of TeX's memory you used:
- 5036 strings out of 480934
- 67935 string characters out of 2909670
- 328090 words of memory out of 3000000
- 20817 multiletter control sequences out of 15000+200000
- 536495 words of font info for 30 fonts, out of 3000000 for 9000
+ 5147 strings out of 480934
+ 69792 string characters out of 2909670
+ 333085 words of memory out of 3000000
+ 20891 multiletter control sequences out of 15000+200000
+ 546454 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,5n,50p,333b,142s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
-jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fo
-nts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\AndreDany\AppData\Local
-\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
-Output written on lecture12.pdf (1 page, 13581 bytes).
+ 42i,7n,50p,333b,239s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\AndreDany\AppData\L
+ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Andre
+Dany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <
+C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecbx1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/p
+k/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\AndreDany\AppData\Local\MiKT
+eX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on lecture12.pdf (7 pages, 267916 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 263 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

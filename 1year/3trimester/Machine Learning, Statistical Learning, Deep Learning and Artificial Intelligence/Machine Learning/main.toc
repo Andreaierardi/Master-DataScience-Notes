@@ -52,3 +52,5 @@
 \contentsline {subsection}{\numberline {11.2.1}Example of parametric algorithms}{74}%
 \contentsline {chapter}{\numberline {12}Lecture 12 - 21-04-2020}{75}%
 \contentsline {section}{\numberline {12.1}Non parametrics algorithms}{75}%
+\contentsline {subsection}{\numberline {12.1.1}Theorem: No free lunch}{75}%
+\contentsline {section}{\numberline {12.2}Highly Parametric Learning Algorithm}{77}%
