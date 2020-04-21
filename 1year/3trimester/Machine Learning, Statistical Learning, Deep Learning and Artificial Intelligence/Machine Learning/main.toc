@@ -54,3 +54,5 @@
 \contentsline {section}{\numberline {12.1}Non parametrics algorithms}{75}%
 \contentsline {subsection}{\numberline {12.1.1}Theorem: No free lunch}{75}%
 \contentsline {section}{\numberline {12.2}Highly Parametric Learning Algorithm}{77}%
+\contentsline {subsection}{\numberline {12.2.1}Linear Predictors}{77}%
+\contentsline {subsection}{\numberline {12.2.2}MinDisagreement}{81}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  21 APR 2020 09:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  21 APR 2020 10:32
 entering extended mode
 **./main.tex
 (main.tex
@@ -2086,18 +2086,99 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--60
 
  []
 
-) [76 <./lectures/../img/lez12-img1.JPG>] [77] (main.bbl
+[76 <./lectures/../img/lez12-img1.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+<lectures/../img/lez12-img2.JPG, id=324, 65.49469pt x 61.73062pt>
+File: lectures/../img/lez12-img2.JPG Graphic file (type jpg)
+<use lectures/../img/lez12-img2.JPG>
+Package pdftex.def Info: lectures/../img/lez12-img2.JPG  used on input line 83.
+
+(pdftex.def)             Requested size: 77.99881pt x 73.51778pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--88
+
+ []
+
+<lectures/../img/lez12-img3.JPG, id=325, 106.14656pt x 110.66344pt>
+File: lectures/../img/lez12-img3.JPG Graphic file (type jpg)
+<use lectures/../img/lez12-img3.JPG>
+Package pdftex.def Info: lectures/../img/lez12-img3.JPG  used on input line 108
+.
+(pdftex.def)             Requested size: 77.99881pt x 81.32059pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<lectures/../img/lez12-img4.JPG, id=326, 137.7647pt x 115.18031pt>
+File: lectures/../img/lez12-img4.JPG Graphic file (type jpg)
+<use lectures/../img/lez12-img4.JPG>
+Package pdftex.def Info: lectures/../img/lez12-img4.JPG  used on input line 124
+.
+(pdftex.def)             Requested size: 155.99762pt x 130.43692pt.
+[77 <./lectures/../img/lez12-img2.JPG>]
+<lectures/../img/lez12-img5.JPG, id=330, 310.91156pt x 131.74219pt>
+File: lectures/../img/lez12-img5.JPG Graphic file (type jpg)
+<use lectures/../img/lez12-img5.JPG>
+Package pdftex.def Info: lectures/../img/lez12-img5.JPG  used on input line 147
+.
+(pdftex.def)             Requested size: 234.00238pt x 99.15414pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[78 <./lectures/../img/lez12-img3.JPG> <./lectures/../img/lez12-img4.JPG>]
+<lectures/../img/lez12-img6.JPG, id=335, 116.68594pt x 99.37125pt>
+File: lectures/../img/lez12-img6.JPG Graphic file (type jpg)
+<use lectures/../img/lez12-img6.JPG>
+Package pdftex.def Info: lectures/../img/lez12-img6.JPG  used on input line 156
+.
+(pdftex.def)             Requested size: 117.00119pt x 99.64392pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--176
+
+ []
+
+[79 <./lectures/../img/lez12-img5.JPG> <./lectures/../img/lez12-img6.JPG>]
+<lectures/../img/lez12-img7.JPG, id=339, 199.49532pt x 143.78719pt>
+File: lectures/../img/lez12-img7.JPG Graphic file (type jpg)
+<use lectures/../img/lez12-img7.JPG>
+Package pdftex.def Info: lectures/../img/lez12-img7.JPG  used on input line 180
+.
+(pdftex.def)             Requested size: 234.00238pt x 168.66693pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--210
+
+ []
+
+[80 <./lectures/../img/lez12-img7.JPG>]) [81] (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [78
+) [82
 
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 5496 strings out of 480934
- 80492 string characters out of 2909670
+ 5532 strings out of 480934
+ 81536 string characters out of 2909670
  336249 words of memory out of 3000000
- 21138 multiletter control sequences out of 15000+200000
+ 21168 multiletter control sequences out of 15000+200000
  561784 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,13n,42p,311b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2129,9 +2210,9 @@ s/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 /Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (79 pages, 2109982 bytes).
+Output written on main.pdf (83 pages, 2198987 bytes).
 PDF statistics:
- 816 PDF objects out of 1000 (max. 8388607)
+ 838 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 251 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 281 words of extra memory for PDF output out of 10000 (max. 10000000)
 
