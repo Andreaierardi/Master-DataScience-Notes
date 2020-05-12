@@ -1,0 +1,138 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage{amsmath}
+\usepackage{systeme}
+\usepackage{amssymb}
+\usepackage{subfiles} 
+\usepackage[english]{babel}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{sectsty}
+\usepackage{framed}
+\usepackage{titlesec}
+\usepackage[T1]{fontenc}
+%Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
+%\usepackage[Glenn]{fncychap}
+
+\graphicspath{ {./img/} }
+\definecolor{mypink}{cmyk}{0, 0.7808, 0.4429, 0.1412}
+\definecolor{mygray}{gray}{0.6}
+\definecolor{DarkGreen}{RGB}{0,100,0}
+\definecolor{GoodGreen}{RGB}{46,139,87}
+
+\newcommand\barra[1]{\mathbb{#1}}
+\newcommand\hnn{h_{NN}}
+\newcommand\hknn{h_{k-NN}}
+\newcommand\knn{K_{NN}}
+\newcommand\nl{N_{\ell}}
+\newcommand\sll{S_{\ell}}
+\newcommand\red[1]{\textcolor{BrickRed}{#1}}
+\newcommand\bred[1]{\textcolor{Red}{\textbf{#1}}}
+\newcommand\blue[1]{\textcolor{Blue}{\textbf{#1}}}
+\newcommand\gray[1]{\textcolor{mygray}{#1}}
+\newcommand\col[2]{\textcolor{#2}{#1}}
+\newcommand\expt[1]{$\barra{E}\left[ \,{#1}\, \right] $}
+
+%\titleformat{\chapter}[display]
+%  {\normalfont\bfseries}{}{0pt}{\Large}
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries}{}{0pt}{\Huge\color{Blue}}
+\titlespacing*{\chapter}{0pt}{-80pt}{40pt}
+\chapterfont{\color{Blue}}
+\sectionfont{\color{DarkGreen}}
+\subsectionfont{\color{red}}
+
+
+  
+\begin{document}
+
+\begin{titlepage}
+    \begin{center}
+        \vspace*{0.1cm}
+            
+        \Huge
+        \textbf{\col{Statistical Methods for \\ Machine Learning}{Blue}}        \vspace{0.5cm}
+
+ \includegraphics[width=.5\linewidth]{unimi}
+            
+        \vspace{0.5cm}
+        \LARGE
+        Data Science and Economics \\
+                    Università degli Studi di Milano\\
+                            \vspace{0.5cm}
+
+
+        \vspace{1.5cm}
+            
+        \textbf{Andrea Ierardi}
+            
+        \vfill
+            
+        Lecture notes
+            
+        \vspace{1cm}
+            
+ \includegraphics[width=0.9\linewidth]{front}
+                        
+    \end{center}
+\end{titlepage}
+
+
+\newpage
+\tableofcontents
+%\listoftables
+\listoffigures
+
+\newpage
+
+\subfile{lectures/lecture1}
+
+
+\newpage
+\subfile{lectures/lecture2}
+
+\newpage
+\subfile{lectures/lecture3}
+
+\newpage
+\subfile{lectures/lecture4}
+
+
+\newpage
+\subfile{lectures/lecture5}
+
+
+\newpage
+\subfile{lectures/lecture6}
+
+
+\newpage
+\subfile{lectures/lecture7}
+
+
+\newpage
+\subfile{lectures/lecture8}
+
+
+\newpage
+\subfile{lectures/lecture9}
+
+
+\newpage
+\subfile{lectures/lecture10}
+
+\newpage
+\subfile{lectures/lecture11}
+
+\newpage
+\subfile{lectures/lecture12}
+
+\newpage
+\subfile{lectures/lecture17}
+
+\newpage
+\bibliographystyle{abbrv}
+\bibliography{main}
+
+\end{document}
+%This is never printed
