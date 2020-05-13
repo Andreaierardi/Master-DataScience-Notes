@@ -1,0 +1,72 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Lecture 1 - 09-03-2020}{6}%
+\contentsline {section}{\numberline {1.1}Introduction of the course}{6}%
+\contentsline {section}{\numberline {1.2}Examples}{6}%
+\contentsline {subsection}{\numberline {1.2.1}Spam filtering}{9}%
+\contentsline {chapter}{\numberline {2}Lecture 2 - 07-04-2020}{10}%
+\contentsline {section}{\numberline {2.1}Argomento}{10}%
+\contentsline {section}{\numberline {2.2}Loss}{10}%
+\contentsline {subsection}{\numberline {2.2.1}Absolute Loss}{10}%
+\contentsline {subsection}{\numberline {2.2.2}Square Loss}{11}%
+\contentsline {subsection}{\numberline {2.2.3}Example of information of square loss}{12}%
+\contentsline {subsection}{\numberline {2.2.4}labels and losses}{13}%
+\contentsline {subsection}{\numberline {2.2.5}Example TF(idf) documents encoding}{15}%
+\contentsline {chapter}{\numberline {3}Lecture 3 - 07-04-2020}{17}%
+\contentsline {section}{\numberline {3.1}Overfitting}{19}%
+\contentsline {subsection}{\numberline {3.1.1}Noise in the data}{19}%
+\contentsline {section}{\numberline {3.2}Underfitting}{21}%
+\contentsline {section}{\numberline {3.3}Nearest neighbour}{21}%
+\contentsline {chapter}{\numberline {4}Lecture 4 - 07-04-2020}{24}%
+\contentsline {section}{\numberline {4.1}Computing $h_{NN}$}{24}%
+\contentsline {section}{\numberline {4.2}Tree Predictor}{26}%
+\contentsline {chapter}{\numberline {5}Lecture 5 - 07-04-2020}{30}%
+\contentsline {section}{\numberline {5.1}Tree Classifier}{30}%
+\contentsline {section}{\numberline {5.2}Jensen’s inequality}{32}%
+\contentsline {section}{\numberline {5.3}Tree Predictor}{36}%
+\contentsline {section}{\numberline {5.4}Statistical model for Machine Learning}{37}%
+\contentsline {chapter}{\numberline {6}Lecture 6 - 07-04-2020}{39}%
+\contentsline {section}{\numberline {6.1}Bayes Optimal Predictor}{39}%
+\contentsline {subsection}{\numberline {6.1.1}Square Loss}{40}%
+\contentsline {subsection}{\numberline {6.1.2}Zero-one loss for binary classification}{41}%
+\contentsline {section}{\numberline {6.2}Bayes Risk}{44}%
+\contentsline {chapter}{\numberline {7}Lecture 7 - 07-04-2020}{46}%
+\contentsline {section}{\numberline {7.1}Chernoff-Hoffding bound}{46}%
+\contentsline {section}{\numberline {7.2}Union Bound}{47}%
+\contentsline {section}{\numberline {7.3}Studying overfitting of a ERM}{51}%
+\contentsline {chapter}{\numberline {8}Lecture 8 - 07-04-2020}{53}%
+\contentsline {section}{\numberline {8.1}The problem of estimating risk in practise}{54}%
+\contentsline {section}{\numberline {8.2}Cross-validation}{56}%
+\contentsline {section}{\numberline {8.3}Nested cross validation}{58}%
+\contentsline {chapter}{\numberline {9}Lecture 9 - 07-04-2020}{59}%
+\contentsline {section}{\numberline {9.1}Tree predictors}{59}%
+\contentsline {subsection}{\numberline {9.1.1}Catalan Number}{61}%
+\contentsline {chapter}{\numberline {10}Lecture 10 - 07-04-2020}{65}%
+\contentsline {section}{\numberline {10.1}TO BE DEFINE}{65}%
+\contentsline {section}{\numberline {10.2}MANCANO 20 MINUTI DI LEZIONE}{65}%
+\contentsline {section}{\numberline {10.3}Compare risk for zero-one loss}{67}%
+\contentsline {chapter}{\numberline {11}Lecture 11 - 20-04-2020}{69}%
+\contentsline {section}{\numberline {11.1}Analysis of $K_{NN}$}{69}%
+\contentsline {subsection}{\numberline {11.1.1}Study of $K_{NN}$}{72}%
+\contentsline {subsection}{\numberline {11.1.2}study of trees}{73}%
+\contentsline {section}{\numberline {11.2}Non-parametric Algorithms}{74}%
+\contentsline {subsection}{\numberline {11.2.1}Example of parametric algorithms}{75}%
+\contentsline {chapter}{\numberline {12}Lecture 12 - 21-04-2020}{76}%
+\contentsline {section}{\numberline {12.1}Non parametrics algorithms}{76}%
+\contentsline {subsection}{\numberline {12.1.1}Theorem: No free lunch}{76}%
+\contentsline {section}{\numberline {12.2}Highly Parametric Learning Algorithm}{78}%
+\contentsline {subsection}{\numberline {12.2.1}Linear Predictors}{78}%
+\contentsline {subsection}{\numberline {12.2.2}MinDisagreement}{82}%
+\contentsline {chapter}{\numberline {13}Lecture 13 - 27-04-2020}{83}%
+\contentsline {section}{\numberline {13.1}Linear prediction}{83}%
+\contentsline {subsection}{\numberline {13.1.1}MinDisOpt}{83}%
+\contentsline {section}{\numberline {13.2}The Perception Algorithm}{86}%
+\contentsline {subsection}{\numberline {13.2.1}Perception convergence Theorem}{87}%
+\contentsline {chapter}{\numberline {14}Lecture 14 - 28-04-2020}{90}%
+\contentsline {chapter}{\numberline {15}Lecture 15 - 04-05-2020}{91}%
+\contentsline {chapter}{\numberline {16}Lecture 16 - 05-05-2020}{92}%
+\contentsline {chapter}{\numberline {17}Lecture 17 - 11-05-2020}{93}%
+\contentsline {chapter}{\numberline {18}Lecture 18 - 12-05-2020}{94}%
+\contentsline {section}{\numberline {18.1}Kernel functions}{94}%
+\contentsline {subsection}{\numberline {18.1.1}Feature expansion}{94}%
+\contentsline {subsection}{\numberline {18.1.2}Kernels implements feature expansion (Efficiently}{95}%
+\contentsline {section}{\numberline {18.2}Gaussian Kernel}{96}%
