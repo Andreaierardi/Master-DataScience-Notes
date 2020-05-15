@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  15 MAY 2020 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  15 MAY 2020 17:33
 entering extended mode
 **./main.tex
 (main.tex
@@ -328,11 +328,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [3] (main.lof [4
 
-])
+] [5])
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [5] (lectures/lecture1.tex
+ [6] (lectures/lecture1.tex
 Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--14
@@ -389,7 +389,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--53
 
  []
 
-[6
+[7
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 61--89
@@ -411,42 +411,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--89
 
  []
 
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 93--104
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--104
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--104
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--123
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--123
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--123
-
- []
-
 [8]
+Underfull \hbox (badness 10000) in paragraph at lines 93--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--123
+
+ []
+
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 132--135
 
  []
 
-) [9] (lectures/lecture2.tex
+) [10] (lectures/lecture2.tex
 Chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--16
@@ -463,7 +463,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--30
 
  []
 
-<lectures/../img/lez2-img1.JPG, id=52, 99.37125pt x 78.2925pt>
+<lectures/../img/lez2-img1.JPG, id=55, 99.37125pt x 78.2925pt>
 File: lectures/../img/lez2-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez2-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez2-img1.JPG  used on input line 36.
@@ -476,10 +476,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--42
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10
+[11
 
 ]
-<lectures/../img/lez2-img2.JPG, id=57, 173.14688pt x 85.06781pt>
+<lectures/../img/lez2-img2.JPG, id=60, 173.14688pt x 85.06781pt>
 File: lectures/../img/lez2-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez2-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez2-img2.JPG  used on input line 53.
@@ -499,7 +499,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--65
 
  []
 
-[11 <./lectures/../img/lez2-img1.JPG> <./lectures/../img/lez2-img2.JPG>]
+[12 <./lectures/../img/lez2-img1.JPG> <./lectures/../img/lez2-img2.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 76--94
 
  []
@@ -524,7 +524,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--122
 
  []
 
-[12]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 123--128
 
  []
@@ -559,7 +559,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--169
 
  []
 
-[13] [14]
+[14] [15]
 Underfull \hbox (badness 10000) in paragraph at lines 177--184
 
  []
@@ -574,7 +574,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--212
 
  []
 
-[15]) [16] (lectures/lecture3.tex
+[16]) [17] (lectures/lecture3.tex
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--7
@@ -591,7 +591,7 @@ t/12 ::: \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 X[] \OMS/cmsy/m/n/12  \OML/cmm/m/
 it/12 x
  []
 
-<lectures/../img/lez3-img1.JPG, id=80, 445.665pt x 107.65219pt>
+<lectures/../img/lez3-img1.JPG, id=83, 445.665pt x 107.65219pt>
 File: lectures/../img/lez3-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez3-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez3-img1.JPG  used on input line 25.
@@ -641,7 +641,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--41
 
  []
 
-[17
+[18
 
  <./lectures/../img/lez3-img1.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 54--60
@@ -663,7 +663,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--81
 
  []
 
-[18]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 84--92
 
  []
@@ -688,7 +688,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--114
 
  []
 
-[19]
+[20]
 Underfull \hbox (badness 10000) in paragraph at lines 116--144
 
  []
@@ -723,7 +723,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--174
 
  []
 
-[20]
+[21]
 Overfull \hbox (36.23656pt too wide) detected at line 176
 \OML/cmm/m/it/12 A \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 ERM[] \OMS/cmsy/m/n/12 !
  []
@@ -744,14 +744,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--204
 
  []
 
-[21]
-<lectures/../img/lez3-img2.JPG, id=97, 135.50626pt x 131.74219pt>
+[22]
+<lectures/../img/lez3-img2.JPG, id=100, 135.50626pt x 131.74219pt>
 File: lectures/../img/lez3-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez3-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez3-img2.JPG  used on input line 210.
 
 (pdftex.def)             Requested size: 155.99762pt x 151.66916pt.
-<lectures/../img/lez3-img3.JPG, id=98, 142.28156pt x 121.20282pt>
+<lectures/../img/lez3-img3.JPG, id=101, 142.28156pt x 121.20282pt>
 File: lectures/../img/lez3-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez3-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez3-img3.JPG  used on input line 221.
@@ -777,12 +777,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--238
 
  []
 
-[22 <./lectures/../img/lez3-img2.JPG> <./lectures/../img/lez3-img3.JPG>]
+[23 <./lectures/../img/lez3-img2.JPG> <./lectures/../img/lez3-img3.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 240--241
 
  []
 
-) [23] (lectures/lecture4.tex
+) [24] (lectures/lecture4.tex
 Chapter 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--14
@@ -799,7 +799,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--39
 
  []
 
-<lectures/../img/lez4-img1.JPG, id=105, 222.8325pt x 179.92218pt>
+<lectures/../img/lez4-img1.JPG, id=109, 222.8325pt x 179.92218pt>
 File: lectures/../img/lez4-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez4-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez4-img1.JPG  used on input line 54.
@@ -824,14 +824,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--70
 
  []
 
-[24
+[25
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 72--74
 
  []
 
-<lectures/../img/lez4-img2.JPG, id=110, 310.15875pt x 176.91093pt>
+<lectures/../img/lez4-img2.JPG, id=113, 310.15875pt x 176.91093pt>
 File: lectures/../img/lez4-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez4-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez4-img2.JPG  used on input line 92.
@@ -846,8 +846,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--98
 
  []
 
-[25 <./lectures/../img/lez4-img1.JPG>]
-<lectures/../img/lez4-img3.JPG, id=114, 122.70844pt x 57.21375pt>
+[26 <./lectures/../img/lez4-img1.JPG>]
+<lectures/../img/lez4-img3.JPG, id=117, 122.70844pt x 57.21375pt>
 File: lectures/../img/lez4-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez4-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez4-img3.JPG  used on input line 110.
@@ -861,26 +861,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--114
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26 <./lectures/../img/lez4-img2.JPG>]
+[27 <./lectures/../img/lez4-img2.JPG>]
 Overfull \hbox (30.95695pt too wide) detected at line 129
 \OML/cmm/m/it/12 X \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 Sunny; 
 \OT1/cmr/m/n/12 50%\OML/cmm/m/it/12 ; No\OMS/cmsy/m/n/12 g  !  []f\OML/cmm/m/it
 /12 outlook:humidity; windy\OMS/cmsy/m/n/12 g
  []
 
-<lectures/../img/lez4-img4.JPG, id=118, 76.78688pt x 45.92157pt>
+<lectures/../img/lez4-img4.JPG, id=121, 76.78688pt x 45.92157pt>
 File: lectures/../img/lez4-img4.JPG Graphic file (type jpg)
 <use lectures/../img/lez4-img4.JPG>
 Package pdftex.def Info: lectures/../img/lez4-img4.JPG  used on input line 166.
 
 (pdftex.def)             Requested size: 77.99881pt x 46.64948pt.
-<lectures/../img/lez4-img5.JPG, id=119, 76.78688pt x 55.70813pt>
+<lectures/../img/lez4-img5.JPG, id=122, 76.78688pt x 55.70813pt>
 File: lectures/../img/lez4-img5.JPG Graphic file (type jpg)
 <use lectures/../img/lez4-img5.JPG>
 Package pdftex.def Info: lectures/../img/lez4-img5.JPG  used on input line 174.
 
 (pdftex.def)             Requested size: 77.99881pt x 56.59116pt.
-<lectures/../img/lez4-img6.JPG, id=120, 461.47406pt x 211.54031pt>
+<lectures/../img/lez4-img6.JPG, id=123, 461.47406pt x 211.54031pt>
 File: lectures/../img/lez4-img6.JPG Graphic file (type jpg)
 <use lectures/../img/lez4-img6.JPG>
 Package pdftex.def Info: lectures/../img/lez4-img6.JPG  used on input line 185.
@@ -889,7 +889,7 @@ Package pdftex.def Info: lectures/../img/lez4-img6.JPG  used on input line 185.
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 189.
 
-<lectures/../img/lez4-img7.JPG, id=121, 278.54062pt x 389.95688pt>
+<lectures/../img/lez4-img7.JPG, id=124, 278.54062pt x 389.95688pt>
 File: lectures/../img/lez4-img7.JPG Graphic file (type jpg)
 <use lectures/../img/lez4-img7.JPG>
 Package pdftex.def Info: lectures/../img/lez4-img7.JPG  used on input line 192.
@@ -905,15 +905,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--99
 
  []
 
-[27 <./lectures/../img/lez4-img3.JPG>]
+[28 <./lectures/../img/lez4-img3.JPG>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[28 <./lectures/../img/lez4-img4.JPG> <./lectures/../img/lez4-img5.JPG> <./lect
-ures/../img/lez4-img6.JPG>] (lectures/lecture5.tex [29 <./lectures/../img/lez4-
+[29 <./lectures/../img/lez4-img4.JPG> <./lectures/../img/lez4-img5.JPG> <./lect
+ures/../img/lez4-img6.JPG>] (lectures/lecture5.tex [30 <./lectures/../img/lez4-
 img7.JPG>]
 Chapter 5.
-<lectures/../img/lez5-img1.JPG, id=131, 134.75343pt x 130.23656pt>
+<lectures/../img/lez5-img1.JPG, id=135, 134.75343pt x 130.23656pt>
 File: lectures/../img/lez5-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez5-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez5-img1.JPG  used on input line 15.
@@ -933,16 +933,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--44
 
  []
 
-[30
+[31
 
  <./lectures/../img/lez5-img1.JPG>]
-<lectures/../img/lez5-img2.JPG, id=136, 414.79968pt x 177.66376pt>
+<lectures/../img/lez5-img2.JPG, id=139, 414.79968pt x 177.66376pt>
 File: lectures/../img/lez5-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez5-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez5-img2.JPG  used on input line 67.
 (pdftex.def)             Requested size: 312.00119pt x 133.63785pt.
- [31 <./lectures/../img/lez5-img2.JPG>]
-<lectures/../img/lez5-img3.JPG, id=140, 173.14688pt x 62.48344pt>
+ [32 <./lectures/../img/lez5-img2.JPG>]
+<lectures/../img/lez5-img3.JPG, id=143, 173.14688pt x 62.48344pt>
 File: lectures/../img/lez5-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez5-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez5-img3.JPG  used on input line 83.
@@ -952,7 +952,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--89
 
  []
 
-<lectures/../img/lez5-img4.JPG, id=141, 140.77594pt x 118.94438pt>
+<lectures/../img/lez5-img4.JPG, id=144, 140.77594pt x 118.94438pt>
 File: lectures/../img/lez5-img4.JPG Graphic file (type jpg)
 <use lectures/../img/lez5-img4.JPG>
 Package pdftex.def Info: lectures/../img/lez5-img4.JPG  used on input line 94.
@@ -982,8 +982,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--113
 
  []
 
-[32 <./lectures/../img/lez5-img3.JPG> <./lectures/../img/lez5-img4.JPG>]
-<lectures/../img/lez5-img5.JPG, id=147, 157.33781pt x 119.69719pt>
+[33 <./lectures/../img/lez5-img3.JPG> <./lectures/../img/lez5-img4.JPG>]
+<lectures/../img/lez5-img5.JPG, id=150, 157.33781pt x 119.69719pt>
 File: lectures/../img/lez5-img5.JPG Graphic file (type jpg)
 <use lectures/../img/lez5-img5.JPG>
 Package pdftex.def Info: lectures/../img/lez5-img5.JPG  used on input line 116.
@@ -1024,12 +1024,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--158
 
  []
 
-[33 <./lectures/../img/lez5-img5.JPG>]
+[34 <./lectures/../img/lez5-img5.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 161--163
 
  []
 
-<lectures/../img/lez5-img6.JPG, id=151, 481.04718pt x 231.11343pt>
+<lectures/../img/lez5-img6.JPG, id=154, 481.04718pt x 231.11343pt>
 File: lectures/../img/lez5-img6.JPG Graphic file (type jpg)
 <use lectures/../img/lez5-img6.JPG>
 Package pdftex.def Info: lectures/../img/lez5-img6.JPG  used on input line 171.
@@ -1050,13 +1050,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
-<lectures/../img/lez5-img7.JPG, id=152, 487.06969pt x 201.00093pt>
+<lectures/../img/lez5-img7.JPG, id=155, 487.06969pt x 201.00093pt>
 File: lectures/../img/lez5-img7.JPG Graphic file (type jpg)
 <use lectures/../img/lez5-img7.JPG>
 Package pdftex.def Info: lectures/../img/lez5-img7.JPG  used on input line 192.
 
 (pdftex.def)             Requested size: 234.00238pt x 96.56522pt.
-<lectures/../img/lez5-img8.JPG, id=153, 182.18062pt x 127.97812pt>
+<lectures/../img/lez5-img8.JPG, id=156, 182.18062pt x 127.97812pt>
 File: lectures/../img/lez5-img8.JPG Graphic file (type jpg)
 <use lectures/../img/lez5-img8.JPG>
 Package pdftex.def Info: lectures/../img/lez5-img8.JPG  used on input line 198.
@@ -1068,14 +1068,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[34 <./lectures/../img/lez5-img6.JPG>]
-<lectures/../img/lez5-img9.JPG, id=157, 207.02344pt x 127.22531pt>
+[35 <./lectures/../img/lez5-img6.JPG>]
+<lectures/../img/lez5-img9.JPG, id=160, 207.02344pt x 127.22531pt>
 File: lectures/../img/lez5-img9.JPG Graphic file (type jpg)
 <use lectures/../img/lez5-img9.JPG>
 Package pdftex.def Info: lectures/../img/lez5-img9.JPG  used on input line 218.
 
 (pdftex.def)             Requested size: 155.99762pt x 95.86911pt.
- [35 <./lectures/../img/lez5-img7.JPG> <./lectures/../img/lez5-img8.JPG> <./lec
+ [36 <./lectures/../img/lez5-img7.JPG> <./lectures/../img/lez5-img8.JPG> <./lec
 tures/../img/lez5-img9.JPG>]
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 236.
@@ -1083,7 +1083,7 @@ LaTeX Warning: Command \textquoteright invalid in math mode on input line 236.
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 236.
 
-<lectures/../img/lez5-img10.JPG, id=161, 296.60812pt x 194.22563pt>
+<lectures/../img/lez5-img10.JPG, id=165, 296.60812pt x 194.22563pt>
 File: lectures/../img/lez5-img10.JPG Graphic file (type jpg)
 <use lectures/../img/lez5-img10.JPG>
 Package pdftex.def Info: lectures/../img/lez5-img10.JPG  used on input line 240
@@ -1109,7 +1109,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 255--265
 
  []
 
-[36 <./lectures/../img/lez5-img10.JPG>]
+[37 <./lectures/../img/lez5-img10.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 267--273
 
  []
@@ -1119,7 +1119,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 267--273
 
  []
 
-) [37] [38] (lectures/lecture6.tex
+) [38] [39] (lectures/lecture6.tex
 Chapter 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--17
@@ -1151,7 +1151,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--52
 
  []
 
-[39
+[40
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 53--57
@@ -1171,7 +1171,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--66
 
  []
 
-<lectures/../img/lez6-img0.JPG, id=175, 73.02281pt x 59.47218pt>
+<lectures/../img/lez6-img0.JPG, id=178, 73.02281pt x 59.47218pt>
 File: lectures/../img/lez6-img0.JPG Graphic file (type jpg)
 <use lectures/../img/lez6-img0.JPG>
 Package pdftex.def Info: lectures/../img/lez6-img0.JPG  used on input line 85.
@@ -1186,7 +1186,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--100
 
  []
 
-[40 <./lectures/../img/lez6-img0.JPG>]
+[41 <./lectures/../img/lez6-img0.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 105--107
 
  []
@@ -1202,25 +1202,25 @@ Overfull \hbox (13.10564pt too wide) detected at line 133
   [][]
  []
 
-[41]
-<lectures/../img/lez6-img1.JPG, id=183, 363.60844pt x 154.32657pt>
+[42]
+<lectures/../img/lez6-img1.JPG, id=187, 363.60844pt x 154.32657pt>
 File: lectures/../img/lez6-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez6-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez6-img1.JPG  used on input line 144.
 
 (pdftex.def)             Requested size: 234.00238pt x 99.31967pt.
-<lectures/../img/lez6-img2.JPG, id=184, 406.51875pt x 102.3825pt>
+<lectures/../img/lez6-img2.JPG, id=188, 406.51875pt x 102.3825pt>
 File: lectures/../img/lez6-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez6-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez6-img2.JPG  used on input line 158.
 
 (pdftex.def)             Requested size: 234.00238pt x 58.93352pt.
- [42 <./lectures/../img/lez6-img1.JPG> <./lectures/../img/lez6-img2.JPG>]
+ [43 <./lectures/../img/lez6-img1.JPG> <./lectures/../img/lez6-img2.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
 
-<lectures/../img/lez6-img3.JPG, id=189, 299.61937pt x 127.22531pt>
+<lectures/../img/lez6-img3.JPG, id=192, 299.61937pt x 127.22531pt>
 File: lectures/../img/lez6-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez6-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez6-img3.JPG  used on input line 175.
@@ -1250,18 +1250,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--208
 
  []
 
-[43 <./lectures/../img/lez6-img3.JPG>]
+[44 <./lectures/../img/lez6-img3.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 229--233
 
  []
 
-<lectures/../img/lez6-img4.JPG, id=194, 377.91188pt x 182.93344pt>
+<lectures/../img/lez6-img4.JPG, id=197, 377.91188pt x 182.93344pt>
 File: lectures/../img/lez6-img4.JPG Graphic file (type jpg)
 <use lectures/../img/lez6-img4.JPG>
 Package pdftex.def Info: lectures/../img/lez6-img4.JPG  used on input line 246.
 
 (pdftex.def)             Requested size: 272.99881pt x 132.1502pt.
-) [44 <./lectures/../img/lez6-img4.JPG>] [45] (lectures/lecture7.tex
+) [45 <./lectures/../img/lez6-img4.JPG>] [46] (lectures/lecture7.tex
 Chapter 7.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
@@ -1294,10 +1294,10 @@ Overfull \hbox (0.51405pt too wide) detected at line 54
 ] \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 e[]
  []
 
-[46
+[47
 
 ]
-<lectures/../img/lez7-img1.JPG, id=204, 188.95593pt x 88.83188pt>
+<lectures/../img/lez7-img1.JPG, id=207, 188.95593pt x 88.83188pt>
 File: lectures/../img/lez7-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez7-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez7-img1.JPG  used on input line 73.
@@ -1317,7 +1317,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--87
 
  []
 
-<lectures/../img/lez7-img2.JPG, id=205, 79.79813pt x 73.02281pt>
+<lectures/../img/lez7-img2.JPG, id=208, 79.79813pt x 73.02281pt>
 File: lectures/../img/lez7-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez7-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez7-img2.JPG  used on input line 98.
@@ -1331,7 +1331,7 @@ Overfull \hbox (27.96684pt too wide) detected at line 111
 U/msb/m/n/12 P [] \OMS/cmsy/m/n/12 
  []
 
-[47 <./lectures/../img/lez7-img1.JPG>]
+[48 <./lectures/../img/lez7-img1.JPG>]
 Overfull \hbox (4.4292pt too wide) detected at line 118
 \OMS/cmsy/m/n/12  \U/msb/m/n/12 P [] \OT1/cmr/m/n/12 + \U/msb/m/n/12 P []  \OM
 S/cmsy/m/n/12   \OT1/cmr/m/n/12 2 \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 e[]  \OM
@@ -1343,7 +1343,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--125
 
  []
 
-<lectures/../img/lez7-img3.JPG, id=209, 388.45125pt x 124.96687pt>
+<lectures/../img/lez7-img3.JPG, id=213, 388.45125pt x 124.96687pt>
 File: lectures/../img/lez7-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez7-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez7-img3.JPG  used on input line 132.
@@ -1354,7 +1354,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--145
 
  []
 
-[48 <./lectures/../img/lez7-img2.JPG> <./lectures/../img/lez7-img3.JPG>]
+[49 <./lectures/../img/lez7-img2.JPG> <./lectures/../img/lez7-img3.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 147--159
 
  []
@@ -1370,13 +1370,13 @@ Overfull \hbox (76.34352pt too wide) detected at line 161
 `[] [] [][]\OMS/cmsy/m/n/12 ! []
  []
 
-<lectures/../img/lez7-img4.JPG, id=214, 245.41687pt x 77.53969pt>
+<lectures/../img/lez7-img4.JPG, id=217, 245.41687pt x 77.53969pt>
 File: lectures/../img/lez7-img4.JPG Graphic file (type jpg)
 <use lectures/../img/lez7-img4.JPG>
 Package pdftex.def Info: lectures/../img/lez7-img4.JPG  used on input line 165.
 
 (pdftex.def)             Requested size: 117.00119pt x 36.9666pt.
-<lectures/../img/lez7-img5.JPG, id=215, 234.1247pt x 109.1578pt>
+<lectures/../img/lez7-img5.JPG, id=218, 234.1247pt x 109.1578pt>
 File: lectures/../img/lez7-img5.JPG Graphic file (type jpg)
 <use lectures/../img/lez7-img5.JPG>
 Package pdftex.def Info: lectures/../img/lez7-img5.JPG  used on input line 172.
@@ -1410,12 +1410,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--193
 
  []
 
-[49 <./lectures/../img/lez7-img4.JPG> <./lectures/../img/lez7-img5.JPG>]
+[50 <./lectures/../img/lez7-img4.JPG> <./lectures/../img/lez7-img5.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 201--203
 
  []
 
-<lectures/../img/lez7-img6.JPG, id=219, 327.47343pt x 208.52907pt>
+<lectures/../img/lez7-img6.JPG, id=222, 327.47343pt x 208.52907pt>
 File: lectures/../img/lez7-img6.JPG Graphic file (type jpg)
 <use lectures/../img/lez7-img6.JPG>
 Package pdftex.def Info: lectures/../img/lez7-img6.JPG  used on input line 217.
@@ -1436,7 +1436,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--224
 
  []
 
-[50 <./lectures/../img/lez7-img6.JPG>]
+[51 <./lectures/../img/lez7-img6.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 251--257
 
  []
@@ -1456,12 +1456,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 271--273
 
  []
 
-[51])
+[52])
 Underfull \hbox (badness 10000) in paragraph at lines 295--111
 
  []
 
-[52] (lectures/lecture8.tex
+[53] (lectures/lecture8.tex
 Chapter 8.
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--13
@@ -1479,7 +1479,7 @@ Overfull \hbox (74.73193pt too wide) detected at line 27
 /n/12 + [] []
  []
 
-<lectures/../img/lez8-img1.JPG, id=230, 214.55156pt x 144.54pt>
+<lectures/../img/lez8-img1.JPG, id=233, 214.55156pt x 144.54pt>
 File: lectures/../img/lez8-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez8-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez8-img1.JPG  used on input line 32.
@@ -1499,7 +1499,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--47
 
  []
 
-[53
+[54
 
  <./lectures/../img/lez8-img1.JPG>]
 Overfull \hbox (22.02261pt too wide) detected at line 51
@@ -1508,7 +1508,7 @@ T1/cmr/m/n/12 (\OML/cmm/m/it/12 h\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12   \OML/cmm/
 m/it/12 `[] []  \OMS/cmsy/m/n/12   [] []
  []
 
-<lectures/../img/lez8-img2.JPG, id=234, 215.30438pt x 57.96657pt>
+<lectures/../img/lez8-img2.JPG, id=238, 215.30438pt x 57.96657pt>
 File: lectures/../img/lez8-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez8-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez8-img2.JPG  used on input line 55.
@@ -1548,24 +1548,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--104
 
  []
 
-[54 <./lectures/../img/lez8-img2.JPG>] [55]
+[55 <./lectures/../img/lez8-img2.JPG>] [56]
 Underfull \hbox (badness 10000) in paragraph at lines 125--133
 
  []
 
-<lectures/../img/lez8-img3.JPG, id=242, 149.8097pt x 45.92157pt>
+<lectures/../img/lez8-img3.JPG, id=245, 149.8097pt x 45.92157pt>
 File: lectures/../img/lez8-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez8-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez8-img3.JPG  used on input line 144.
 
 (pdftex.def)             Requested size: 195.0pt x 59.7786pt.
-<lectures/../img/lez8-img4.JPG, id=243, 258.9675pt x 94.10156pt>
+<lectures/../img/lez8-img4.JPG, id=246, 258.9675pt x 94.10156pt>
 File: lectures/../img/lez8-img4.JPG Graphic file (type jpg)
 <use lectures/../img/lez8-img4.JPG>
 Package pdftex.def Info: lectures/../img/lez8-img4.JPG  used on input line 165.
 
 (pdftex.def)             Requested size: 234.00238pt x 85.03378pt.
-[56 <./lectures/../img/lez8-img3.JPG>]
+[57 <./lectures/../img/lez8-img3.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 183--186
 
  []
@@ -1575,13 +1575,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--195
 
  []
 
-<lectures/../img/lez8-img5.JPG, id=247, 441.14813pt x 118.94438pt>
+<lectures/../img/lez8-img5.JPG, id=250, 441.14813pt x 118.94438pt>
 File: lectures/../img/lez8-img5.JPG Graphic file (type jpg)
 <use lectures/../img/lez8-img5.JPG>
 Package pdftex.def Info: lectures/../img/lez8-img5.JPG  used on input line 206.
 
 (pdftex.def)             Requested size: 312.00119pt x 84.1262pt.
-[57 <./lectures/../img/lez8-img4.JPG>]) [58 <./lectures/../img/lez8-img5.JPG>]
+[58 <./lectures/../img/lez8-img4.JPG>]) [59 <./lectures/../img/lez8-img5.JPG>]
 (lectures/lecture9.tex
 Chapter 9.
 
@@ -1594,7 +1594,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
 
-<lectures/../img/lez9-img1.JPG, id=254, 290.58563pt x 257.46187pt>
+<lectures/../img/lez9-img1.JPG, id=257, 290.58563pt x 257.46187pt>
 File: lectures/../img/lez9-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez9-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez9-img1.JPG  used on input line 27.
@@ -1609,7 +1609,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--40
 
  []
 
-[59
+[60
 
  <./lectures/../img/lez9-img1.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 42--55
@@ -1632,7 +1632,7 @@ Overfull \hbox (72.7222pt too wide) detected at line 63
 OMS/cmsy/m/n/12  []  []
  []
 
-<lectures/../img/lez9-img2.JPG, id=258, 139.27031pt x 140.02313pt>
+<lectures/../img/lez9-img2.JPG, id=262, 139.27031pt x 140.02313pt>
 File: lectures/../img/lez9-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez9-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez9-img2.JPG  used on input line 70.
@@ -1642,7 +1642,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--74
 
  []
 
-[60 <./lectures/../img/lez9-img2.JPG>]
+[61 <./lectures/../img/lez9-img2.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 84--90
 
  []
@@ -1657,7 +1657,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--112
 
  []
 
-[61]
+[62]
 Underfull \hbox (badness 10000) in paragraph at lines 145--148
 
  []
@@ -1697,12 +1697,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--197
 
  []
 
-[62]
+[63]
 Underfull \hbox (badness 10000) in paragraph at lines 204--207
 
  []
 
-<lectures/../img/lez9-img3.JPG, id=271, 348.55219pt x 199.49532pt>
+<lectures/../img/lez9-img3.JPG, id=274, 348.55219pt x 199.49532pt>
 File: lectures/../img/lez9-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez9-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez9-img3.JPG  used on input line 215.
@@ -1718,7 +1718,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--119
 
  []
 
-[63 <./lectures/../img/lez9-img3.JPG>] [64] (lectures/lecture10.tex
+[64 <./lectures/../img/lez9-img3.JPG>] [65] (lectures/lecture10.tex
 Chapter 10.
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 11.
@@ -1774,7 +1774,7 @@ Overfull \hbox (4.56644pt too wide) detected at line 53
 cmr/m/n/12 =
  []
 
-[65
+[66
 
 ]
 Overfull \hbox (17.46814pt too wide) detected at line 61
@@ -1797,7 +1797,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--80
 
  []
 
-<lectures/../img/lez10-img1.JPG, id=281, 186.6975pt x 154.32657pt>
+<lectures/../img/lez10-img1.JPG, id=285, 186.6975pt x 154.32657pt>
 File: lectures/../img/lez10-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez10-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez10-img1.JPG  used on input line 84.
@@ -1816,8 +1816,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--112
 
  []
 
-[66]
-<lectures/../img/lez10-img2.JPG, id=286, 198.7425pt x 139.27031pt>
+[67]
+<lectures/../img/lez10-img2.JPG, id=289, 198.7425pt x 139.27031pt>
 File: lectures/../img/lez10-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez10-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez10-img2.JPG  used on input line 131
@@ -1827,10 +1827,10 @@ Package pdftex.def Info: lectures/../img/lez10-img2.JPG  used on input line 131
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [67 <./lectures/../img/lez10-img1.JPG>] (lectures/lecture11.tex [68 <./lectur
+) [68 <./lectures/../img/lez10-img1.JPG>] (lectures/lecture11.tex [69 <./lectur
 es/../img/lez10-img2.JPG>]
 Chapter 11.
-<lectures/../img/lez11-img1.JPG, id=293, 214.55156pt x 150.5625pt>
+<lectures/../img/lez11-img1.JPG, id=296, 214.55156pt x 150.5625pt>
 File: lectures/../img/lez11-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez11-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez11-img1.JPG  used on input line 21.
@@ -1851,10 +1851,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--39
 
  []
 
-[69
+[70
 
  <./lectures/../img/lez11-img1.JPG>]
-<lectures/../img/lez11-img2.JPG, id=297, 51.19125pt x 42.1575pt>
+<lectures/../img/lez11-img2.JPG, id=300, 51.19125pt x 42.1575pt>
 File: lectures/../img/lez11-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez11-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez11-img2.JPG  used on input line 53.
@@ -1891,8 +1891,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--125
 
  []
 
-[70 <./lectures/../img/lez11-img2.JPG>]
-<lectures/../img/lez11-img3.JPG, id=301, 122.70844pt x 64.74188pt>
+[71 <./lectures/../img/lez11-img2.JPG>]
+<lectures/../img/lez11-img3.JPG, id=304, 122.70844pt x 64.74188pt>
 File: lectures/../img/lez11-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez11-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez11-img3.JPG  used on input line 135
@@ -1913,7 +1913,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--170
 
  []
 
-[71 <./lectures/../img/lez11-img3.JPG>]
+[72 <./lectures/../img/lez11-img3.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 193--195
 
  []
@@ -1971,7 +1971,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 233--251
 
  []
 
-[72]
+[73]
 Underfull \hbox (badness 10000) in paragraph at lines 253--256
 
  []
@@ -2006,8 +2006,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 270--287
 
  []
 
-[73]
-<lectures/../img/lez11-img4.JPG, id=313, 328.22626pt x 147.55125pt>
+[74]
+<lectures/../img/lez11-img4.JPG, id=316, 328.22626pt x 147.55125pt>
 File: lectures/../img/lez11-img4.JPG Graphic file (type jpg)
 <use lectures/../img/lez11-img4.JPG>
 Package pdftex.def Info: lectures/../img/lez11-img4.JPG  used on input line 311
@@ -2048,7 +2048,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--333
 
  []
 
-[74]) [75 <./lectures/../img/lez11-img4.JPG>] (lectures/lecture12.tex
+[75]) [76 <./lectures/../img/lez11-img4.JPG>] (lectures/lecture12.tex
 Chapter 12.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--17
@@ -2060,7 +2060,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--17
 
  []
 
-<lectures/../img/lez12-img1.JPG, id=320, 314.67563pt x 160.34906pt>
+<lectures/../img/lez12-img1.JPG, id=323, 314.67563pt x 160.34906pt>
 File: lectures/../img/lez12-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez12-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez12-img1.JPG  used on input line 35.
@@ -2079,19 +2079,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--44
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[76
+[77
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 49--60
 
  []
 
-[77 <./lectures/../img/lez12-img1.JPG>]
+[78 <./lectures/../img/lez12-img1.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 65--67
 
  []
 
-<lectures/../img/lez12-img2.JPG, id=327, 65.49469pt x 61.73062pt>
+<lectures/../img/lez12-img2.JPG, id=331, 65.49469pt x 61.73062pt>
 File: lectures/../img/lez12-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez12-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez12-img2.JPG  used on input line 83.
@@ -2102,7 +2102,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--88
 
  []
 
-<lectures/../img/lez12-img3.JPG, id=328, 106.14656pt x 110.66344pt>
+<lectures/../img/lez12-img3.JPG, id=332, 106.14656pt x 110.66344pt>
 File: lectures/../img/lez12-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez12-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez12-img3.JPG  used on input line 108
@@ -2111,14 +2111,14 @@ Package pdftex.def Info: lectures/../img/lez12-img3.JPG  used on input line 108
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<lectures/../img/lez12-img4.JPG, id=329, 137.7647pt x 115.18031pt>
+<lectures/../img/lez12-img4.JPG, id=333, 137.7647pt x 115.18031pt>
 File: lectures/../img/lez12-img4.JPG Graphic file (type jpg)
 <use lectures/../img/lez12-img4.JPG>
 Package pdftex.def Info: lectures/../img/lez12-img4.JPG  used on input line 124
 .
 (pdftex.def)             Requested size: 155.99762pt x 130.43692pt.
-[78 <./lectures/../img/lez12-img2.JPG>]
-<lectures/../img/lez12-img5.JPG, id=334, 310.91156pt x 131.74219pt>
+[79 <./lectures/../img/lez12-img2.JPG>]
+<lectures/../img/lez12-img5.JPG, id=337, 310.91156pt x 131.74219pt>
 File: lectures/../img/lez12-img5.JPG Graphic file (type jpg)
 <use lectures/../img/lez12-img5.JPG>
 Package pdftex.def Info: lectures/../img/lez12-img5.JPG  used on input line 147
@@ -2128,8 +2128,8 @@ Package pdftex.def Info: lectures/../img/lez12-img5.JPG  used on input line 147
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[79 <./lectures/../img/lez12-img3.JPG> <./lectures/../img/lez12-img4.JPG>]
-<lectures/../img/lez12-img6.JPG, id=338, 116.68594pt x 99.37125pt>
+[80 <./lectures/../img/lez12-img3.JPG> <./lectures/../img/lez12-img4.JPG>]
+<lectures/../img/lez12-img6.JPG, id=341, 116.68594pt x 99.37125pt>
 File: lectures/../img/lez12-img6.JPG Graphic file (type jpg)
 <use lectures/../img/lez12-img6.JPG>
 Package pdftex.def Info: lectures/../img/lez12-img6.JPG  used on input line 156
@@ -2140,8 +2140,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 173--176
 
  []
 
-[80 <./lectures/../img/lez12-img5.JPG> <./lectures/../img/lez12-img6.JPG>]
-<lectures/../img/lez12-img7.JPG, id=342, 199.49532pt x 143.78719pt>
+[81 <./lectures/../img/lez12-img5.JPG> <./lectures/../img/lez12-img6.JPG>]
+<lectures/../img/lez12-img7.JPG, id=345, 199.49532pt x 143.78719pt>
 File: lectures/../img/lez12-img7.JPG Graphic file (type jpg)
 <use lectures/../img/lez12-img7.JPG>
 Package pdftex.def Info: lectures/../img/lez12-img7.JPG  used on input line 180
@@ -2167,7 +2167,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--210
 
  []
 
-[81 <./lectures/../img/lez12-img7.JPG>]) [82] (lectures/lecture13.tex
+[82 <./lectures/../img/lez12-img7.JPG>]) [83] (lectures/lecture13.tex
 Chapter 13.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
@@ -2213,7 +2213,7 @@ Overfull \hbox (17.38333pt too wide) detected at line 38
 /12 c \OMS/cmsy/m/n/12  [] []  []
  []
 
-<lectures/../img/lez13-img1.JPG, id=349, 158.84344pt x 130.98938pt>
+<lectures/../img/lez13-img1.JPG, id=352, 158.84344pt x 130.98938pt>
 File: lectures/../img/lez13-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez13-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez13-img1.JPG  used on input line 51.
@@ -2224,16 +2224,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--57
 
  []
 
-[83
+[84
 
 ]
-<lectures/../img/lez13-img2.JPG, id=353, 63.23625pt x 67.75313pt>
+<lectures/../img/lez13-img2.JPG, id=357, 63.23625pt x 67.75313pt>
 File: lectures/../img/lez13-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez13-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez13-img2.JPG  used on input line 65.
 
 (pdftex.def)             Requested size: 77.99881pt x 83.57153pt.
-<lectures/../img/lez13-img3.JPG, id=354, 237.13594pt x 179.16937pt>
+<lectures/../img/lez13-img3.JPG, id=358, 237.13594pt x 179.16937pt>
 File: lectures/../img/lez13-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez13-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez13-img3.JPG  used on input line 74.
@@ -2252,8 +2252,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--81
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[84 <./lectures/../img/lez13-img1.JPG> <./lectures/../img/lez13-img2.JPG>]
-<lectures/../img/lez13-img4.JPG, id=359, 101.62968pt x 88.07906pt>
+[85 <./lectures/../img/lez13-img1.JPG> <./lectures/../img/lez13-img2.JPG>]
+<lectures/../img/lez13-img4.JPG, id=362, 101.62968pt x 88.07906pt>
 File: lectures/../img/lez13-img4.JPG Graphic file (type jpg)
 <use lectures/../img/lez13-img4.JPG>
 Package pdftex.def Info: lectures/../img/lez13-img4.JPG  used on input line 93.
@@ -2269,8 +2269,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--100
 
  []
 
-[85 <./lectures/../img/lez13-img3.JPG> <./lectures/../img/lez13-img4.JPG>]
-<lectures/../img/lez13-img5.JPG, id=363, 199.49532pt x 125.71968pt>
+[86 <./lectures/../img/lez13-img3.JPG> <./lectures/../img/lez13-img4.JPG>]
+<lectures/../img/lez13-img5.JPG, id=366, 199.49532pt x 125.71968pt>
 File: lectures/../img/lez13-img5.JPG Graphic file (type jpg)
 <use lectures/../img/lez13-img5.JPG>
 Package pdftex.def Info: lectures/../img/lez13-img5.JPG  used on input line 120
@@ -2291,7 +2291,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--127
 
  []
 
-[86 <./lectures/../img/lez13-img5.JPG>]
+[87 <./lectures/../img/lez13-img5.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 134--138
 
  []
@@ -2311,7 +2311,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--148
 
  []
 
-<lectures/../img/lez13-img6.JPG, id=367, 142.28156pt x 158.84344pt>
+<lectures/../img/lez13-img6.JPG, id=370, 142.28156pt x 158.84344pt>
 File: lectures/../img/lez13-img6.JPG Graphic file (type jpg)
 <use lectures/../img/lez13-img6.JPG>
 Package pdftex.def Info: lectures/../img/lez13-img6.JPG  used on input line 152
@@ -2327,12 +2327,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 149--167
 
  []
 
-[87 <./lectures/../img/lez13-img6.JPG>]
+[88 <./lectures/../img/lez13-img6.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 194--197
 
  []
 
-) [88] [89] (lectures/lecture14.tex
+) [89] [90] (lectures/lecture14.tex
 Chapter 14.
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--13
@@ -2369,14 +2369,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--75
 
  []
 
-[90
+[91
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 76--79
 
  []
 
-<lectures/../img/lez14-img1.JPG, id=381, 115.93312pt x 88.83188pt>
+<lectures/../img/lez14-img1.JPG, id=384, 115.93312pt x 88.83188pt>
 File: lectures/../img/lez14-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez14-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez14-img1.JPG  used on input line 93.
@@ -2397,7 +2397,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--100
 
  []
 
-[91 <./lectures/../img/lez14-img1.JPG>]
+[92 <./lectures/../img/lez14-img1.JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 106--109
 
  []
@@ -2417,8 +2417,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--152
 
  []
 
-[92]
-<lectures/../img/lez14-img2.JPG, id=388, 130.23656pt x 79.04532pt>
+[93]
+<lectures/../img/lez14-img2.JPG, id=391, 130.23656pt x 79.04532pt>
 File: lectures/../img/lez14-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez14-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez14-img2.JPG  used on input line 161
@@ -2434,8 +2434,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--172
 
  []
 
-[93 <./lectures/../img/lez14-img2.JPG>]
-<lectures/../img/lez14-img3.JPG, id=392, 225.84375pt x 121.20282pt>
+[94 <./lectures/../img/lez14-img2.JPG>]
+<lectures/../img/lez14-img3.JPG, id=395, 225.84375pt x 121.20282pt>
 File: lectures/../img/lez14-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez14-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez14-img3.JPG  used on input line 180
@@ -2451,8 +2451,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--196
 
  []
 
-[94 <./lectures/../img/lez14-img3.JPG>]
-<lectures/../img/lez14-img4.JPG, id=396, 207.02344pt x 126.4725pt>
+[95 <./lectures/../img/lez14-img3.JPG>]
+<lectures/../img/lez14-img4.JPG, id=399, 207.02344pt x 126.4725pt>
 File: lectures/../img/lez14-img4.JPG Graphic file (type jpg)
 <use lectures/../img/lez14-img4.JPG>
 Package pdftex.def Info: lectures/../img/lez14-img4.JPG  used on input line 207
@@ -2473,7 +2473,7 @@ mm/m/it/12 w[] x `[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 w\OT1/cmr/m/n/12 ) = \OML
 r/m/n/12 )[]
  []
 
-) [95 <./lectures/../img/lez14-img4.JPG>] (lectures/lecture15.tex
+) [96 <./lectures/../img/lez14-img4.JPG>] (lectures/lecture15.tex
 Chapter 15.
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--9
@@ -2485,39 +2485,126 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--20
 
  []
 
-[96
+[97
 
 ]
-<lectures/../img/lez15-img1.JPG, id=404, 242.40562pt x 112.92188pt>
+<lectures/../img/lez15-img1.JPG, id=407, 242.40562pt x 112.92188pt>
 File: lectures/../img/lez15-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez15-img1.JPG>
-Package pdftex.def Info: lectures/../img/lez15-img1.JPG  used on input line 44.
+Package pdftex.def Info: lectures/../img/lez15-img1.JPG  used on input line 45.
 
 (pdftex.def)             Requested size: 117.00119pt x 54.50513pt.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.50 \end{document}
-                   
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 40--137
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
 
  []
 
-[97 <./lectures/../img/lez15-img1.JPG>] (lectures/lecture16.tex
+<lectures/../img/lez15-img2.JPG, id=408, 185.19188pt x 109.91063pt>
+File: lectures/../img/lez15-img2.JPG Graphic file (type jpg)
+<use lectures/../img/lez15-img2.JPG>
+Package pdftex.def Info: lectures/../img/lez15-img2.JPG  used on input line 54.
+
+(pdftex.def)             Requested size: 117.00119pt x 69.44026pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+
+ []
+
+[98 <./lectures/../img/lez15-img1.JPG> <./lectures/../img/lez15-img2.JPG>]
+<lectures/../img/lez15-img3.JPG, id=412, 122.70844pt x 88.07906pt>
+File: lectures/../img/lez15-img3.JPG Graphic file (type jpg)
+<use lectures/../img/lez15-img3.JPG>
+Package pdftex.def Info: lectures/../img/lez15-img3.JPG  used on input line 89.
+
+(pdftex.def)             Requested size: 117.00119pt x 83.98506pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
+
+ []
+
+
+Overfull \hbox (43.52298pt too wide) detected at line 109
+\OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12  [] \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 w[] \O
+MS/cmsy/m/n/12   \OML/cmm/m/it/12 w[]\OT1/cmr/m/n/12 )[] (\OML/cmm/m/it/12 w[] 
+\OMS/cmsy/m/n/12   \OML/cmm/m/it/12 u\OT1/cmr/m/n/12 )  =  [] []  \OMS/cmsy/m/n
+/12 
+ []
+
+<lectures/../img/lez15-img4.JPG, id=413, 161.10187pt x 107.65219pt>
+File: lectures/../img/lez15-img4.JPG Graphic file (type jpg)
+<use lectures/../img/lez15-img4.JPG>
+Package pdftex.def Info: lectures/../img/lez15-img4.JPG  used on input line 117
+.
+(pdftex.def)             Requested size: 117.00119pt x 78.18626pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--125
+
+ []
+
+[99 <./lectures/../img/lez15-img3.JPG>]
+Overfull \hbox (88.26935pt too wide) detected at line 137
+\OT1/cmr/m/n/12 = [][] \OMS/cmsy/m/n/12   [][] \OT1/cmr/m/n/12 + []\OMS/cmsy/m/
+n/12 k\OML/cmm/m/it/12 w[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 w[]\OMS/cmsy/m/n
+/12 k[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--145
+
+ []
+
+
+Overfull \hbox (52.34819pt too wide) detected at line 147
+\OMS/cmsy/m/n/12  []k\OML/cmm/m/it/12 w[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 
+u\OMS/cmsy/m/n/12 k[]   []k\OML/cmm/m/it/12 w[] \OMS/cmsy/m/n/12   \OML/cmm/m/i
+t/12 u\OMS/cmsy/m/n/12 k[] \OT1/cmr/m/n/12 + [] [] \OMS/cmsy/m/n/12 k\OML/cmm/m
+/it/12 w[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 u\OMS/cmsy/m/n/12 k[] [] \OT1/cm
+r/m/n/12 + [] [] []
+ []
+
+
+Overfull \hbox (10.22507pt too wide) in paragraph at lines 147--153
+\T1/cmr/m/n/12 where $\OML/cmm/m/it/12 w[] \OT1/cmr/m/n/12 = 0$  \T1/cmr/m/n/12
+ and  $\OMS/cmsy/m/n/12 k\OML/cmm/m/it/12 w[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/
+12 u\OMS/cmsy/m/n/12 k[]  \OT1/cmr/m/n/12 4 \OML/cmm/m/it/12 U[]$  \T1/cmr/m/n
+/12 and  $\OMS/cmsy/m/n/12 k\OML/cmm/m/it/12 w[] \OMS/cmsy/m/n/12   \OML/cmm/m/
+it/12 w[]\OMS/cmsy/m/n/12 k[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 []\OMS/cmsy/m
+/n/12 kr\OML/cmm/m/it/12 `[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 w[]\OT1/cmr/m/n/1
+2 )\OMS/cmsy/m/n/12 k[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--171
+
+ []
+
+[100 <./lectures/../img/lez15-img4.JPG>])
+Underfull \hbox (badness 10000) in paragraph at lines 196--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--137
+
+ []
+
+[101] (lectures/lecture16.tex
 Chapter 16.
-) [98
+) [102
 
 ] (lectures/lecture17.tex
 Chapter 17.
-) [99
+) [103
 
 ] (lectures/lecture18.tex
 Chapter 18.
@@ -2531,7 +2618,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--21
 
  []
 
-<lectures/../img/lez18-img1.JPG, id=414, 381.67593pt x 159.59625pt>
+<lectures/../img/lez18-img1.JPG, id=430, 381.67593pt x 159.59625pt>
 File: lectures/../img/lez18-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez18-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez18-img1.JPG  used on input line 29.
@@ -2547,7 +2634,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
-[100
+[104
 
  <./lectures/../img/lez18-img1.JPG>]
 Overfull \hbox (4.83661pt too wide) in paragraph at lines 45--45
@@ -2580,7 +2667,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--88
 
  []
 
-[101]
+[105]
 Underfull \hbox (badness 10000) in paragraph at lines 94--111
 
  []
@@ -2601,7 +2688,7 @@ Overfull \hbox (16.83592pt too wide) detected at line 112
 (\OML/cmm/m/it/12 x[]\OT1/cmr/m/n/12 )
  []
 
-<lectures/../img/lez18-img2.JPG, id=421, 716.6775pt x 146.79843pt>
+<lectures/../img/lez18-img2.JPG, id=437, 716.6775pt x 146.79843pt>
 File: lectures/../img/lez18-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez18-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez18-img2.JPG  used on input line 124
@@ -2625,8 +2712,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--128
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[102]
-<lectures/../img/lez18-img3.JPG, id=426, 221.32687pt x 176.91093pt>
+[106]
+<lectures/../img/lez18-img3.JPG, id=441, 221.32687pt x 176.91093pt>
 File: lectures/../img/lez18-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez18-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez18-img3.JPG  used on input line 133
@@ -2652,7 +2739,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--154
 
  []
 
-[103 <./lectures/../img/lez18-img2.JPG> <./lectures/../img/lez18-img3.JPG>])
+[107 <./lectures/../img/lez18-img2.JPG> <./lectures/../img/lez18-img3.JPG>])
 Underfull \hbox (badness 10000) in paragraph at lines 171--145
 
  []
@@ -2662,18 +2749,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 171--145
 
  []
 
-[104] (main.bbl
+[108] (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [105
+) [109
 
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 5640 strings out of 480934
- 85890 string characters out of 2909670
+ 5658 strings out of 480934
+ 86412 string characters out of 2909670
  336249 words of memory out of 3000000
- 21244 multiletter control sequences out of 15000+200000
+ 21259 multiletter control sequences out of 15000+200000
  561784 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,13n,42p,311b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2705,9 +2792,9 @@ s/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 /Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (106 pages, 2473242 bytes).
+Output written on main.pdf (110 pages, 2522024 bytes).
 PDF statistics:
- 938 PDF objects out of 1000 (max. 8388607)
+ 956 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 351 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 366 words of extra memory for PDF output out of 10000 (max. 10000000)
 
