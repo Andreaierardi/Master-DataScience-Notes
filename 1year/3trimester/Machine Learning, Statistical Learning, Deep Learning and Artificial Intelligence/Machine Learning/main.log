@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  15 MAY 2020 17:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  16 MAY 2020 12:54
 entering extended mode
 **./main.tex
 (main.tex
@@ -2600,11 +2600,130 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--137
 
 [101] (lectures/lecture16.tex
 Chapter 16.
-) [102
 
-] (lectures/lecture17.tex
+Overfull \hbox (10.07996pt too wide) in paragraph at lines 6--6
+|[]\T1/cmr/bx/n/17.28 Analysis of Per-cep-tron in the non-separable
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+<lectures/../img/lez16-img1.JPG, id=423, 166.37157pt x 103.13531pt>
+File: lectures/../img/lez16-img1.JPG Graphic file (type jpg)
+<use lectures/../img/lez16-img1.JPG>
+Package pdftex.def Info: lectures/../img/lez16-img1.JPG  used on input line 36.
+
+(pdftex.def)             Requested size: 155.99762pt x 96.71112pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
+
+ []
+
+[102
+
+ <./lectures/../img/lez16-img1.JPG>]
+<lectures/../img/lez16-img2.JPG, id=428, 177.66376pt x 97.86563pt>
+File: lectures/../img/lez16-img2.JPG Graphic file (type jpg)
+<use lectures/../img/lez16-img2.JPG>
+Package pdftex.def Info: lectures/../img/lez16-img2.JPG  used on input line 66.
+
+(pdftex.def)             Requested size: 155.99762pt x 85.93384pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--78
+
+ []
+
+
+Overfull \hbox (37.19511pt too wide) detected at line 94
+\OMS/cmsy/m/n/12   [] k\OML/cmm/m/it/12 U\OMS/cmsy/m/n/12 k[] \OT1/cmr/m/n/12 
++ [][] + []  [] \OML/cmm/m/it/12 I\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 y[] w[]x[]
+ \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 0\OMS/cmsy/m/n/12 g
+ []
+
+[103 <./lectures/../img/lez16-img2.JPG>]
+<lectures/../img/lez16-img3.JPG, id=432, 118.94438pt x 66.2475pt>
+File: lectures/../img/lez16-img3.JPG Graphic file (type jpg)
+<use lectures/../img/lez16-img3.JPG>
+Package pdftex.def Info: lectures/../img/lez16-img3.JPG  used on input line 106
+.
+(pdftex.def)             Requested size: 155.99762pt x 86.88896pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--128
+
+ []
+
+[104 <./lectures/../img/lez16-img3.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 144--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--153
+
+ []
+
+[105]
+<lectures/../img/lez16-img4.JPG, id=439, 152.82094pt x 99.37125pt>
+File: lectures/../img/lez16-img4.JPG Graphic file (type jpg)
+<use lectures/../img/lez16-img4.JPG>
+Package pdftex.def Info: lectures/../img/lez16-img4.JPG  used on input line 166
+.
+(pdftex.def)             Requested size: 155.99762pt x 101.44072pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
+
+ []
+
+[106 <./lectures/../img/lez16-img4.JPG>])
+Underfull \hbox (badness 10000) in paragraph at lines 196--139
+
+ []
+
+[107] (lectures/lecture17.tex
 Chapter 17.
-) [103
+) [108
 
 ] (lectures/lecture18.tex
 Chapter 18.
@@ -2618,7 +2737,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--21
 
  []
 
-<lectures/../img/lez18-img1.JPG, id=430, 381.67593pt x 159.59625pt>
+<lectures/../img/lez18-img1.JPG, id=450, 381.67593pt x 159.59625pt>
 File: lectures/../img/lez18-img1.JPG Graphic file (type jpg)
 <use lectures/../img/lez18-img1.JPG>
 Package pdftex.def Info: lectures/../img/lez18-img1.JPG  used on input line 29.
@@ -2634,7 +2753,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
-[104
+[109
 
  <./lectures/../img/lez18-img1.JPG>]
 Overfull \hbox (4.83661pt too wide) in paragraph at lines 45--45
@@ -2667,7 +2786,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--88
 
  []
 
-[105]
+[110]
 Underfull \hbox (badness 10000) in paragraph at lines 94--111
 
  []
@@ -2688,7 +2807,7 @@ Overfull \hbox (16.83592pt too wide) detected at line 112
 (\OML/cmm/m/it/12 x[]\OT1/cmr/m/n/12 )
  []
 
-<lectures/../img/lez18-img2.JPG, id=437, 716.6775pt x 146.79843pt>
+<lectures/../img/lez18-img2.JPG, id=457, 716.6775pt x 146.79843pt>
 File: lectures/../img/lez18-img2.JPG Graphic file (type jpg)
 <use lectures/../img/lez18-img2.JPG>
 Package pdftex.def Info: lectures/../img/lez18-img2.JPG  used on input line 124
@@ -2712,8 +2831,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--128
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[106]
-<lectures/../img/lez18-img3.JPG, id=441, 221.32687pt x 176.91093pt>
+[111]
+<lectures/../img/lez18-img3.JPG, id=461, 221.32687pt x 176.91093pt>
 File: lectures/../img/lez18-img3.JPG Graphic file (type jpg)
 <use lectures/../img/lez18-img3.JPG>
 Package pdftex.def Info: lectures/../img/lez18-img3.JPG  used on input line 133
@@ -2739,7 +2858,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--154
 
  []
 
-[107 <./lectures/../img/lez18-img2.JPG> <./lectures/../img/lez18-img3.JPG>])
+[112 <./lectures/../img/lez18-img2.JPG> <./lectures/../img/lez18-img3.JPG>])
 Underfull \hbox (badness 10000) in paragraph at lines 171--145
 
  []
@@ -2749,21 +2868,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 171--145
 
  []
 
-[108] (main.bbl
+[113] (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [109
+) [114
 
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 5658 strings out of 480934
- 86412 string characters out of 2909670
+ 5682 strings out of 480934
+ 86666 string characters out of 2909670
  336249 words of memory out of 3000000
- 21259 multiletter control sequences out of 15000+200000
+ 21279 multiletter control sequences out of 15000+200000
  561784 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,13n,42p,311b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,13n,42p,348b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
 appen/ec/dpi600\ecbi1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts
 /pk/ljfour/jknappen/ec/dpi600\tcbx1200.pk> <C:\Users\AndreDany\AppData\Local\Mi
@@ -2792,9 +2911,9 @@ s/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 /Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (110 pages, 2522024 bytes).
+Output written on main.pdf (115 pages, 2586776 bytes).
 PDF statistics:
- 956 PDF objects out of 1000 (max. 8388607)
+ 977 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 366 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 386 words of extra memory for PDF output out of 10000 (max. 10000000)
 
