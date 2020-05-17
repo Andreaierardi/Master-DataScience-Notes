@@ -75,8 +75,11 @@
 \contentsline {section}{\numberline {16.1}Analysis of Perceptron in the non-separable case using OGD framework.}{102}%
 \contentsline {subsection}{\numberline {16.1.1}Strongly convex loss functions}{106}%
 \contentsline {chapter}{\numberline {17}Lecture 17 - 11-05-2020}{108}%
-\contentsline {chapter}{\numberline {18}Lecture 18 - 12-05-2020}{109}%
-\contentsline {section}{\numberline {18.1}Kernel functions}{109}%
-\contentsline {subsection}{\numberline {18.1.1}Feature expansion}{109}%
-\contentsline {subsection}{\numberline {18.1.2}Kernels implements feature expansion (Efficiently}{110}%
-\contentsline {section}{\numberline {18.2}Gaussian Kernel}{111}%
+\contentsline {section}{\numberline {17.1}Strongly convex loss functions}{108}%
+\contentsline {subsection}{\numberline {17.1.1}OGD for Strongly Convex losses}{108}%
+\contentsline {subsection}{\numberline {17.1.2}Relate sequential risk and statistical risk}{109}%
+\contentsline {chapter}{\numberline {18}Lecture 18 - 12-05-2020}{112}%
+\contentsline {section}{\numberline {18.1}Kernel functions}{112}%
+\contentsline {subsection}{\numberline {18.1.1}Feature expansion}{112}%
+\contentsline {subsection}{\numberline {18.1.2}Kernels implements feature expansion (Efficiently}{113}%
+\contentsline {section}{\numberline {18.2}Gaussian Kernel}{114}%
