@@ -83,3 +83,6 @@
 \contentsline {subsection}{\numberline {18.1.1}Feature expansion}{112}%
 \contentsline {subsection}{\numberline {18.1.2}Kernels implements feature expansion (Efficiently}{113}%
 \contentsline {section}{\numberline {18.2}Gaussian Kernel}{114}%
+\contentsline {chapter}{\numberline {19}Lecture 19 - 18-05-2020}{117}%
+\contentsline {section}{\numberline {19.1}Support Vector Machine (SVM)}{120}%
+\contentsline {chapter}{\numberline {20}Lecture 20 - 19-05-2020}{121}%

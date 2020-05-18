@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  17 MAY 2020 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  18 MAY 2020 10:21
 entering extended mode
 **./main.tex
 (main.tex
@@ -2938,18 +2938,100 @@ Underfull \hbox (badness 10000) in paragraph at lines 171--145
 
  []
 
-[116] (main.bbl
+[116] (lectures/lecture19.tex
+Chapter 19.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--67
+
+ []
+
+[117
+
+]
+Overfull \hbox (23.0944pt too wide) detected at line 72
+\OT1/cmr/m/n/12 =  [] \OML/cmm/m/it/12 [] < k\OT1/cmr/m/n/12 (\OML/cmm/m/it/12
+ x[]; \OMS/cmsy/m/n/12 \OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; k\OT1/cmr/m/n/12 (\
+OML/cmm/m/it/12 x; \OMS/cmsy/m/n/12 \OT1/cmr/m/n/12 ) \OML/cmm/m/it/12 >[] \OT
+1/cmr/m/n/12 =  [] \OML/cmm/m/it/12 [] < \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[
+]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1
+/cmr/m/n/12 ) \OML/cmm/m/it/12 >[] \OT1/cmr/m/n/12 =  [] \OML/cmm/m/it/12 []k\
+OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[]; x\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 g\O
+T1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--79
+
+ []
+
+
+Overfull \hbox (32.28714pt too wide) detected at line 85
+\OML/cmm/m/it/12 < f; g >[]\OT1/cmr/m/n/12 =\OML/cmm/m/it/12 < [] [] k\OT1/cmr
+/m/n/12 (\OML/cmm/m/it/12 x[]; \OMS/cmsy/m/n/12 \OT1/cmr/m/n/12 )\OML/cmm/m/it
+/12 ; [] [] k\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[]; \OMS/cmsy/m/n/12 \OT1/cmr
+/m/n/12 ) \OML/cmm/m/it/12 >[] \OT1/cmr/m/n/12 =  [] [] \OML/cmm/m/it/12 [] [
+] < k\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[]; \OMS/cmsy/m/n/12 \OT1/cmr/m/n/12 )
+\OML/cmm/m/it/12 ; k\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[]; \OMS/cmsy/m/n/12  \
+OML/cmm/m/it/12 >[] \OT1/cmr/m/n/12 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--105
+
+ []
+
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 124--130
+
+ []
+
+[119]
+Underfull \hbox (badness 10000) in paragraph at lines 140--147
+
+ []
+
+<lectures/../img/lez19-img1.JPG, id=487, 291.33844pt x 141.52875pt>
+File: lectures/../img/lez19-img1.JPG Graphic file (type jpg)
+<use lectures/../img/lez19-img1.JPG>
+Package pdftex.def Info: lectures/../img/lez19-img1.JPG  used on input line 157
+.
+(pdftex.def)             Requested size: 155.99762pt x 75.78299pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 164--148
+
+ []
+
+[120 <./lectures/../img/lez19-img1.JPG>] (lectures/lecture20.tex
+Chapter 20.
+) [121
+
+] (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [117
+) [122
 
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 5682 strings out of 480934
- 86666 string characters out of 2909670
+ 5696 strings out of 480934
+ 87332 string characters out of 2909670
  336249 words of memory out of 3000000
- 21279 multiletter control sequences out of 15000+200000
+ 21286 multiletter control sequences out of 15000+200000
  561784 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,13n,42p,348b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2981,9 +3063,9 @@ s/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 /Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (118 pages, 2599444 bytes).
+Output written on main.pdf (123 pages, 2630747 bytes).
 PDF statistics:
- 988 PDF objects out of 1000 (max. 8388607)
+ 1008 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 386 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 391 words of extra memory for PDF output out of 10000 (max. 10000000)
 
