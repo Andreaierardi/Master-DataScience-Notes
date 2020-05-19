@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  18 MAY 2020 10:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  19 MAY 2020 10:25
 entering extended mode
 **./main.tex
 (main.tex
@@ -3018,20 +3018,92 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--148
 
 [120 <./lectures/../img/lez19-img1.JPG>] (lectures/lecture20.tex
 Chapter 20.
-) [121
 
-] (main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
+
+ []
+
+[121
+
+]
+Overfull \hbox (33.66243pt too wide) detected at line 66
+\OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 = []  \OML/cmm/m/it/12 [] \OT1/cmr/m/n/12
+ = [] = \OML/cmm/m/it/12 h[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 w\OT1/cmr/m/n/12 
+) []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--76
+
+ []
+
+<lectures/../img/lez20-img1.JPG, id=495, 110.66344pt x 67.0003pt>
+File: lectures/../img/lez20-img1.JPG Graphic file (type jpg)
+<use lectures/../img/lez20-img1.JPG>
+Package pdftex.def Info: lectures/../img/lez20-img1.JPG  used on input line 88.
+
+(pdftex.def)             Requested size: 117.00119pt x 70.84105pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--94
+
+ []
+
+[122 <./lectures/../img/lez20-img1.JPG>]
+<lectures/../img/lez20-img2.JPG, id=499, 98.61844pt x 79.04532pt>
+File: lectures/../img/lez20-img2.JPG Graphic file (type jpg)
+<use lectures/../img/lez20-img2.JPG>
+Package pdftex.def Info: lectures/../img/lez20-img2.JPG  used on input line 107
+.
+(pdftex.def)             Requested size: 77.99881pt x 62.51866pt.
+<lectures/../img/lez20-img3.JPG, id=500, 210.03468pt x 101.62968pt>
+File: lectures/../img/lez20-img3.JPG Graphic file (type jpg)
+<use lectures/../img/lez20-img3.JPG>
+Package pdftex.def Info: lectures/../img/lez20-img3.JPG  used on input line 115
+.
+(pdftex.def)             Requested size: 195.0pt x 94.35489pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--139
+
+ []
+
+[123 <./lectures/../img/lez20-img2.JPG> <./lectures/../img/lez20-img3.JPG>]
+[124]) [125] (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [122
+) [126
 
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 5696 strings out of 480934
- 87332 string characters out of 2909670
+ 5714 strings out of 480934
+ 87854 string characters out of 2909670
  336249 words of memory out of 3000000
- 21286 multiletter control sequences out of 15000+200000
+ 21301 multiletter control sequences out of 15000+200000
  561784 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,13n,42p,348b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3063,9 +3135,9 @@ s/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 /Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (123 pages, 2630747 bytes).
+Output written on main.pdf (127 pages, 2680957 bytes).
 PDF statistics:
- 1008 PDF objects out of 1200 (max. 8388607)
+ 1029 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 391 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 406 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -86,3 +86,7 @@
 \contentsline {chapter}{\numberline {19}Lecture 19 - 18-05-2020}{117}%
 \contentsline {section}{\numberline {19.1}Support Vector Machine (SVM)}{120}%
 \contentsline {chapter}{\numberline {20}Lecture 20 - 19-05-2020}{121}%
+\contentsline {section}{\numberline {20.1}Support Vector Machine Analysis}{121}%
+\contentsline {subsection}{\numberline {20.1.1}Fritz John Optimality Conditions}{121}%
+\contentsline {subsection}{\numberline {20.1.2}Non-separable case}{122}%
+\contentsline {section}{\numberline {20.2}Pegasos: OGD to solve SVM}{124}%
