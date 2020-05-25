@@ -1,0 +1,153 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Template for lab reports used at STIMA
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Sets the document class for the document
+% Openany is added to remove the book style of starting every new chapter on an odd page (not needed for reports)
+\documentclass[10pt,english, openany]{book}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Loading packages that alter the style
+\usepackage[]{graphicx}
+\usepackage[]{color}
+\usepackage{alltt}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+\setlength{\parskip}{\smallskipamount}
+\setlength{\parindent}{0pt}
+
+% Set page margins
+\usepackage[top=100pt,bottom=100pt,left=68pt,right=66pt]{geometry}
+
+% Package used for placeholder text
+\usepackage{lipsum}
+
+% Prevents LaTeX from filling out a page to the bottom
+\raggedbottom
+
+% Adding both languages
+\usepackage[english, italian]{babel}
+
+% All page numbers positioned at the bottom of the page
+\usepackage{fancyhdr}
+\fancyhf{} % clear all header and footers
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt} % remove the header rule
+\pagestyle{fancy}
+
+% Changes the style of chapter headings
+\usepackage{titlesec}
+\titleformat{\chapter}
+   {\normalfont\LARGE\bfseries}{\thechapter.}{1em}{}
+% Change distance between chapter header and text
+\titlespacing{\chapter}{0pt}{50pt}{2\baselineskip}
+
+% Adds table captions above the table per default
+\usepackage{float}
+\floatstyle{plaintop}
+\restylefloat{table}
+
+% Adds space between caption and table
+\usepackage[tableposition=top]{caption}
+
+% Adds hyperlinks to references and ToC
+\usepackage{hyperref}
+\hypersetup{hidelinks,linkcolor = black} % Changes the link color to black and hides the hideous red border that usually is created
+
+% If multiple images are to be added, a folder (path) with all the images can be added here 
+\graphicspath{ {Figures/} }
+
+% Separates the first part of the report/thesis in Roman numerals
+\frontmatter
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Starts the document
+\begin{document}
+
+%%% Selects the language to be used for the first couple of pages
+\selectlanguage{english}
+
+%%%%% Adds the title page
+\begin{titlepage}
+	\clearpage\thispagestyle{empty}
+	\centering
+	\vspace{1cm}
+
+	% Titles
+	% Information about the University
+	{\normalsize Fluidodinamica Computazionale \\ 
+		Dipartimento di Scienze e Tecnologie Aerospaziali \\
+		Politecnico di Milano \par}
+		\vspace{3cm}
+	{\Huge \textbf{TITLE OF PROJECT}} \\
+	%\vspace{1cm}
+	%{\large \textbf{xxxxx} \par}
+	\vspace{4cm}
+	{\normalsize FIRST LAST \\ % \\ specifies a new line
+	             FIRST LAST \\
+	             FIRST LAST\par}
+	\vspace{5cm}
+    
+    \centering \includegraphics[scale=0.4]{logo1.pdf}
+    
+    \vspace{0.5cm}
+		
+	% Set the date
+	{\normalsize dd-mm-yyyy \par}
+	
+	\pagebreak
+
+\end{titlepage}
+
+% Adds a table of contents
+\tableofcontents{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Text body starts here!
+\mainmatter
+
+\chapter{Summary}\label{chapt:sum}
+[\textit{Briefly describe the goal of the project.}]
+\chapter{Problem definition and background}
+[\textit{Introduce the problem and state the objective of your work. Briefly present the state of the art regarding the chosen topic and report a reference solution (i.e. numerical or experimental, or the exact one if available).}]
+\section{Literature review}
+\section{Reference solution}
+
+\chapter{Design of Experiment}\label{chapt:doe}
+[\textit{Describe the process used to meet the project goal.}]
+
+\chapter{Computational model}\label{chapt:model}
+[\textit{Describe thoroughly the computational model/s used in the project}]
+\section{Problem geometry and setup}
+\section{Mesh generation and description}
+\section{Numerical schemes}
+
+\chapter{Results}\label{chapt:results}
+[\textit{ Report the results of the simulations. Validate your work, i.e. show that the computational model (\ref{chapt:model}) and the simulations you run (the DoE \ref{chapt:doe}) were able to obtain the goal of the project}]
+\section{Test 1}
+\subsection{Grid convergence}
+% \section{Test 2} ... as needed
+
+\chapter{Conclusions}
+
+\pagebreak
+
+
+% Adding a bibliography if citations are used in the report
+\bibliographystyle{plain}
+\bibliography{bibliography.bib}
+% Adds reference to the Bibliography in the ToC
+\addcontentsline{toc}{chapter}{\bibname}
+
+\pagebreak
+
+\chapter*{Appendix A: Resources}
+[\textit{Report the config files of the software used (i.e. SU2 \cite{economon2015su2} and the mesher). Also attach to this report an archive with the mesh files, solutions and the reference solution data (e.g. data points of a Cp plot ...)}]
+\section*{Mesh configuration files}
+\section*{SU2 configuration files}
+% \section{Reference solution data}
+
+
+\end{document}
