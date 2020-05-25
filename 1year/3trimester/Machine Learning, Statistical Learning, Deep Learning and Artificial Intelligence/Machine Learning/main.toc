@@ -90,3 +90,6 @@
 \contentsline {subsection}{\numberline {20.1.1}Fritz John Optimality Conditions}{121}%
 \contentsline {subsection}{\numberline {20.1.2}Non-separable case}{122}%
 \contentsline {section}{\numberline {20.2}Pegasos: OGD to solve SVM}{124}%
+\contentsline {chapter}{\numberline {21}Lecture 21 - 25-05-2020}{126}%
+\contentsline {section}{\numberline {21.1}Pegasos in Kernel space}{126}%
+\contentsline {section}{\numberline {21.2}Stability}{126}%
