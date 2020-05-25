@@ -1,0 +1,102 @@
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Example of domain of $K_{NN}$}}{12}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Example of domain of $K_{NN}$}}{12}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Example of domain of $K_{NN}$}}{18}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Example of domain of $K_{NN}$}}{23}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Example of domain of $K_{NN}$}}{23}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Example of domain of $K_{NN}$}}{26}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Example of domain of $K_{NN}$}}{27}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Example of domain of $K_{NN}$}}{28}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Example of domain of $K_{NN}$}}{29}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Example of domain of $K_{NN}$}}{29}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Example of domain of $K_{NN}$}}{29}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Example of domain of $K_{NN}$}}{30}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Example of domain of $K_{NN}$}}{31}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Example of domain of $K_{NN}$}}{32}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Example of domain of $K_{NN}$}}{33}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Example of domain of $K_{NN}$}}{33}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Example of domain of $K_{NN}$}}{34}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Example of domain of $K_{NN}$}}{35}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Example of domain of $K_{NN}$}}{36}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Example of domain of $K_{NN}$}}{36}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Example of domain of $K_{NN}$}}{36}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Example of domain of $K_{NN}$}}{37}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Example of domain of $K_{NN}$}}{41}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Example of domain of $K_{NN}$}}{43}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Example of domain of $K_{NN}$}}{43}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Example of domain of $K_{NN}$}}{44}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Example of domain of $K_{NN}$}}{45}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Example}}{48}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Example}}{49}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Example}}{49}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Example}}{50}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Example}}{50}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Draw of how $\hat {h}$, $h^*$ and $f^*$ are represented}}{51}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Representation of $\hat {h}$, $h^*$ and $f^*$ }}{54}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Example}}{55}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Splitting test and training set}}{57}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces K-folds}}{58}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Nested Cross Validation}}{59}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Tree building}}{60}%
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Tree with at most N node}}{61}%
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Algorithm for tree predictors}}{64}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Point (2) - where \hskip 1em\relax $y = cx +q$ \hskip 2em\relax $y = -cx +q $}}{68}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Point}}{69}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {11.1}{\ignorespaces Example of domain of $K_{NN}$}}{70}%
+\contentsline {figure}{\numberline {11.2}{\ignorespaces Diagonal length}}{71}%
+\contentsline {figure}{\numberline {11.3}{\ignorespaces Shape of the function}}{72}%
+\contentsline {figure}{\numberline {11.4}{\ignorespaces Parametric and non parametric growing as training set getting larger}}{76}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {12.1}{\ignorespaces Tree building}}{78}%
+\contentsline {figure}{\numberline {12.2}{\ignorespaces Dot product}}{79}%
+\contentsline {figure}{\numberline {12.3}{\ignorespaces Dot product}}{80}%
+\contentsline {figure}{\numberline {12.4}{\ignorespaces Hyperplane}}{80}%
+\contentsline {figure}{\numberline {12.5}{\ignorespaces Hyperplane}}{81}%
+\contentsline {figure}{\numberline {12.6}{\ignorespaces Hyperplane}}{81}%
+\contentsline {figure}{\numberline {12.7}{\ignorespaces Example of one dimensional hyperplane}}{82}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {13.1}{\ignorespaces Tree building}}{85}%
+\contentsline {figure}{\numberline {13.2}{\ignorespaces Tree building}}{85}%
+\contentsline {figure}{\numberline {13.3}{\ignorespaces Tree building}}{86}%
+\contentsline {figure}{\numberline {13.4}{\ignorespaces Feasibilty problem}}{86}%
+\contentsline {figure}{\numberline {13.5}{\ignorespaces }}{87}%
+\contentsline {figure}{\numberline {13.6}{\ignorespaces }}{88}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {14.1}{\ignorespaces }}{92}%
+\contentsline {figure}{\numberline {14.2}{\ignorespaces }}{94}%
+\contentsline {figure}{\numberline {14.3}{\ignorespaces }}{95}%
+\contentsline {figure}{\numberline {14.4}{\ignorespaces }}{96}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {15.1}{\ignorespaces }}{98}%
+\contentsline {figure}{\numberline {15.2}{\ignorespaces }}{98}%
+\contentsline {figure}{\numberline {15.3}{\ignorespaces }}{99}%
+\contentsline {figure}{\numberline {15.4}{\ignorespaces }}{100}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {16.1}{\ignorespaces }}{102}%
+\contentsline {figure}{\numberline {16.2}{\ignorespaces Hinge loss}}{103}%
+\contentsline {figure}{\numberline {16.3}{\ignorespaces }}{104}%
+\contentsline {figure}{\numberline {16.4}{\ignorespaces Example of more type of convex function}}{106}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {18.1}{\ignorespaces }}{112}%
+\contentsline {figure}{\numberline {18.2}{\ignorespaces }}{115}%
+\contentsline {figure}{\numberline {18.3}{\ignorespaces }}{115}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {19.1}{\ignorespaces Draw of SVG}}{120}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {20.1}{\ignorespaces }}{122}%
+\contentsline {figure}{\numberline {20.2}{\ignorespaces }}{123}%
+\contentsline {figure}{\numberline {20.3}{\ignorespaces }}{123}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {21.1}{\ignorespaces }}{130}%

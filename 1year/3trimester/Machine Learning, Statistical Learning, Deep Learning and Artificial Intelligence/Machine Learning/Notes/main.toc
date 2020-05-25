@@ -1,0 +1,95 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Lecture 1 - 09-03-2020}{7}%
+\contentsline {section}{\numberline {1.1}Introduction of the course}{7}%
+\contentsline {section}{\numberline {1.2}Examples}{7}%
+\contentsline {subsection}{\numberline {1.2.1}Spam filtering}{10}%
+\contentsline {chapter}{\numberline {2}Lecture 2 - 10-03-2020}{11}%
+\contentsline {section}{\numberline {2.1}Argomento}{11}%
+\contentsline {section}{\numberline {2.2}Loss}{11}%
+\contentsline {subsection}{\numberline {2.2.1}Absolute Loss}{11}%
+\contentsline {subsection}{\numberline {2.2.2}Square Loss}{12}%
+\contentsline {subsection}{\numberline {2.2.3}Example of information of square loss}{13}%
+\contentsline {subsection}{\numberline {2.2.4}labels and losses}{14}%
+\contentsline {subsection}{\numberline {2.2.5}Example TF(idf) documents encoding}{16}%
+\contentsline {chapter}{\numberline {3}Lecture 3 - 16-03-2020}{18}%
+\contentsline {section}{\numberline {3.1}Overfitting}{20}%
+\contentsline {subsection}{\numberline {3.1.1}Noise in the data}{20}%
+\contentsline {section}{\numberline {3.2}Underfitting}{22}%
+\contentsline {section}{\numberline {3.3}Nearest neighbour}{22}%
+\contentsline {chapter}{\numberline {4}Lecture 4 - 17-03-2020}{25}%
+\contentsline {section}{\numberline {4.1}Computing $h_{NN}$}{25}%
+\contentsline {section}{\numberline {4.2}Tree Predictor}{27}%
+\contentsline {chapter}{\numberline {5}Lecture 5 - 23-03-2020}{31}%
+\contentsline {section}{\numberline {5.1}Tree Classifier}{31}%
+\contentsline {section}{\numberline {5.2}Jensen’s inequality}{33}%
+\contentsline {section}{\numberline {5.3}Tree Predictor}{37}%
+\contentsline {section}{\numberline {5.4}Statistical model for Machine Learning}{38}%
+\contentsline {chapter}{\numberline {6}Lecture 6 - 24-03-2020}{40}%
+\contentsline {section}{\numberline {6.1}Bayes Optimal Predictor}{40}%
+\contentsline {subsection}{\numberline {6.1.1}Square Loss}{41}%
+\contentsline {subsection}{\numberline {6.1.2}Zero-one loss for binary classification}{42}%
+\contentsline {section}{\numberline {6.2}Bayes Risk}{45}%
+\contentsline {chapter}{\numberline {7}Lecture 7 - 30-03-2020}{47}%
+\contentsline {section}{\numberline {7.1}Chernoff-Hoffding bound}{47}%
+\contentsline {section}{\numberline {7.2}Union Bound}{48}%
+\contentsline {section}{\numberline {7.3}Studying overfitting of a ERM}{52}%
+\contentsline {chapter}{\numberline {8}Lecture 8 - 31-03-2020}{54}%
+\contentsline {section}{\numberline {8.1}The problem of estimating risk in practise}{55}%
+\contentsline {section}{\numberline {8.2}Cross-validation}{57}%
+\contentsline {section}{\numberline {8.3}Nested cross validation}{59}%
+\contentsline {chapter}{\numberline {9}Lecture 9 - 06-04-2020}{60}%
+\contentsline {section}{\numberline {9.1}Tree predictors}{60}%
+\contentsline {subsection}{\numberline {9.1.1}Catalan Number}{62}%
+\contentsline {chapter}{\numberline {10}Lecture 10 - 07-04-2020}{66}%
+\contentsline {section}{\numberline {10.1}TO BE DEFINE}{66}%
+\contentsline {section}{\numberline {10.2}MANCANO 20 MINUTI DI LEZIONE}{66}%
+\contentsline {section}{\numberline {10.3}Compare risk for zero-one loss}{68}%
+\contentsline {chapter}{\numberline {11}Lecture 11 - 20-04-2020}{70}%
+\contentsline {section}{\numberline {11.1}Analysis of $K_{NN}$}{70}%
+\contentsline {subsection}{\numberline {11.1.1}Study of $K_{NN}$}{73}%
+\contentsline {subsection}{\numberline {11.1.2}study of trees}{74}%
+\contentsline {section}{\numberline {11.2}Non-parametric Algorithms}{75}%
+\contentsline {subsection}{\numberline {11.2.1}Example of parametric algorithms}{76}%
+\contentsline {chapter}{\numberline {12}Lecture 12 - 21-04-2020}{77}%
+\contentsline {section}{\numberline {12.1}Non parametrics algorithms}{77}%
+\contentsline {subsection}{\numberline {12.1.1}Theorem: No free lunch}{77}%
+\contentsline {section}{\numberline {12.2}Highly Parametric Learning Algorithm}{79}%
+\contentsline {subsection}{\numberline {12.2.1}Linear Predictors}{79}%
+\contentsline {subsection}{\numberline {12.2.2}MinDisagreement}{83}%
+\contentsline {chapter}{\numberline {13}Lecture 13 - 27-04-2020}{84}%
+\contentsline {section}{\numberline {13.1}Linear prediction}{84}%
+\contentsline {subsection}{\numberline {13.1.1}MinDisOpt}{84}%
+\contentsline {section}{\numberline {13.2}The Perception Algorithm}{87}%
+\contentsline {subsection}{\numberline {13.2.1}Perception convergence Theorem}{88}%
+\contentsline {chapter}{\numberline {14}Lecture 14 - 28-04-2020}{91}%
+\contentsline {section}{\numberline {14.1}Linear Regression}{91}%
+\contentsline {subsection}{\numberline {14.1.1}The problem of linear regression}{91}%
+\contentsline {subsection}{\numberline {14.1.2}Ridge regression}{92}%
+\contentsline {section}{\numberline {14.2}Percetron}{93}%
+\contentsline {subsection}{\numberline {14.2.1}Online Learning }{94}%
+\contentsline {subsection}{\numberline {14.2.2}Online Gradiant Descent (OGD)}{96}%
+\contentsline {chapter}{\numberline {15}Lecture 15 - 04-05-2020}{97}%
+\contentsline {section}{\numberline {15.1}Regret analysis of OGD}{97}%
+\contentsline {subsection}{\numberline {15.1.1}Projected OGD}{98}%
+\contentsline {chapter}{\numberline {16}Lecture 16 - 05-05-2020}{102}%
+\contentsline {section}{\numberline {16.1}Analysis of Perceptron in the non-separable case using OGD framework.}{102}%
+\contentsline {subsection}{\numberline {16.1.1}Strongly convex loss functions}{106}%
+\contentsline {chapter}{\numberline {17}Lecture 17 - 11-05-2020}{108}%
+\contentsline {section}{\numberline {17.1}Strongly convex loss functions}{108}%
+\contentsline {subsection}{\numberline {17.1.1}OGD for Strongly Convex losses}{108}%
+\contentsline {subsection}{\numberline {17.1.2}Relate sequential risk and statistical risk}{109}%
+\contentsline {chapter}{\numberline {18}Lecture 18 - 12-05-2020}{112}%
+\contentsline {section}{\numberline {18.1}Kernel functions}{112}%
+\contentsline {subsection}{\numberline {18.1.1}Feature expansion}{112}%
+\contentsline {subsection}{\numberline {18.1.2}Kernels implements feature expansion (Efficiently}{113}%
+\contentsline {section}{\numberline {18.2}Gaussian Kernel}{114}%
+\contentsline {chapter}{\numberline {19}Lecture 19 - 18-05-2020}{117}%
+\contentsline {section}{\numberline {19.1}Support Vector Machine (SVM)}{120}%
+\contentsline {chapter}{\numberline {20}Lecture 20 - 19-05-2020}{121}%
+\contentsline {section}{\numberline {20.1}Support Vector Machine Analysis}{121}%
+\contentsline {subsection}{\numberline {20.1.1}Fritz John Optimality Conditions}{121}%
+\contentsline {subsection}{\numberline {20.1.2}Non-separable case}{122}%
+\contentsline {section}{\numberline {20.2}Pegasos: OGD to solve SVM}{124}%
+\contentsline {chapter}{\numberline {21}Lecture 21 - 25-05-2020}{126}%
+\contentsline {section}{\numberline {21.1}Pegasos in Kernel space}{126}%
+\contentsline {section}{\numberline {21.2}Stability}{126}%
