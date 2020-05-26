@@ -93,3 +93,8 @@
 \contentsline {chapter}{\numberline {21}Lecture 21 - 25-05-2020}{126}%
 \contentsline {section}{\numberline {21.1}Pegasos in Kernel space}{126}%
 \contentsline {section}{\numberline {21.2}Stability}{126}%
+\contentsline {chapter}{\numberline {22}Lecture 22 - 26-05-2020}{131}%
+\contentsline {section}{\numberline {22.1}Continous of Pegasos}{131}%
+\contentsline {section}{\numberline {22.2}Boosting and ensemble predictors }{132}%
+\contentsline {subsection}{\numberline {22.2.1}Bagging}{134}%
+\contentsline {subsection}{\numberline {22.2.2}Random Forest}{134}%
