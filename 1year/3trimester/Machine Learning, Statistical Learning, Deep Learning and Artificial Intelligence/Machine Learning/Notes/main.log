@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  8 JUN 2020 10:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.4.13)  12 JUN 2020 14:48
 entering extended mode
 **./main.tex
 (main.tex
@@ -3318,49 +3318,214 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--159
 [141 <./lectures/../img/lez23-img4.JPG> <./lectures/../img/lez23-img5.JPG>]
 (lectures/lecture24.tex
 Chapter 24.
-) [142
+<lectures/../img/lez24-img1.JPG, id=570, 176.91093pt x 86.57344pt>
+File: lectures/../img/lez24-img1.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img1.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img1.JPG  used on input line 21.
 
-] (main.aux) ) 
+(pdftex.def)             Requested size: 117.00119pt x 57.2562pt.
+<lectures/../img/lez24-img2.JPG, id=571, 224.33812pt x 121.20282pt>
+File: lectures/../img/lez24-img2.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img2.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img2.JPG  used on input line 28.
+
+(pdftex.def)             Requested size: 117.00119pt x 63.21075pt.
+[142
+
+ <./lectures/../img/lez24-img1.JPG> <./lectures/../img/lez24-img2.JPG>]
+<lectures/../img/lez24-img3.JPG, id=575, 139.27031pt x 98.61844pt>
+File: lectures/../img/lez24-img3.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img3.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img3.JPG  used on input line 58.
+
+(pdftex.def)             Requested size: 117.00119pt x 82.85094pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--65
+
+ []
+
+<lectures/../img/lez24-img4.JPG, id=576, 143.03438pt x 113.67468pt>
+File: lectures/../img/lez24-img4.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img4.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img4.JPG  used on input line 70.
+
+(pdftex.def)             Requested size: 117.00119pt x 92.9866pt.
+<lectures/../img/lez24-img5.JPG, id=577, 336.50719pt x 115.93312pt>
+File: lectures/../img/lez24-img5.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img5.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img5.JPG  used on input line 76.
+
+(pdftex.def)             Requested size: 117.00119pt x 40.3083pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--80
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[143 <./lectures/../img/lez24-img3.JPG> <./lectures/../img/lez24-img4.JPG>]
+<lectures/../img/lez24-img6.JPG, id=581, 570.63188pt x 163.3603pt>
+File: lectures/../img/lez24-img6.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img6.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img6.JPG  used on input line 89.
+
+(pdftex.def)             Requested size: 195.0pt x 55.82343pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--93
+
+ []
+
+<lectures/../img/lez24-img8.JPG, id=582, 168.63pt x 105.39375pt>
+File: lectures/../img/lez24-img8.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img8.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img8.JPG  used on input line 106
+.
+(pdftex.def)             Requested size: 117.00119pt x 73.12701pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--110
+
+ []
+
+[144 <./lectures/../img/lez24-img5.JPG> <./lectures/../img/lez24-img6.JPG> <./l
+ectures/../img/lez24-img8.JPG>]
+<lectures/../img/lez24-img9.JPG, id=587, 215.30438pt x 96.36pt>
+File: lectures/../img/lez24-img9.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img9.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img9.JPG  used on input line 114
+.
+(pdftex.def)             Requested size: 117.00119pt x 52.36443pt.
+<lectures/../img/lez24-img10.JPG, id=588, 465.99094pt x 182.93344pt>
+File: lectures/../img/lez24-img10.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img10.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img10.JPG  used on input line 13
+1.
+(pdftex.def)             Requested size: 195.0pt x 76.54959pt.
+ [145 <./lectures/../img/lez24-img9.JPG> <./lectures/../img/lez24-img10.JPG>]
+<lectures/../img/lez24-img11.JPG, id=592, 240.9pt x 136.25906pt>
+File: lectures/../img/lez24-img11.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img11.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img11.JPG  used on input line 15
+4.
+(pdftex.def)             Requested size: 195.0pt x 110.3006pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--158
+
+ []
+
+<lectures/../img/lez24-img12.JPG, id=593, 137.01187pt x 103.88812pt>
+File: lectures/../img/lez24-img12.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img12.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img12.JPG  used on input line 17
+2.
+(pdftex.def)             Requested size: 117.00119pt x 88.71747pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--176
+
+ []
+
+[146 <./lectures/../img/lez24-img11.JPG> <./lectures/../img/lez24-img12.JPG>]
+<lectures/../img/lez24-img13.JPG, id=597, 252.945pt x 162.6075pt>
+File: lectures/../img/lez24-img13.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img13.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img13.JPG  used on input line 19
+1.
+(pdftex.def)             Requested size: 155.99762pt x 100.28462pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--214
+
+ []
+
+[147 <./lectures/../img/lez24-img13.JPG>]
+<lectures/../img/lez24-img14.JPG, id=601, 260.47313pt x 173.89969pt>
+File: lectures/../img/lez24-img14.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img14.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img14.JPG  used on input line 23
+0.
+(pdftex.def)             Requested size: 155.99762pt x 104.14955pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--235
+
+ []
+
+[148 <./lectures/../img/lez24-img14.JPG>]
+<lectures/../img/lez24-img15.JPG, id=605, 277.78781pt x 214.55156pt>
+File: lectures/../img/lez24-img15.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img15.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img15.JPG  used on input line 24
+7.
+(pdftex.def)             Requested size: 155.99762pt x 120.48524pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--264
+
+ []
+
+<lectures/../img/lez24-img16.JPG, id=606, 291.33844pt x 123.46124pt>
+File: lectures/../img/lez24-img16.JPG Graphic file (type jpg)
+<use lectures/../img/lez24-img16.JPG>
+Package pdftex.def Info: lectures/../img/lez24-img16.JPG  used on input line 27
+3.
+(pdftex.def)             Requested size: 155.99762pt x 66.10855pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [149 <./lectures/../img/lez24-img15.JPG>] [150 <./lectures/../img/lez24-img16
+.JPG>] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 5774 strings out of 480934
- 90213 string characters out of 2909670
+ 5864 strings out of 480934
+ 92865 string characters out of 2909670
  336249 words of memory out of 3000000
- 21344 multiletter control sequences out of 15000+200000
+ 21419 multiletter control sequences out of 15000+200000
  561784 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,13n,42p,348b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
-appen/ec/dpi600\ecbi1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts
-/pk/ljfour/jknappen/ec/dpi600\tcbx1200.pk> <C:\Users\AndreDany\AppData\Local\Mi
-KTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcti1200.pk> <C:\Users\AndreDany\Ap
-pData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\User
-s\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx144
-0.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
-dpi600\tcrm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
-r/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\AndreDany\AppData\Loc
-al\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\AndreDa
-ny\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:
+ <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecbi1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\
+fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1200.pk> <C:\Users\AndreDany\AppData\Loc
+al\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcti1200.pk> <C:\Users\AndreDa
+ny\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:
 \Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ec
-rm2074.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
-n/ec/dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmbx6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
-8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (143 pages, 2873768 bytes).
+bx1440.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
+n/ec/dpi600\tcrm1200.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\AndreDany\AppDat
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\An
+dreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk
+> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
+00\ecrm2074.pk> <C:\Users\AndreDany\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmbx8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (151 pages, 3152972 bytes).
 PDF statistics:
- 1089 PDF objects out of 1200 (max. 8388607)
+ 1133 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 446 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 521 words of extra memory for PDF output out of 10000 (max. 10000000)
 

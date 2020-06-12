@@ -102,3 +102,8 @@
 \contentsline {section}{\numberline {23.1}Boosting}{137}%
 \contentsline {section}{\numberline {23.2}Adaboost}{140}%
 \contentsline {chapter}{\numberline {24}Lecture 24 - 09-06-2020}{142}%
+\contentsline {section}{\numberline {24.1}Neural Networks}{142}%
+\contentsline {subsection}{\numberline {24.1.1}Feedforward NN}{142}%
+\contentsline {section}{\numberline {24.2}Deep Learning}{148}%
+\contentsline {subsection}{\numberline {24.2.1}Convolution Neural Network}{149}%
+\contentsline {subsection}{\numberline {24.2.2}General infos about Neural Networks}{149}%
