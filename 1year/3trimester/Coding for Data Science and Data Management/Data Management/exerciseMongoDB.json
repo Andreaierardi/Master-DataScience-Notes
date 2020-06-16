@@ -1,0 +1,170 @@
+// mongoimport --db=soccerdb --collection=rosters --file=dbs/roster.json
+
+// mongoimport --db=soccerdb --collection=bets --file=dbs/bets.json
+
+// show dbs
+// use soccerdb
+// show collections
+
+
+/*
+retrieve the matches played in France Ligue 1 by
+FC Nantes as home team
+*/
+db.bets.find(
+  {
+    "league": "France Ligue 1",
+    "country": "France",
+    //  "home_team_name": "FC Nantes"
+    "home_team_name": /.*Nantes.*/
+  },
+  {
+    "_id":0,
+    "home_team_name":1,
+    "away_team_name":1,
+    "home_team_goal":1,
+    "away_team_goal":1
+  }
+);
+
+//1° par is the filtering criteria,
+//2° par is the projection action to the output.
+
+/*
+retrieve the matches played in France Ligue 1 by
+FC Nantes
+*/
+db.bets.find(
+  {
+    "$and":[
+      {"league": "France Ligue 1"},
+      {"country": "France"}
+    ],
+    "$or": [
+      {"home_team_name": /.*Nantes.*/},
+      {"away_team_name": /.*Nantes.*/}
+    ]
+  },
+  {
+    "_id":0,
+    "home_team_name":1,
+    "away_team_name":1,
+    "home_team_goal":1,
+    "away_team_goal":1
+  }
+);
+
+
+/*
+retrieve the matches played in France Ligue 1 by
+FC Nantes in 2008
+*/
+
+db.bets.find(
+  {
+    "$and":[
+      {"league": "France Ligue 1"},
+      {"match_date": { "$gte": new ISODate('2008-01-01') } }
+      {"match_date": { "$lte": new ISODate('2008-12-31') } }
+
+    ],
+    "$or": [
+      {"home_team_name": /.*Nantes.*/},
+      {"away_team_name": /.*Nantes.*/}
+    ]
+  },
+  {
+    "_id":0,
+    "home_team_name":1,
+    "away_team_name":1,
+    "home_team_goal":1,
+    "away_team_goal":1
+  }
+);
+
+
+/* retrieve the matches played in France Ligue 1
+by FC Nantes and AJ Auxerre in 2008
+*/
+db.bets.find(
+  {
+
+    {"league": "France Ligue 1"},
+    "$and":[
+      {"match_date": { "$gte": new ISODate('2008-01-01') } }
+      {"match_date": { "$lte": new ISODate('2008-12-31') } }
+
+    ],
+    "$or": [
+      {"home_team_name": {"$in": ["FC Nantes","AJ Auxerre"] },
+      {"away_team_name": {"$in": ["FC Nantes","AJ Auxerre"] }
+    ]
+  },
+  {
+    "_id":0,
+    "home_team_name":1,
+    "away_team_name":1,
+    "home_team_goal":1,
+    "away_team_goal":1
+  }
+);
+
+
+/* retrieve the matches played in France Ligue 1
+by FC Nantes that have benne quoted by Bet365
+*/
+
+// Since bets are in nested properties, we use "." notation
+db.bets.find(
+  {
+    "league": "France Ligue 1",
+    "bet.Bet365": {"$exists": true},
+    "$or": [
+      {"home_team_name": {"$in": ["FC Nantes","AJ Auxerre"] },
+      {"away_team_name": {"$in": ["FC Nantes","AJ Auxerre"] }
+    ]
+  },
+  {
+    "_id":0,
+    "home_team_name":1,
+    "away_team_name":1,
+    "home_team_goal":1,
+    "away_team_goal":1,
+    "bet.Bet365":1
+  }
+);
+
+/* retrieve the number of matches played in
+the Serie A for each available year
+*/
+
+//Stages of aggregation that we used in Mongodb:
+// $match, $project, $group
+
+// Match - condition for filtering   {"match" : {"league":"Italy Serie A", ...}}
+// Project
+// Group - Aggregation step for match year, then we are summing the number of matches
+// $year extract the year from a given date
+db.bets.aggregate
+(
+  {"$match" : {"league":"Italy Serie A"} },
+  {"$project" : {"_id": 0, "matchyear": {"$year": "$match_date"} } },
+  {"$group": {"_id": "$matchyear","number_of_match":{"$sum": 1} } }
+);
+
+/*
+retrieve the sum of goals scored in 2009 in the SerieA
+*/
+db.bets.aggregate
+(
+  {"$match" : {"league":"Italy Serie A", "$and":
+  [
+    {"match_date": {"$gte": new ISODate('2009-01-01')}},
+    {"match_date": {"$lte": new ISODate('2009-12-31')}}
+
+  ] } },
+  {"$project" : {"_id": 0,
+                "match_year": {"$year": "$match_date"},
+                "match_goals": {"$sum": ["$home_team_goal", "away_team_goal"] } } },
+  {"$group": {"_id": "$match_year","goals":{"$sum": "$match_goals"} } }
+);
