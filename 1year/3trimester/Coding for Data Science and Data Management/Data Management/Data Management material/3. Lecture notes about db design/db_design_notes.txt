@@ -1,0 +1,153 @@
+-- text editors for SQL: notepad, notepad++, sublime
+-- any textual editor is adequate for SQL
+-- please no MS Word 
+
+
+-- db requirements to satisfy
+
+-- A business unit represents a commercial enterprise characterized by name and address (street, postal code, neighborhood, city)
+-- About a city, we know the corresponding country
+-- About a business, we know:
+-- latitude and longitude details
+-- the «stars» featuring the services
+-- the number of received reviews
+
+
+-- given a business, how many addresses? just one
+-- one-to-many association between business and address
+business(id(PK), name, address, stars, review_count, is_active)
+address(id(PK), street, lat, lon, postalcode, neighborhood, city)
+-- one-to-many association between address and city
+city(id(PK), name, country)
+
+
+-- Example of database instance:
+business
+id  | name 	  		| address   
+-------------------------------
+1	  IBM		  	| 2			
+2	  APPLE	  		| 1 		
+3     ZALANDO	  	| 2		
+4	  Bar Mario 	| 4
+5	  Bar Mario 	| 6
+
+
+address
+id(PK)  |street 			| postalcode | neighborhood | city 
+----------------------------------------------
+ 1   	 Appleroad, 12		  235898		Pasadina		1   
+ 2   	 1st street, 1		  483784		Bronx			2	
+ ...
+ 4		 Via Roma, 4		  20312			Lambrate		9
+ ...
+ 6		 Piazza Navona, 38	  00489			NULL			4
+ 
+
+city
+id |name | country
+--------------
+1 	LA		USA
+2	NY		USA
+3	Miami	USA
+4	Rome	ITA
+5	Venice  USA
+6	Venice 	ITA
+...
+9	Milan	ITA
+
+
+-- many-to-many association is defined between business and category
+incat((business, category)PK)
+category(name(PK))
+
+alternative solutions:
+incat.id as PK
+incat.business, incat.category as PK
+
+-- Example of database instance:
+category
+name
+--------
+software
+computer science (cs)
+dressing
+phone
+shoes
+...
+
+
+incat
+business    |   category
+------------------------
+1				software
+2				computer science (CS)
+2				software
+2				phone
+3				dressing
+3 				shoes
+
+
+-- We distinguish between active/inactive businesses
+-- Businesses are classified into categories (multiple categories are possible for a business)
+-- We know the schedule of opening hours of each business. Different opening hours (open/close) of a business are possible along the week days
+
+-- how many records of the table "schedule" are related to each specific record of "business"? many rows, maybe 7 rows
+-- how many records of the table "business" are related to each specific record of "schedule"? just one
+schedule((business, day, open_hour)PK, close_hour)
+
+-- Example of database instance:
+schedule
+business | day | open_hour | close_hour
+------------------------------------
+1			MON   8:00		12:00
+1			MON	  15:00		19:00
+1			TUE	  8:00		19:00
+2			MON	  9:00		15:00
+2			TUE	  8:00		19:00
+...
+
+
+-- SUPERKEYS -- no minimality constraint 
+-- KEYS -- includes the minimality constraint
+-- PRIMARY KEY -- includes the not null constraint
+
+-- A set of services/features can be associated with businesses. A feature has a name and a description (multiple features are possible for a business)
+feature(name(PK), description)
+-- feature(id(PK), name, description)
+service(business, feature)
+-- how many businesses for a feature? many
+-- how many features of a business? many
+
+-- Businesses are reviewed by reviewers by assigning a certain number of stars in the range [1-5]. A business can be reviewed by a certain reviewer multiple times in different dates
+-- About a review, we know the number of users that consider the review as useful/funny/cool
+-- A reviewer is characterized by:
+--- name
+--- date of registration in Yelp
+--- number of submitted reviews 
+--- number of reviews that are considered as useful/funny/cool by other users
+--- number of fans/followers
+--- average number of stars provided in the submitted reviews
+reviewer(id(PK), name, r_date, n_reviews, n_useful, n_funny, n_cool, n_fans, avg_stars)
+review((business, reviewer, r_date)PK, stars, n_useful, n_funny, n_cool)
+
+-- A reviewer can be friend with other reviewers
+-- friend is a self-relationship over reviewer
+friend((reviewer_a, reviewer_b)PK)
+
+friend (asymmetric relation)
+reviewer_a, reviewer_b
+-----------------------
+Reviewer_1 |  Reviewer_2
+Reviewer_1 |  Reviewer_3
+Reviewer_1 |  Reviewer_4
+Reviewer_2 |  Reviewer_3
+Reviewer_3 |  Reviewer_4
+Reviewer_4 |  Reviewer_1
+Reviewer_5 |  Reviewer_1
+
+-- please, extract the friends of Reviewer_1
+extraction 1: get the records where reviewer_a = 'Reviewer_1'
+UNION
+extraction 2: get the records where reviewer_b = 'Reviewer_1'
+
+
