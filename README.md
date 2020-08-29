@@ -47,7 +47,7 @@
        - [Advanced Macroeconomics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) 
   - *Machine Learning, Statistical Learning, Deep Learning and Artificial Intelligence* (total 12 CFU/ECTS):
        - [Machine Learning](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/3trimester/Machine%20Learning%2C%20Statistical%20Learning%2C%20Deep%20Learning%20and%20Artificial%20Intelligence/Machine%20Learning) - Module (6 CFU/ECTS) 
-       - [Statistical Learning, Deep Learning and Artificial Intelligence](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ETCS) 
+       - [Statistical Learning, Deep Learning and Artificial Intelligence](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/3trimester/Machine%20Learning%2C%20Statistical%20Learning%2C%20Deep%20Learning%20and%20Artificial%20Intelligence/Statistical%20Learning%2C%20Deep%20Learning%20and%20Artificial%20Intelligence/Project) - Module (6 CFU/ETCS) 
   -  *Coding for Data Science and Data Management*
        - [Data Management](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/3trimester/Coding%20for%20Data%20Science%20and%20Data%20Management/Data%20Management) - Module (6 CFU/ETCS) 
 
