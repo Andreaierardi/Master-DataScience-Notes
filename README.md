@@ -65,14 +65,16 @@
    - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
        - [Algorithms for Massive Data](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
        - [Cloud and Distributed Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
-       
+     
    - *Advanced multivariate statistics* (total 6 CFU/ECTS):
        - [Advanced multivariate statistics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
+   
    - *Social Network Analysis* (total 6 CFU/ECTS):
        - [Social Network Analysis](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
 - __2° trimester 12 CFU/ECTS__
    - *Knowledge extraction and information retrieval* (total 6 CFU/ECTS):
        - [Knowledge extraction and information retrieval](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
+   
    - *Text mining and sentiment analysis* (total 6 CFU/ECTS):
        - [Text mining and sentiment analysis](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
   
