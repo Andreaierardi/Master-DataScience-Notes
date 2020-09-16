@@ -55,18 +55,27 @@
   - *Short Course Data Science with Prof. Kenett* (total 3 CFU/ECTS)
     - [Short Course](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/Seminars/Short%20Course%20Data%20Science%20Prof.%20Kenett) 
               <br>
-
+<br><br>
 ### 2° Year - 2020/2021  :no_entry:
-- __1° trimester 12 CFU/ECTS__
-    - *Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy* (total 12 CFU/ECTS):
-       - [Cybersecurity and Privacy Preservation Techniques](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
-       - [Digital Security and Privacy](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
+- __1° trimester - 30 CFU/ECTS__
+  - *Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy* (total 6 CFU/ECTS):
+       - [Cybersecurity and Privacy Preservation Techniques](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) :no_entry:
+       - [Digital Security and Privacy](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) :no_entry:
 
-- __2° trimester 12 CFU/ECTS__
-     - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
+   - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
        - [Algorithms for Massive Data](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
        - [Cloud and Distributed Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
-
+       
+   - *Advanced multivariate statistics* (total 6 CFU/ECTS):
+       - [Advanced multivariate statistics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
+   - *Social Network Analysis* (total 6 CFU/ECTS):
+       - [Social Network Analysis](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
+- __2° trimester 12 CFU/ECTS__
+   - *Knowledge extraction and information retrieval* (total 6 CFU/ECTS):
+       - [Knowledge extraction and information retrieval](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
+   - *Text mining and sentiment analysis* (total 6 CFU/ECTS):
+       - [Text mining and sentiment analysis](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
+  
 - __3° trimester - 0 CFU/ECTS__
 
    <br>
