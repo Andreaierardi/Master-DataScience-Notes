@@ -81,7 +81,7 @@
 - __3° trimester - 0 CFU/ECTS__
 
 - __Seminar/Laboratories - 3 CFU/ECTS__ 
-  - *Laboratory: * (total 3 CFU/ECTS)
+  - *Laboratory:* (total 3 CFU/ECTS)
     - [Lab](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) :no_entry:
  
  
