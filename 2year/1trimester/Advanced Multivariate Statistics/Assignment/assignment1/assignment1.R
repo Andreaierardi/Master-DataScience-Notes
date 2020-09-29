@@ -4,19 +4,25 @@
 #=============
 #Part.a) 
 
-library(distr6)
-d = distr6::Uniform$new(lower = 0 , upper = 7)
+f = function(x)
+{
+  (x>=0 & x <= 7) * 1/7
+   
+}
+
+
 #(i)
-integrate(d$pdf, lower = -Inf , upper = Inf)
+integrate(f, lower = -Inf , upper = Inf)
 
 #(ii)
-curve(d)
-plot(d)
+curve(f, from= -5, to= 12)
 
 #(iii)
 #The random variable is X
 
 #(iv)
+library(distr6)
+d = distr6::Uniform$new(lower = 0 , upper = 7)
 d$mgf(t = 1)
 
 
