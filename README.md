@@ -63,20 +63,22 @@
        
 
    - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
-       - [Algorithms for Massive Data](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
-       - [Cloud and Distributed Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
+       - [Security for Cloud Computing] - module (https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) 
+       - [Cloud and Distributed Computing] - module(https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) 
      
    - *Social Network Analysis* (total 6 CFU/ECTS):
        - [Social Network Analysis](https://github.com/Andreaierardi/SocialNetworkAnalysis-project) - (6 CFU/ECTS) 
 - __2° trimester 12 CFU/ECTS__
+   - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
+       - [Algorithms for Massive Dataset] - module (https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) 
    - *Knowledge extraction and information retrieval* (total 6 CFU/ECTS):
        - [Knowledge extraction and information retrieval](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
    
    - *Text mining and sentiment analysis* (total 6 CFU/ECTS):
-       - [Text mining and sentiment analysis](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
+       - [Text mining and sentiment analysis](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) 
    
    - *Fintech* (total 6 CFU/ECTS):
-       - [Fintech Industry](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
+       - [Fintech Industry](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) 
   
 - __3° trimester - 0 CFU/ECTS__
 
