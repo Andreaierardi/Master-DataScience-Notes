@@ -82,11 +82,12 @@
 
 - __Seminar/Laboratories - 3 CFU/ECTS__ 
   - *Laboratory:* (total 3 CFU/ECTS)
-    - [Lab](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) :no_entry:
+    - [LAB: Modelling, Clustering and Forecasting Post Trade data]
  
  
  - __Stage - 3 CFU/ECTS__ 
- 
+   - *Stage:* (total 3 CFU/ECTS)
+    - [Covid19 Forecast evaluation]
  - __Thesis - 3 CFU/ECTS__ 
 
 
