@@ -59,8 +59,8 @@
 ### 2° Year - 2020/2021  :no_entry:
 - __1° trimester - 30 CFU/ECTS__
   - *Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy* (total 6 CFU/ECTS):
-       - [Cybersecurity and Privacy Preservation Techniques](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) :no_entry:
-       - [Digital Security and Privacy](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) :no_entry:
+       - [Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) (6 CFU/ECTS) :no_entry:
+       
 
    - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
        - [Algorithms for Massive Data](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
