@@ -67,8 +67,8 @@
        - [Cloud and Distributed Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) 
      
    - *Social Network Analysis* (total 6 CFU/ECTS):
-       - [Social Network Analysis](https://github.com/Andreaierardi/SocialNetworkAnalysis-project) - (15 CFU/ECTS) 
-- __2° trimester 12 CFU/ECTS__
+       - [Social Network Analysis](https://github.com/Andreaierardi/SocialNetworkAnalysis-project) - (6 CFU/ECTS) 
+- __2° trimester 15 CFU/ECTS__
    - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
        - [Algorithms for Massive Dataset](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) 
       
@@ -90,6 +90,6 @@
  - __Stage - 3 CFU/ECTS__ 
    - *Stage:* (total 3 CFU/ECTS)
       - [Covid19 Forecast evaluation]
- - __Thesis - 3 CFU/ECTS__ 
+ - __Thesis - 9 CFU/ECTS__ 
 
 
