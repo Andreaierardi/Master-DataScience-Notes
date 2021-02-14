@@ -67,7 +67,7 @@
        - [Cloud and Distributed Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) :no_entry:
      
    - *Social Network Analysis* (total 6 CFU/ECTS):
-       - [Social Network Analysis](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
+       - [Social Network Analysis](https://github.com/Andreaierardi/SocialNetworkAnalysis-project) - (6 CFU/ECTS) 
 - __2° trimester 12 CFU/ECTS__
    - *Knowledge extraction and information retrieval* (total 6 CFU/ECTS):
        - [Knowledge extraction and information retrieval](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
