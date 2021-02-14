@@ -57,7 +57,7 @@
               <br>
 <br><br>
 ### 2° Year - 2020/2021  :no_entry:
-- __1° trimester - 30 CFU/ECTS__
+- __1° trimester - 21 CFU/ECTS__
   - *Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy* (total 6 CFU/ECTS):
        - [Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) (6 CFU/ECTS) 
        
@@ -67,7 +67,7 @@
        - [Cloud and Distributed Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) 
      
    - *Social Network Analysis* (total 6 CFU/ECTS):
-       - [Social Network Analysis](https://github.com/Andreaierardi/SocialNetworkAnalysis-project) - (6 CFU/ECTS) 
+       - [Social Network Analysis](https://github.com/Andreaierardi/SocialNetworkAnalysis-project) - (15 CFU/ECTS) 
 - __2° trimester 12 CFU/ECTS__
    - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
        - [Algorithms for Massive Dataset](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) 
@@ -78,7 +78,7 @@
    - *Fintech* (total 6 CFU/ECTS):
        - [Fintech Industry](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) 
   
-- __3° trimester - 0 CFU/ECTS__
+- __3° trimester - 6 CFU/ECTS__
 - *Knowledge extraction and information retrieval* (total 6 CFU/ECTS):
        - [Knowledge extraction and information retrieval](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
 
