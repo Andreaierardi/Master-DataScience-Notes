@@ -87,7 +87,7 @@
  
  - __Stage - 3 CFU/ECTS__ 
    - *Stage:* (total 3 CFU/ECTS)
-    - [Covid19 Forecast evaluation]
+      - [Covid19 Forecast evaluation]
  - __Thesis - 3 CFU/ECTS__ 
 
 
