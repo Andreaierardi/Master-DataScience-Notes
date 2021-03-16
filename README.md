@@ -80,16 +80,17 @@
   
 - __3° trimester - 6 CFU/ECTS__
 - *Knowledge extraction and information retrieval* (total 6 CFU/ECTS):
-       - [Knowledge extraction and information retrieval](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) :no_entry:
+       - [Knowledge extraction and information retrieval](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) 
 
 - __Seminar/Laboratories - 3 CFU/ECTS__ 
   - *Laboratory:* (total 3 CFU/ECTS)
-    - [LAB: Drive Digital Transformation with Data Analytics] with Deloitte
+    - [LAB: Drive Digital Transformation with Data Analytics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) with Deloitte
  
  
  - __Stage - 3 CFU/ECTS__ 
    - *Stage:* (total 3 CFU/ECTS)
-      - [Covid19 Forecast evaluation]
+      - [Covid19 Forecast evaluation](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md)
+      - [Modelling, Clustering and Forecasting Post Trade data](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) at Borsa Italiana (London Stock Exchange Group)
  - __Thesis - 9 CFU/ECTS__ 
 
 
