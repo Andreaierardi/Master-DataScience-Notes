@@ -84,7 +84,7 @@
 
 - __Seminar/Laboratories - 3 CFU/ECTS__ 
   - *Laboratory:* (total 3 CFU/ECTS)
-    - [LAB: Modelling, Clustering and Forecasting Post Trade data]
+    - [LAB: Drive Digital Transformation with Data Analytics] with Deloitte
  
  
  - __Stage - 3 CFU/ECTS__ 
