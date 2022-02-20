@@ -23,7 +23,6 @@
   
 ## Years 2019 - 2021
 
-<p> NB. :no_entry: Courses have not been attended yet </p>
 
 ### 1° year - 2019/2020
 - __1° trimester - 18 CFU/ECTS__
@@ -56,7 +55,7 @@
     - [Short Course](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/Seminars/Short%20Course%20Data%20Science%20Prof.%20Kenett) 
               <br>
 <br><br>
-### 2° Year - 2020/2021  :no_entry:
+### 2° Year - 2020/2021  
 - __1° trimester - 21 CFU/ECTS__
   - *Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy* (total 6 CFU/ECTS):
        - [Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) (6 CFU/ECTS) 
@@ -70,26 +69,26 @@
        - [Social Network Analysis](https://github.com/Andreaierardi/SocialNetworkAnalysis-project) - (6 CFU/ECTS) 
 - __2° trimester 15 CFU/ECTS__
    - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
-       - [Algorithms for Massive Dataset](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) 
+       - [Algorithms for Massive Dataset](https://github.com/Andreaierardi/Market-Basket-Analysis-IMDB) - Module (3 CFU/ECTS) 
       
    - *Text mining and sentiment analysis* (total 6 CFU/ECTS):
-       - [Text mining and sentiment analysis](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) 
+       - [Text mining and sentiment analysis](https://github.com/Andreaierardi/lyrics-emotion-detection) - (6 CFU/ECTS) 
    
    - *Fintech* (total 6 CFU/ECTS):
-       - [Fintech Industry](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) 
+       - [Fintech Industry](https://github.com/Andreaierardi/Fintech-Industry) - (6 CFU/ECTS) 
   
 - __3° trimester - 6 CFU/ECTS__
 - *Knowledge extraction and information retrieval* (total 6 CFU/ECTS):
-       - [Knowledge extraction and information retrieval](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - (6 CFU/ECTS) 
+       - [Knowledge extraction and information retrieval](https://github.com/Andreaierardi/sentiment-puccini) - (6 CFU/ECTS) 
 
 - __Seminar/Laboratories - 3 CFU/ECTS__ 
   - *Laboratory:* (total 3 CFU/ECTS)
-    - [LAB: Drive Digital Transformation with Data Analytics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) with Deloitte
+    - [LAB: Drive Digital Transformation with Data Analytics](https://github.com/Andreaierardi/deloitte-lab) with Deloitte
  
  
  - __Stage - 3 CFU/ECTS__ 
    - *Stage:* (total 3 CFU/ECTS)
-      - [Covid19 Forecast evaluation](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md)
+      - [Covid19 Forecast evaluation](https://github.com/Andreaierardi/Covid-19-Forecast-Evaluation)
       - [Modelling, Clustering and Forecasting Post Trade data](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) at Borsa Italiana (London Stock Exchange Group)
  - __Thesis - 9 CFU/ECTS__ 
 
