@@ -86,7 +86,7 @@
     - [LAB: Drive Digital Transformation with Data Analytics](https://github.com/Andreaierardi/deloitte-lab) with Deloitte
  
  
- - __Stage - 3 CFU/ECTS__ 
+ - __Internships - 3 CFU/ECTS__ 
    - *Stage:* (total 3 CFU/ECTS)
       - [Covid19 Forecast evaluation](https://github.com/Andreaierardi/Covid-19-Forecast-Evaluation)
       - [Modelling, Clustering and Forecasting Post Trade data](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) at Borsa Italiana (London Stock Exchange Group)
