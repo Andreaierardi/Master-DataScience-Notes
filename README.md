@@ -43,7 +43,7 @@
        - [Coding for Data Science - Python language](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/2trimester/Coding%20for%20Data%20Science%20-%20Python%20language/Python) - Module (3 CFU/ECTS) 
 - __3° trimester - 24 CFU/ECTS__
   - *Advanced Microeconomics and Macroeconomics* (total 12 CFU/ECTS):  
-       - [Advanced Macroeconomics](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) 
+       - Advanced Macroeconomics - Module (6 CFU/ECTS) 
   - *Machine Learning, Statistical Learning, Deep Learning and Artificial Intelligence* (total 12 CFU/ECTS):
        - [Machine Learning](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/3trimester/Machine%20Learning%2C%20Statistical%20Learning%2C%20Deep%20Learning%20and%20Artificial%20Intelligence/Machine%20Learning) - Module (6 CFU/ECTS) 
        - [Statistical Learning, Deep Learning and Artificial Intelligence](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/1year/3trimester/Machine%20Learning%2C%20Statistical%20Learning%2C%20Deep%20Learning%20and%20Artificial%20Intelligence/Statistical%20Learning%2C%20Deep%20Learning%20and%20Artificial%20Intelligence/Project) - Module (6 CFU/ETCS) 
@@ -58,12 +58,12 @@
 ### 2° Year - 2020/2021  
 - __1° trimester - 21 CFU/ECTS__
   - *Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy* (total 6 CFU/ECTS):
-       - [Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) (6 CFU/ECTS) 
+       - [Cybersecurity and Privacy Preservation Techniques and Digital Security and Privacy](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/2year/1trimester/Cybersecurity%20and%20Privacy%20Preservation%20Techniques%20and%20Digital%20Security%20and%20Privacy) (6 CFU/ECTS) 
        
 
    - *Algorithms for Massive Data, Cloud and Distributed Computing* (total 12 CFU/ECTS):
-       - [Security for Cloud Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (6 CFU/ECTS) 
-       - [Cloud and Distributed Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) - Module (3 CFU/ECTS) 
+       - [Security for Cloud Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/2year/1trimester/Algorithms%20for%20Massive%20Data%2C%20Cloud%20and%20Distributed%20Computing/Security%20for%20Cloud%20Computing) - Module (6 CFU/ECTS) 
+       - [Cloud and Distributed Computing](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/2year/1trimester/Algorithms%20for%20Massive%20Data%2C%20Cloud%20and%20Distributed%20Computing/Cloud%20and%20Distributed%20Computing) - Module (3 CFU/ECTS) 
      
    - *Social Network Analysis* (total 6 CFU/ECTS):
        - [Social Network Analysis](https://github.com/Andreaierardi/SocialNetworkAnalysis-project) - (6 CFU/ECTS) 
@@ -89,7 +89,7 @@
  - __Internships - 3 CFU/ECTS__ 
    - *Stage:* (total 3 CFU/ECTS)
       - [Covid19 Forecast evaluation](https://github.com/Andreaierardi/Covid-19-Forecast-Evaluation)
-      - [Modelling, Clustering and Forecasting Post Trade data](https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/NOTFOUND.md) at Borsa Italiana (London Stock Exchange Group)
+      - [Modelling, Clustering and Forecasting Post Trade data](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/2year/Laboratories/STAGE%20Borsa%20Italiana) at Borsa Italiana (London Stock Exchange Group)
  - __Thesis - 9 CFU/ECTS__ 
 
 
