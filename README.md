@@ -91,6 +91,6 @@
       - [Covid19 Forecast evaluation](https://github.com/Andreaierardi/Covid-19-Forecast-Evaluation)
       - [Modelling, Clustering and Forecasting Post Trade data](https://github.com/Andreaierardi/Master-DataScience-Notes/tree/master/2year/Laboratories/STAGE%20Borsa%20Italiana) at Borsa Italiana (London Stock Exchange Group)
  - __Thesis - 9 CFU/ECTS__ 
-  - [Social Network Analysis on post trade data: centrality, scale free behavior and resiliency of the networks over time]https://github.com/Andreaierardi/Master-Thesis-SNA-Borsa-Italiana/blob/main/Thesis/Thesis_andrea_ierardi_DSE.pdf))
+      - [Social Network Analysis on post trade data: centrality, scale free behavior and resiliency of the networks over time](https://github.com/Andreaierardi/Master-Thesis-SNA-Borsa-Italiana/blob/main/Thesis/Thesis_andrea_ierardi_DSE.pdf)
 
 
